@@ -1,0 +1,514 @@
+[
+    {
+        "Utterance Name": "utter_first_case_greet",
+        "English Utterance": "Hello my name is Brahma and I'm calling from Navi regarding payment of your outstanding E M I",
+        "old English Utterance": "Hello My name is MAIA and I'm calling from Navi regarding payment of your current month's E M I  .",
+        "old hindi": "नमस्ते, मेरा नाम माया है और मैं नवी से आपके मौजूदा महीने की किस्त के बारे में कॉल कर रही हूँ।\n",
+        "hindi": "नमस्कार मेरा नाम ब्रह्म है और मैं नवी से आपके मासिक किश्त के भुगतान के सम्बन्ध में कॉल कर रहा हूँ",
+        "": "नमस्ते,  मैं नवी से बात कर रही हूँ आपके इस महीने की मासिक किश्त के भुगतान के लिए | "
+    },
+    {
+        "Utterance Name": "utter_first_case_ask_availability",
+        "English Utterance": "Is it good time to speak with you?",
+        "old English Utterance": "Is it good time to speak with you?",
+        "old hindi": "क्या यह आपसे बात करने के लिए उचित समय है?",
+        "hindi": "क्या दो मिनट आपसे बात हो सकती है?",
+        "": "क्या आपसे बात करने के लिए यह उचित समय है?"
+    },
+    {
+        "Utterance Name": "utter_first_case_ask_pay_now",
+        "English Utterance": "Please make the payment now to avoid penalties due to delayed payment.",
+        "old English Utterance": "Would you please make the payment now to avoid any late penalties?",
+        "old hindi": "देरी से भुगतान के जुर्माने से बचने के लिए क्या आप तत्काल अपने किश्त की रकम का भुगतान करेंगे?",
+        "hindi": "कृपया तत्काल अपने मासिक किश्त का भुगतान करें अन्यथा आपको विलम्ब शुल्क देना पड़ेगा।",
+        "": "देरी से भुगतान करने के जुर्माने से बचने के लिए तत्काल ही अपने किश्त की रकम का भुगतान करें।"
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_emi_amount",
+        "English Utterance": "Your E M I of rupees {emi_amount} was due on {due_date}.",
+        "old English Utterance": "Your E M I of {emi_amount} was due on {due_date}.",
+        "old hindi": "आपकी मासिक किश्त {emi_amount} को चुकता करने की आखिरी तारीख {due_date} थी।",
+        "hindi": "आपकी मासिक किश्त जो {emi_amount} रुपये की है उसके भुगतान करने की आखिरी तारीख {due_date} थी।",
+        "": "आपकी मासिक किश्त {emi_amount} को चुकता करने की आखिरी तारीख {due_date} थी।"
+    },
+    {
+        "Utterance Name": "utter_first_case_ask_payment_status",
+        "English Utterance": "Have you made the payment?",
+        "old English Utterance": "Have you made the payment?",
+        "old hindi": "\nक्या आपने अपनी किस्त का भुगतान कर दिया?",
+        "hindi": "क्या आपने अपनी मासिक किस्त का भुगतान कर दिया?",
+        "": "क्या आपने अपनी मासिक किस्त का भुगतान कर दिया?"
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_payment_link",
+        "English Utterance": "I have shared an SMS with payment link on your number. Please pay due amount now and save yourself the penalty due to late payment. I'm waiting for payment confirmation from you.",
+        "old English Utterance": "I have just shared an SMS with payment link on your number. Please make payment while I wait for you here online. Let me know once you've made the payment.",
+        "old hindi": "मैंने अभी आपके नंबर पर भुगतान लिंक एसएमएस के जरिये भेजा है। कृपया तत्काल भुगतान करें और भुगतान करने के बाद इसकी पुष्टि करें। मैं आपके लिए यहां ऑनलाइन प्रतीक्षा कर रही हूँ।",
+        "hindi": "मैंने आपके नंबर पर एक भुगतान लिंक एसएमएस किया है। कृपया तत्काल भुगतान करें और उसके बाद इसकी पुष्टि करें। मैं प्रतीक्षा कर रहा हूँ।",
+        "": "मैंने अभी आपके नंबर पर भुगतान लिंक के लिए एसएमएस भेजा है। कृपया आप तत्काल भुगतान करें तब तक मैं आपके लिए यहां ऑनलाइन इंतज़ार कर रही हूं और भुगतान करने के बाद मुझे बताएं "
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_payment_link_1",
+        "English Utterance": "I have just shared an SMS with payment link on your number. Please make payment before today end of day to avoid late charges and poor cibil score",
+        "old English Utterance": "I have just shared an SMS with payment link on your number. Please make payment before today end of day to avoid late charges and poor cibil score",
+        "old hindi": "मैंने अभी आपके नंबर पर भुगतान लिंक एसएमएस के जरिये भेजा है। कृपया विलंब शुल्क एवं सिबिल स्कोर में गिरावट से बचने के लिए आज दिन के अंत होने से पहले ही अपने किश्त की रकम का भुगतान करें।",
+        "hindi": "मैंने आपके नंबर पर एक भुगतान लिंक एसएमएस किया है। विलंब शुल्क एवं सिबिल स्कोर में गिरावट से बचने के लिए कृपया आज अपने किश्त का भुगतान कर दीजिये। आपका दिन मंगलमय हो।",
+        "": "मैंने अभी आपके नंबर पर भुगतान लिंक के लिए एसएमएस भेजा है। विलंब शुल्क और कम सिबिल स्कोर से बचने के लिए कृपया आज दिन के अंत से पहले भुगतान करें | "
+    },
+    {
+        "Utterance Name": "utter_first_case_thank_you",
+        "English Utterance": "We appreciate your cooperation. May you have a great day.",
+        "old English Utterance": "We highly appreciate your cooperation. May you have a great day. ",
+        "old hindi": "हम आपके सहयोग की भरपूर सराहना करते हैं। आपका दिन मंगलमय हो। ",
+        "hindi": "हम आपके सहयोग की सराहना करते हैं। आपका दिन मंगलमय हो।",
+        "": "हम आपके सहयोग की सराहना करते हैं। आपका दिन मंगलमय हो | "
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_customer_care",
+        "English Utterance": "Please call our customer care on '8'0'1'0'8'3'3'3'3'3' to know more about your query. May you have a great day.",
+        "old English Utterance": "Please call our customer care on +91 '8'0'1'0'8'3'3'3'3'3' to know more about your query. We highly appreciate your cooperation. May you have a great day. ",
+        "old hindi": "अपनी समस्या के बारे में अधिक जानकारी प्राप्त करने के लिए कृपया +91 '8'0'1'0'8'3'3'3'3'3' को कॉल करें। हम आपके सहयोग की भरपूर सराहना करते हैं। आपका दिन मंगलमय हो। ",
+        "hindi": "अपनी समस्या के बारे में अधिक जानकारी प्राप्त करने के लिए कृपया '8'0'1'0'8'3'3'3'3'3' पर कॉल करें। आपका दिन मंगलमय हो।",
+        "": "अपनी समस्या के बारे में अधिक जानकारी के लिए कृपया ९ १  १ २ ३ ४ ५ ६ ७ ८ ९  पर ग्राहक सेवा को कॉल करें। हम आपके सहयोग की सराहना करते हैं। आपका दिन मंगलमय हो | "
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_emi_amount_1",
+        "English Utterance": "As per the records, an amount of {emi_amount} Indian rupees was due on {due_date}. Late payment will attract penalty and negatively impact your cibil score.",
+        "old English Utterance": "As per the available records, amount of {emi_amount} was due on {due_date}. Late payment will attract penalty and negatively impact your cibil score.",
+        "old hindi": "हमारे अभिलेख के अनुसार, मासिक किश्त की धनराशि {emi_amount} को चुकता करने की आखरी तारीख {due_date} थी। देर से भुगतान करने पर आपको जुर्माना लगेगा और इससे आपका सिबिल स्कोर भी कम हो जाएगा।\n\n",
+        "hindi": "हमारे अभिलेख के अनुसार, आपकी मासिक किश्त जो {emi_amount} रुपये है उसके भुगतान करने की आखिरी तारीख {due_date} थी। कृपया तत्काल पेमेंट कीजिये अन्यथा देर से भुगतान करने पर आपको जुर्माना लगेगा और इससे आपका सिबिल स्कोर भी कम हो जाएगा।",
+        "": "हमारे रिकॉर्ड के अनुसार, मासिक किश्त की धनराशि {emi_amount} को चुकता करने की आखरी तारीख {due_date} थी |  देर से भुगतान करने से जुर्माना होगा और ये आपके सिबिल स्कोर को कम करेगा |\n\n"
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_payment_link_2",
+        "English Utterance": "I've shared an SMS with payment link on your number. Please ignore if you have already paid the amount. May you have a great day.",
+        "old English Utterance": "I've shared an SMS with payment link on your number. Please ignore if you have already paid the amount. May you have a great day.",
+        "old hindi": "मैंने अभी आपके नंबर पर भुगतान लिंक एसएमएस के जरिये भेजा है। यदि आपने अपने मौजूदा मासिक किश्त की राशि का भुगतान कर दिया है तो कृपया इस कॉल को नज़रअंदाज़ कर दें। आपका दिन मंगलमय हो।",
+        "hindi": "मैंने आपके नंबर पर एक भुगतान लिंक एसएमएस किया है। यदि आपने अपने मौजूदा मासिक किश्त की राशि का भुगतान कर दिया है तो कृपया इस कॉल को नज़रअंदाज़ कर दें। आपका दिन मंगलमय हो।",
+        "": "मैंने अभी आपके नंबर पर भुगतान लिंक के लिए एसएमएस भेजा है। यदि आपने पहले ही राशि का भुगतान कर दिया है तो कृपया इस पर ध्यान न दें। आपका दिन मंगलमय हो | "
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_payment_date",
+        "English Utterance": "As per your promise, please make the payment before {given_date}. May you've a great day!",
+        "old English Utterance": "As per your promise, please make the payment before end of {given_date}. May you've a great day!",
+        "old hindi": "देरी से भुगतान करने के कारन लगने वाले शुल्क और सिबिल स्कोर में गिरावट से बचने के लिए अपने वादे के मुताबिक कृपया अपना भुगतान {given_date} तारीख के अंत होने से पहले कर दें। आपका दिन मंगलमय हो।",
+        "hindi": "विलम्ब शुल्क और सिबिल स्कोर में गिरावट से बचने के लिए अपने वचन के अनुसार, कृपया {given_date} तक भुगतान कर दें। आपका दिन मंगलमय हो।",
+        "": "कृपया अपना भुगतान {given_date} तारीख के अंत से पहले कर दें | मुझे अपना बहुमूल्य समय देने के लिए आपका धन्यवाद्। आपका दिन मंगलमय हो | "
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_payment_date_1",
+        "English Utterance": "Please make the payment before {end_date} to avoid negative impact on your cibil score. Poor cibil score will lead to disqualification of your future loan applications across every bank. May you've a great day!.",
+        "old English Utterance": "Please make the payment before {end_date} to avoid negative impact on your cibil score. Poor cibil score will lead to disqualification of your future loan applications across every bank. Thank you for sharing your valuable time. May you've a great day!.",
+        "old hindi": "अपने सिबिल स्कोर में गिरावट से बचने के लिए कृपया {end_date} से पहले भुगतान करें | कम सिबिल स्कोर होने से भविष्य में आपके ऋण आवेदनों को अयोग्य ठहराया जायेगा। मुझे अपना बहुमूल्य समय देने के लिए आपका धन्यवाद्। आपका दिन मंगलमय हो | ",
+        "hindi": "अपने सिबिल स्कोर में गिरावट से बचने के लिए कृपया {end_date} से पहले भुगतान कीजिये। कम सिबिल स्कोर होने से भविष्य में आपके ऋण आवेदनों को अयोग्य ठहरा दिया जायेगा।आपका दिन मंगलमय हो ।",
+        "": "अपने सिबिल स्कोर को कम होने से बचाने के लिए कृपया {end_date} से पहले भुगतान करें | कम सिबिल स्कोर से आपके बैंक में भविष्य के ऋण आवेदनों की अयोग्यता हो जाएगी। मुझे अपना बहुमूल्य समय देने के लिए आपका धन्यवाद्। आपका दिन मंगलमय हो | "
+    },
+    {
+        "Utterance Name": "utter_first_case_thank_you_1",
+        "English Utterance": "Thank you for being the star customer of navi. We highly appreciate your cooperation. May you have a great day.",
+        "old English Utterance": "Thank you for being a star customer of navi. We highly appreciate your cooperation. May you have a great day.",
+        "old hindi": "नवी के स्टार ग्राहक होने के लिए धन्यवाद। हम आपके सहयोग की बहुत सराहना करते हैं। आपका दिन मंगलमय हो।",
+        "hindi": "नवी के स्टार ग्राहक होने के लिए धन्यवाद। हम आपके सहयोग की सराहना करते हैं। आपका दिन मंगलमय हो।",
+        "": "नावी के स्टार ग्राहक होने के लिए धन्यवाद। हम आपके सहयोग की बहुत सराहना करते हैं। आपका दिन मंगलमय हो"
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_resend_payment_link",
+        "English Utterance": "I have again shared an SMS with payment link on your number. Please make the payment and let me know once it's done.",
+        "old English Utterance": "I have again shared an SMS with payment link on your number. Please make the payment while I wait for you here online. Let me know once you're done.",
+        "old hindi": "मैंने दोबारा आपके नंबर पर भुगतान लिंक एसएमएस के जरिये भेजा है। कृपया अपने किश्त की रकम का भुगतान अविलम्ब करें और भुगतान करने के बाद इसकी पुष्टि करें। मैं तब तक ऑनलाइन प्रतीक्षा कर रही हूँ।",
+        "hindi": "मैंने दोबारा आपके नंबर पर भुगतान लिंक एसएमएस एसएमएस किया है। कृपया अपने किश्त का भुगतान अविलम्ब करें और भुगतान करने के बाद इसकी पुष्टि करें। मैं आपके लिए एक मिनट प्रतीक्षा कर रहा हूँ।",
+        "": "मैंने दोबारा आपके नंबर पर भुगतान लिंक के लिए एसएमएस भेजा है | कृपया भुगतान करें तब तक मैं आपके लिए यहां ऑनलाइन इंतज़ार कर रही हूं और भुगतान करने के बाद कृपया मुझे बताएं "
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_don't_have_payment_link",
+        "English Utterance": "It might be due to some technical issue. If you don't recieve payment link in next five minutes then please call our customer care on '8'0'1'0'8'3'3'3'3'3' for assistance. Have a great day!",
+        "old English Utterance": "This may be due to some technical issue. If you do not recieve the sms in next 5 minutes then please call our customer care on +91 '8'0'1'0'8'3'3'3'3'3'. Have a great day!",
+        "old hindi": "यह समस्या कुछ तकनीकी कारण से आ रही है। यदि आप अगले 2 मिनट में एसएमएस प्राप्त नहीं करते हैं, तो कृपया हमारे ग्राहक सेवा अधिकारी को +91 '8'0'1'0'8'3'3'3'3'3' पर कॉल करें। आपका दिन मंगलमय हो।",
+        "hindi": "यह समस्या कुछ तकनीकी कारण से आ रही है। यदि आप अगले 2 मिनट में एसएमएस प्राप्त नहीं करते हैं, तो कृपया हमारे ग्राहक सेवा अधिकारी को '8'0'1'0'8'3'3'3'3'3' पर कॉल करें। आपका दिन मंगलमय हो।",
+        "": "ठीक है। मैंने आपको पेमेंट लिंक फिर से भेज दिया है "
+    },
+    {
+        "Utterance Name": "utter_first_case_inform_payment_going_on",
+        "English Utterance": "Sure, let me know once you've made the payment. I'm waiting for your response.",
+        "old English Utterance": "Sure, I'm waiting for your response. Let me know once you've made the payment.",
+        "old hindi": " मैं आपके लिए यहां ऑनलाइन प्रतीक्षा कर रही हूँ। भुगतान पूरा होने के बाद कृपया मुझे बताएं।",
+        "hindi": "मैं आपकी प्रतीक्षा कर रहा हूँ। कृपया भुगतान होने के बाद पुष्टि कीजिये।",
+        "": "निश्चित रूप से, मुझे आपके जवाब का इंतजार रहेगा | भुगतान पूरा होने के बाद कृपया मुझे बताएं "
+    },
+    {
+        "Utterance Name": "utter_second_case_greet",
+        "English Utterance": "Hello my name is Brahma and I'm calling from Navi regarding payment of your outstanding E M I. Have you made the payment?",
+        "old English Utterance": "Hello I'm calling from Navi regarding your current E M I payment. Have you made the payment?",
+        "old hindi": "नमस्ते, {name}!  मेरा नाम माया है और मैं नवी से आपके मौजूदा महीने की किस्त के बारे में कॉल कर रही हूँ। क्या आपने भुगतान कर दिया है?",
+        "hindi": "नमस्कार मेरा नाम ब्रह्म है और मैं नवी से आपके मासिक किश्त के भुगतान के सम्बन्ध में कॉल कर रहा हूँ। क्या आपने भुगतान कर दिया?",
+        "": "नमस्ते, {name}! मैं नावी  से बात कर रही हूँ आपकी मासिक किश्त के भुगतान के लिए | क्या आपने भुगतान कर दिया है ?"
+    },
+    {
+        "Utterance Name": "utter_second_case_inform_emi_amount",
+        "English Utterance": "As per your promise, please pay E M I amount of {emi_amount} Indian Rupees immediately. Let me know once you've made the payment. I'm waiting for confirmation from you.",
+        "old English Utterance": "As per your promise, please pay E M I amount of {emi_amount} immediately using the payment link shared on your number to avoid any late charges and negative impact on cibil score. I'm waiting here online. Let me know once you've made the payment.",
+        "old hindi": "अपने वादे के अनुसार, कृपया अपनी मासिक किश्त की धनराशि जो कि {emi_amount} रुपये है, उसका भुगतान आपके नंबर पर भेजे गए लिंक के द्वारा संपन्न करें। ऐसा करने से आप देरी से भुगतान के शुल्क और सिबिल स्कोर में होने वाली गिरावट से सुरक्षित हो जाएंगे। भुगतान प्रक्रिया संपन्न होने के बाद कृपया इसकी पुष्टि करें।",
+        "hindi": "अपने वादे के अनुसार, कृपया अपनी मासिक किश्त जो {emi_amount} रुपये है, उसका तत्काल भुगतान कीजिए। अभी पेमेंट करने पर आपको विलम्ब शुल्क नहीं लगेगा और सिबिल स्कोर में होने वाली गिरावट से सुरक्षित हो जाएंगे। भुगतान प्रक्रिया संपन्न होने के बाद कृपया इसकी पुष्टि करें। मैं प्रतीक्षा कर रहा हूँ।",
+        "": "अपने वादे के अनुसार, कृपया अपनी मासिक किश्त की धनराशि जो कि {emi_amount} रुपये है, उसका भुगतान आपके नंबर पर भेजे गए लिंक के द्वारा करें  ताकि आप देरी से भुगतान के शुल्क और सिबिल स्कोर कम होने से बच पाएं | भुगतान होने के बाद कृपया मुझे बताएं "
+    },
+    {
+        "Utterance Name": "utter_second_case_ask_delay_reason",
+        "English Utterance": "Please tell me the reason for non payment of your current E M I.",
+        "old English Utterance": "Please tell me the reason for non payment of your current month's E M I.",
+        "old hindi": "कृपया भुगतान ना कर पाने का कारण बताएं?",
+        "hindi": "मुझे कृपया भुगतान ना कर पाने का कारण बताइये?",
+        "": "कृपया आप भुगतान ना करने का कारण बताएं "
+    },
+    {
+        "Utterance Name": "utter_second_case_inform_payment_today",
+        "English Utterance": "As per your promise, please make payment today. Poor cibil score will lead to disqualification of your future loan applications across banks. May you've a great day.",
+        "old English Utterance": "As per your promise, please ensure that the payment is made before today end of day. Poor cibil score will lead to disqualification of your future loan applications across banks. Thank you for sharing your valuable time. May you've a great day.",
+        "old hindi": "कृपया सुनिश्चित करें कि भुगतान प्रक्रिया आज संपन्न हो जाए। कम सिबिल स्कोर से आपके बैंक में भविष्य के ऋण आवेदनों की अयोग्यता हो जाएगी। मुझे अपना बहुमूल्य समय देने के लिए आपका धन्यवाद्। आपका दिन मंगलमय हो। ",
+        "hindi": "कृपया आज भुगतान कर दीजिये। सिबिल स्कोर कम होने पर आपके भविष्य के ऋण आवेदन अयोग्य हो जाएंगे। आपका दिन मंगलमय हो।",
+        "": "कृपया सुनिश्चित करें कि भुगतान आज हो जाए। कम सिबिल स्कोर से आपके बैंक में भविष्य के ऋण आवेदनों की अयोग्यता हो जाएगी। | मुझे अपना बहुमूल्य समय देने के लिए आपका धन्यवाद् । आपका दिन मंगलमय हो | "
+    },
+    {
+        "Utterance Name": "utter_second_case_inform_late_fees",
+        "English Utterance": "There will be an extra charge due to late payment of E M I and your cibil score will be also downgraded. May you have a great day.",
+        "old English Utterance": "There will be a late charge on your loan account and your cibil score will also be downgraded. We highly appreciate your cooperation. May you have a great day.",
+        "old hindi": "आपके लोन अकाउंट पर लेट चार्ज लगेगा और आपका सिबिल स्कोर भी डाउनग्रेड हो जाएगा। हम आपके सहयोग की बहुत सराहना करते हैं। आपका दिन मंगलमय हो",
+        "hindi": "आपके लोन अकाउंट पर विलम्ब शुल्क लगेगा और सिबिल स्कोर कम हो जाएगा। आपका दिन मंगलमय हो।",
+        "": "आपके लोन अकाउंट पर देरी से भुगतान करने के लिए {late_fees} रूपये का शुल्क लगेगा और आपका सिबिल स्कोर की भी कम हो जायेगा | हम आपके सहयोग की बहुत सराहना करते हैं। आपका दिन मंगलमय हो | "
+    },
+    {
+        "Utterance Name": "utter_second_case_inform_late_fees_1",
+        "English Utterance": "There will be an extra charge due to late payment of E M I. Please call our customer support at '8'0'1'0'8'3'3'3'3'3' to know more. May you have a great day.",
+        "old English Utterance": "There will be a late charge on your loan account. Please call our customer support regarding at +91 '8'0'1'0'8'3'3'3'3'3' to know more. I've already sent the payment link on your number. May you have a great day.",
+        "old hindi": "आपके लोन अकाउंट पर लेट चार्ज लगेगा। कृपया हमारे ग्राहक सहायता केंद्र को +91 '8'0'1'0'8'3'3'3'3'3'  पर कॉल करें। मैंने आपके नंबर पर भुगतान लिंक भेज दिया है। आपका दिन मंगलमय हो।",
+        "hindi": "आपके लोन अकाउंट पर विलम्ब शुल्क लगेगा और सिबिल स्कोर कम हो जाएगा। कृपया हमारे ग्राहक सहायता केंद्र को '8'0'1'0'8'3'3'3'3'3' पर कॉल करें। आपका दिन मंगलमय हो।",
+        "": "आपके ऋण खाते पर {late_fees} का विलंब शुल्क लगेगा। कृपया हमारे ग्राहक सहायता केंद्र को + ९ १ १ २ ३ ४ ५ ६ ७ ८ ९ ०  पर कॉल करें।मैंने आपको यह नंबर एसएमएस पर भेज दिया है । आपका दिन मंगलमय हो |"
+    },
+    {
+        "Utterance Name": "utter_second_case_inform_ptp_date",
+        "English Utterance": "As per your promise, please make payment by {given_date} to avoid late charges and poor cibil score.",
+        "old English Utterance": "As per your promise please make payment by {given_date} to avoid late charges and poor cibil score.",
+        "old hindi": "अपने वादे के अनुसार, लेट चार्ज और खराब सिबिल स्कोर से बचने के लिए कृपया {given_date} द्वारा भुगतान करें।",
+        "hindi": "अपने वादे के अनुसार, विलम्ब शुल्क और सिबिल स्कोर में गिरावट से बचने के लिए कृपया {given_date} तक भुगतान करें।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_third_case_greet",
+        "English Utterance": "Hello, my name is Brahma and I'm calling from Navi regarding payment of your missed E M I.",
+        "old English Utterance": "Hello, My name is Maia and I'm calling from Navi regarding your missed E M I payment.",
+        "old hindi": "नमस्ते, {name}! मेरा नाम माया है और मैं नवी से आपके मौजूदा महीने की किस्त चुकता ना होने के कारण कॉल कर रही हूँ।",
+        "hindi": "नमस्कार मेरा नाम ब्रह्म है और मैं नवी से आपके बकाया मासिक किश्त के सम्बन्ध में कॉल कर रहा हूँ।",
+        "": "नमस्ते, {name}! मैं नावी से बात कर रही हूँ आपकी मासिक किश्त जमा ना होने के कारण | "
+    },
+    {
+        "Utterance Name": "utter_third_case_inform_emi",
+        "English Utterance": "You breached the promise to pay E M I amount of {emi_amount} Indian Rupees. Please make the payment now. I'm waiting for your confirmation.",
+        "old English Utterance": "\nYou've breached your promise to pay E M I amount of {emi_amount}. Please make your payment now using the shared payment link on your number to avoid damage to your cibil score. I'm waiting here online for the payment. Please let me know once you've done the payment.\n",
+        "old hindi": "आपने मासिक किश्त की धनराशि जो {emi_amount} रुपये की है, उसका भुगतान करने के अपने वादे को पूरा नहीं किया। सिबिल स्कोर के कम होने से बचने के लिए कृपया अपने मोबाइल नंबर पर भेजे गए लिंक पर तत्काल भुगतान करें। मैं यहाँ ऑनलाइन इंतज़ार कर रही हूँ। भुगतान प्रक्रिया संपन्न होने के बाद कृपया मुझे इसकी पुष्टि करें।",
+        "hindi": "आपने अपने दिए गए वचन के अनुसार अपनी मासिक किश्त {emi_amount} रुपये का भुगतान नहीं किया। कृपया अपने मोबाइल नंबर पर भेजे गए लिंक से तत्काल भुगतान करें। मैं प्रतीक्षा कर रहा हूँ। भुगतान प्रक्रिया संपन्न होने के बाद कृपया मुझे इसकी पुष्टि कीजिए।",
+        "": "आपने मासिक किश्त की धनराशि {emi_amount} का भुगतान करने के वादे को पूरा नहीं किया है। | सिबिल स्कोर के कम होने से बचने के लिए कृपया अभी अपने मोबाइल नंबर पर भेजे गए लिंक पर तुरंत भुगतान करें । मैं यहाँ ऑनलाइन इंतज़ार कर रही हूँ । भुगतान होने के बाद कृपया मुझे बताएं "
+    },
+    {
+        "Utterance Name": "utter_third_case_inform_payment_link",
+        "English Utterance": "Please make payment today to avoid any late charges and damage to your cibil score.",
+        "old English Utterance": "Please make payment before today end of the day to avoid late charges and lower cibil score.",
+        "old hindi": "लेट चार्ज और कम सिबिल स्कोर से बचने के लिए कृपया आज के अंत से पहले भुगतान करें।",
+        "hindi": "विलम्ब शुल्क और सिबिल स्कोर में गिरावट से बचने के लिए कृपया आज के अंत से पहले भुगतान करें।",
+        "": "मैंने अभी आपके नंबर पर भुगतान लिंक एसएमएस भेजा है| देरी से भुगतान के शुल्क और कम सिबिल स्कोर से बचने के लिए कृपया आज के दिन के अंत से पहले भुगतान करें "
+    },
+    {
+        "Utterance Name": "utter_third_case_thank_you",
+        "English Utterance": "We appreciate your cooperation. May you have a great day.",
+        "old English Utterance": "We, at Navi, highly appreciate your cooperation. May you have a great day.",
+        "old hindi": "हम आपके सहयोग की बहुत सराहना करते हैं। आपका दिन मंगलमय हो।",
+        "hindi": "हम आपके सहयोग की सराहना करते हैं। आपका दिन मंगलमय हो।",
+        "": "हम, नावी में, आपके सहयोग की सराहना करते हैं। आपका दिन मंगलमय हो"
+    },
+    {
+        "Utterance Name": "utter_third_case_payment_issue",
+        "English Utterance": "Please call customer care on '8'0'1'0'8'3'3'3'3'3' to know more about your query as today is the last day to make payment for your current E M I. Thank you.",
+        "old English Utterance": "Please call customer care on +91 '8'0'1'0'8'3'3'3'3'3' to know more about your query as today is the last day to make payment for your current E M I. You're requested to make payments before end of day today to avoid late charges and poor cibil score. We highly appreciate your cooperation.",
+        "old hindi": "कृपया अपने प्रश्न के बारे में अधिक जानने के लिए कृपया +91 '1'2'3'4'5'6'7'9'0' पर ग्राहक सेवा को कॉल करें क्योंकि आज आपके वर्तमान ईएम आई के लिए भुगतान करने का अंतिम दिन है। आपसे अनुरोध है कि लेट चार्ज और खराब सिबिल स्कोर से बचने के लिए आज दिन के समाप्त से पहले भुगतान करें। हम आपके सहयोग की बहुत सराहना करते हैं।",
+        "hindi": "कृपया अपने प्रश्न के बारे में अधिक जानने के लिए '8'0'1'0'8'3'3'3'3'3' पर ग्राहक सेवा अधिकारी को कॉल करें क्योंकि आज भुगतान करने का अंतिम दिन है। आपसे अनुरोध है कि आज दिन के समाप्त से पहले भुगतान करें। आपका दिन मंगलमय हो।",
+        "": "आज भुगतान करने का अंतिम दिन है | इसलिये और अधिक जानकारी के लिए कृपया आप हमारे ग्राहक सेवा अधिकरी से +91 '8'0'1'0'8'3'3'3'3'3' पर संपर्क करें | विलंब शुल्क और कम सिबिल स्कोर से बचने के लिए हम आपसे आज दिन समाप्त होने से पहले भुगतान करने का अनुरोध करते हैं । आपका सहयोग सराहनीये है "
+    },
+    {
+        "Utterance Name": "utter_inform_payment_going_on",
+        "English Utterance": "Sure, I'll wait for confirmation from you.",
+        "old English Utterance": "Sure, I'm waiting. Let me know once you're done.",
+        "old hindi": "ठीक है | मैं आपके जवाब का इंतज़ार कर रही हूँ | भुगतान होने के बाद कृपया मुझे इसकी पुष्टि करें।",
+        "hindi": "ठीक है। मैं आपके जवाब का इंतज़ार कर रहा हूँ। भुगतान होने के बाद कृपया मुझे इसकी पुष्टि करें।",
+        "": "ठीक है | मैं आपके जवाब का इंतज़ार कर रही हूँ | भुगतान होने के बाद कृपया मुझे बताएं "
+    },
+    {
+        "Utterance Name": "utter_inform_payment_link_only",
+        "English Utterance": "I have just shared an SMS with payment link on your registered number.",
+        "old English Utterance": "I have just shared an SMS with payment link on your registered number.",
+        "old hindi": "मैंने अभी आपके नंबर पर भुगतान लिंक एसएमएस के जरिये साँझा किया है। ",
+        "hindi": "मैंने अभी आपके नंबर पर भुगतान लिंक एसएमएस किया है।",
+        "": "मैंने अभी आपके नंबर पर भुगतान लिंक के लिए एसएमएस भेजा है।"
+    },
+    {
+        "Utterance Name": "utter_second_case_ask_payment_link",
+        "English Utterance": "I have shared an SMS with payment link on your number. Please make payment now to avoid extra charges due to late payment. Thank you.",
+        "old English Utterance": "I have just shared an SMS with payment link on your number. Please make sure the payment is done today otherwise there will be a late charge on your loan account and your cibil score will also be downgraded. We highly appreciate your cooperation. May you have a great day.",
+        "old hindi": "मैंने अभी आपके नंबर पर भुगतान लिंक सहित एसएमएस भेजा है। आज पेमेंट नहीं करने पर आपके लोन अकाउंट पर लेट चार्ज लगेगा और सिबिल स्कोर कम हो जायेगा। हम आपके सहयोग की आकांक्षा रखते हैं। कृपया समय रहते अपने किश्त को चुकता करें । आपका दिन मंगलमय हो। ",
+        "hindi": "मैंने अभी आपके नंबर पर एसएमएस में भुगतान लिंक भेजा है। आज पेमेंट नहीं करने पर आपके लोन अकाउंट पर विलम्ब शुल्क लगेगा और सिबिल स्कोर कम हो जायेगा। कृपया समय रहते अपने किश्त को भुगतान कीजिए । आपका दिन मंगलमय हो।",
+        "": "मैंने अभी आपके नंबर पर भुगतान लिंक के लिए एसएमएस भेजा है। आज पेमेंट नहीं करने पर आपके लोन अकाउंट पर { } विलम्ब शुल्क लगेगा और सिबिल स्कोर कम हो जायेगा। आपका सहयोग सराहनीये है। आपका दिन मंगलमय हो।  "
+    },
+    {
+        "Utterance Name": "utter_customer_informed_wait",
+        "English Utterance": "Sure, I am waiting for your response",
+        "old English Utterance": "Sure, I am waiting for your response",
+        "old hindi": "ठीक है। मैं आपके जवाब का इंतज़ार कर रही हूँ ।",
+        "hindi": "ठीक है। मैं आपके जवाब का इंतज़ार कर रहा हूँ।",
+        "": "ठीक है। मैं आपके जवाब का इंतज़ार कर रही हूँ "
+    },
+    {
+        "Utterance Name": "utter_customer_no_message",
+        "English Utterance": "Hey, I am waiting for your response",
+        "old English Utterance": "Hey, i am waiting for your response",
+        "old hindi": "हेलो, मैं आपके जवाब का इंतज़ार कर रही हूँ ।",
+        "hindi": "हेलो, मैं आपके जवाब का इंतज़ार कर रहा हूँ ।",
+        "": "हेलो , मैं आपके जवाब का इंतज़ार कर रही हूँ "
+    },
+    {
+        "Utterance Name": "utter_customer_no_message_at_all",
+        "English Utterance": "Sorry, I won't be able to assist unless you tell me the requested information.",
+        "old English Utterance": "Sorry, I won't be able to proceed without requested information. May you've a great day!",
+        "old hindi": "क्षमा करें, मैं आपके उत्तर के बिना आपकी सहायता करने में असमर्थ हूँ। आपका दिन मंगलमय हो।",
+        "hindi": "क्षमा करें, मैं आपके उत्तर के बिना आपकी सहायता करने में असमर्थ हूँ। आपका दिन मंगलमय हो।",
+        "": "क्षमा करें, मैं बिना किसी जवाब के आगे नहीं बढ़ सकती हूँ । धन्यवाद, आपका दिन मंगलमय हो"
+    },
+    {
+        "Utterance Name": "utter_inform_already_shared_payment_link",
+        "English Utterance": "I already shared an SMS with payment link on your number. Please make payment today to avoid late charges and damage to cibil score.",
+        "old English Utterance": "I already shared an SMS with payment link on your number. Please make payment before today end of day to avoid late charges and poor cibil score.",
+        "old hindi": "मैंने आपके नंबर पर भुगतान लिंक एसएमएस के जरिये भेजा है। कृपया लेट चार्ज एवं सिबिल स्कोर में गिरावट से बचने के लिए आज दिन के अंत होने से पहले ही अपने किश्त की रकम का भुगतान करें।",
+        "hindi": "मैंने आपके नंबर पर भुगतान लिंक एसएमएस एसएमएस किया है। विलम्ब शुल्क एवं सिबिल स्कोर में गिरावट से बचने के लिए कृपया आज दिन के अंत होने से पहले अपने किश्त का भुगतान करें। आपका दिन मंगलमय हो।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_ask_how_to_pay",
+        "English Utterance": "I have shared the payment link on your registered number. Please click on the link to complete your payment instantly.",
+        "old English Utterance": "I have shared the payment link on your registered number. Please click on the link to complete your payment. I am waiting here for you. Let me know once you've made the payment.",
+        "old hindi": "मैंने अभी आपके नंबर पर भुगतान लिंक एसएमएस के जरिये भेजा है। कृपया तत्काल भुगतान करें और भुगतान करने के बाद इसकी पुष्टि करें। मैं आपके लिए यहां ऑनलाइन प्रतीक्षा कर रही हूँ।",
+        "hindi": "मैंने आपके नंबर पर भुगतान लिंक एसएमएस एसएमएस किया है। कृपया अपना भुगतान तुरंत पूरा करने के लिए लिंक पर क्लिक कीजिये।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_first_case_wait",
+        "English Utterance": "Let me know once you've made the payment.",
+        "old English Utterance": "Let me know once you've made the payment.",
+        "old hindi": "भुगतान प्रक्रिया संपन्न होने के बाद कृपया मुझे इसकी पुष्टि करें।",
+        "hindi": "भुगतान प्रक्रिया संपन्न होने के बाद कृपया मुझे इसकी पुष्टि करें।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_ask_capability",
+        "English Utterance": "hello, my name is Brahma and I'm calling from Navi regarding payment of your current month's E M I.",
+        "old English Utterance": "hello, my name is Maia and I'm calling from Navi regarding payment of your current month's E M I.",
+        "old hindi": "नमस्ते, मेरा नाम माया है और मैं नवी से आपके मौजूदा महीने की किस्त चुकता ना होने के कारण कॉल कर रही हूँ।",
+        "hindi": "नमस्कार।मैं नवी से आपके मौजूदा मासिक किश्त के भुगतान के सम्बन्ध में कॉल कर रहा हूँ।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_report_noise",
+        "English Utterance": "Please move to a silent environment for better conversation.",
+        "old English Utterance": "please go to silent environment for better experiences",
+        "old hindi": "अच्छे अनुभव के लिए कृपया शांत वातावरण से बात करें",
+        "hindi": "अच्छे अनुभव के लिए कृपया शांत वातावरण से बात करें।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_default",
+        "English Utterance": "Pardon. I did not understand you.",
+        "old English Utterance": "Pardon. I did not understand you.",
+        "old hindi": "क्षमा करें। मै आपको समझ नही पा रही हूँ।",
+        "hindi": "क्षमा करें। मै आपको समझ नही पाया।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_second_case_thank_you",
+        "English Utterance": "We appreciate your cooperation. May you have a great day.",
+        "old English Utterance": "We highly appreciate your cooperation. May you have a great day.",
+        "old hindi": "हम आपके सहयोग की बहुत सराहना करते हैं। आपका दिन मंगलमय हो।",
+        "hindi": "हम आपके सहयोग की सराहना करते हैं। आपका दिन मंगलमय हो।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_inform_account_balance_detail",
+        "English Utterance": "Please call customer care number '8'0'1'0'8'3'3'3'3'3' to know your account balance.",
+        "old English Utterance": "Please call customer care number +91 '8'0'1'0'8'3'3'3'3'3' to know more about your account balance.",
+        "old hindi": "अपने अकाउंट बैलेंस के बारे में अधिक जानकारी के लिए कृपया ग्राहक सेवा नंबर +91 '8'0'1'0'8'3'3'3'3'3' पर कॉल करें ",
+        "hindi": "अपने अकाउंट बैलेंस के बारे में अधिक जानकारी के लिए कृपया ग्राहक सेवा नंबर +91 '8'0'1'0'8'3'3'3'3'3' पर कॉल करें",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_inform_next_due_date",
+        "English Utterance": "To know more about your next E M I due date please go to navi app.",
+        "old English Utterance": "To know more about your next E M I due date please go to navi app",
+        "old hindi": "अपनी आगामी मासिक किश्त को अदा करने की आखिरी तारीख जानने के लिए कृपया नवी ऐप पर जाएं",
+        "hindi": "अपनी आगामी मासिक किश्त को अदा करने की आखिरी तारीख जानने के लिए कृपया नवी ऐप पर जाएं",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_reduce_emi",
+        "English Utterance": "Sorry, I won't be able to assist you with this query. Please call customer care number on '8'0'1'0'8'3'3'3'3'3' to get further assistance",
+        "old English Utterance": "Please call customer care number +91 '8'0'1'0'8'3'3'3'3'3' to know more about your loan account.",
+        "old hindi": "अपने लोन अकाउंट के बारे में अधिक जानकारी के लिए कृपया ग्राहक सेवा नंबर +91 '8'0'1'0'8'3'3'3'3'3' पर कॉल करें",
+        "hindi": "क्षमा करें, मैं इस सम्बन्ध में आपकी सहायता नहीं कर पाऊंगा। अधिक जानकारी के लिए कृपया ग्राहक सेवा नंबर '8'0'1'0'8'3'3'3'3'3' पर कॉल करें। धन्यवाद्",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_change_emi_due_date",
+        "English Utterance": "Sorry, I won't be able to assist you with this query. Please call customer care number on '8'0'1'0'8'3'3'3'3'3' to get further assistance",
+        "old English Utterance": "Please call customer care number +91 '8'0'1'0'8'3'3'3'3'3' to know more about your loan account.",
+        "old hindi": "अपने लोन अकाउंट के बारे में अधिक जानकारी के लिए कृपया ग्राहक सेवा नंबर +91 '8'0'1'0'8'3'3'3'3'3' पर कॉल करें",
+        "hindi": "क्षमा करें, मैं इस सम्बन्ध में आपकी सहायता नहीं कर पाऊंगा। अधिक जानकारी के लिए कृपया ग्राहक सेवा नंबर '8'0'1'0'8'3'3'3'3'3' पर कॉल करें। धन्यवाद्",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_extend_moratorium",
+        "English Utterance": "Sorry, I won't be able to assist you with this query. Please call customer care number on '8'0'1'0'8'3'3'3'3'3' to get further assistance",
+        "old English Utterance": "Please call customer care number +91 '8'0'1'0'8'3'3'3'3'3' to know more about your loan account.",
+        "old hindi": "अपने लोन अकाउंट के बारे में अधिक जानकारी के लिए कृपया ग्राहक सेवा नंबर +91 '8'0'1'0'8'3'3'3'3'3' पर कॉल करें",
+        "hindi": "क्षमा करें, मैं इस सम्बन्ध में आपकी सहायता नहीं कर पाऊंगा। अधिक जानकारी के लिए कृपया ग्राहक सेवा नंबर '8'0'1'0'8'3'3'3'3'3' पर कॉल करें। धन्यवाद्",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_tenure_left",
+        "English Utterance": "To know more about your loan tenure, please go to navi app",
+        "old English Utterance": "To know more about your loan tenure please go to navi app",
+        "old hindi": "अपने ऋण कार्यकाल के बारे में अधिक जानकारी के लिए कृपया नावे ऐप पर जाएं",
+        "hindi": "अपने लोन अवधि के बारे में अधिक जानकारी के लिए कृपया नवी ऐप पर जाएं।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_principle_amt",
+        "English Utterance": "To know more about your loan tenure, please go to navi app",
+        "old English Utterance": "To know more about your loan account please go to navi app",
+        "old hindi": "अपने लोन अकाउंट के बारे में अधिक जानकारी के लिए कृपया नावे ऐप पर जाएं",
+        "hindi": "अपने लोन राशि के बारे में अधिक जानकारी के लिए कृपया नवी ऐप पर जाएं।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_inform_interest_rate",
+        "English Utterance": "To know more about your interest rate, please go to navi app",
+        "old English Utterance": "To know more about your interest rate of your loan account please go to navi app",
+        "old hindi": "अपने लोन अकाउंट के ब्याज दर के बारे में अधिक जानने के लिए कृपया नेवी ऐप पर जाएं",
+        "hindi": "अपने ब्याज दर के बारे में अधिक जानने के लिए कृपया नवी ऐप पर जाएं।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_inform_late_charges",
+        "English Utterance": "There will be an extra charge on your loan account due to late payment.",
+        "old English Utterance": "As per the records, if you miss the payment of monthly instalment, a late charge will be levied.",
+        "old hindi": "अभिलेखों के अनुसार, अगर आप यह मासिक किश्त नहीं जमा कर पाए तो देरी से भुगतान करने के लिए लेट चार्ज लगेगा।",
+        "hindi": "देर से भुगतान के कारण आपके ऋण खाते पर अतिरिक्त शुल्क लगेगा।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_inform_schedule_1",
+        "English Utterance": "Thank you confirming the time. I'll call later",
+        "old English Utterance": "Thank you confirming the time. \nI'll call later",
+        "old hindi": "समय की पुष्टि करने के लिए धन्यवाद। मैं बाद में फ़ोन करूँगा | ",
+        "hindi": "समय की पुष्टि करने के लिए धन्यवाद। मैं बाद में फ़ोन करूँगा।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_ask_next_availability",
+        "English Utterance": "When can we speak next?",
+        "old English Utterance": "When should i call you next?",
+        "old hindi": "आपको पुनः कॉल करने के लिए उचित समय बताएं। ",
+        "hindi": "आपसे दोबारा कब बात होगी?",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_ask_time",
+        "English Utterance": "Please tell me the time.",
+        "old English Utterance": "I have noted the day of calling you. Please help us by telling the time of the call.",
+        "old hindi": "मैने आपको कॉल करने का दिन नोट कर लिया है | क्रिपया कॉल का समय बताकर हमे सहाय करे | ",
+        "hindi": "आपको पुनः कॉल करने के लिए उचित समय बताएं।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_inform_schedule",
+        "English Utterance": "Thank you confirming the time. I'll call later",
+        "old English Utterance": "Thank you confirming the time. \nI'll give you a call on {date}  at {time}.",
+        "old hindi": "समय निर्धारित करने के लिए आपका बहुत बहुत धन्यवाद। मैं आपको {date} {time} पुनः कॉल करुँगी।",
+        "hindi": "समय की पुष्टि करने के लिए धन्यवाद। मैं बाद में फ़ोन करूँगा।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_apology",
+        "English Utterance": "Sorry for the inconvenience caused.",
+        "old English Utterance": "Sorry for the inconvinience.",
+        "old hindi": "आपको हुई असुविधा के लिए मुझे खेद है।",
+        "hindi": "आपको हुई असुविधा के लिए मुझे खेद है।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_thankyou_customer_care_before_5",
+        "English Utterance": "Thank you for speaking to me. You can also reach our customer support at '8'0'1'0'8'3'3'3'3'3' to get further assistance. Have a good day.",
+        "old English Utterance": "Thank you for speaking with me. You can also reach us at +91 '8'0'1'0'8'3'3'3'3'3' for any query. Have a good day",
+        "old hindi": "मुझे अपना बहुमूल्य समय देने के लिए मैं आपका आभार व्यक्त करती हूँ। अपनी किसी भी समस्या के सम्बन्ध में जानकारी प्राप्त करने के लिए आप हमें +91 '8'0'1'0'8'3'3'3'3'3' पर कॉल करके संपर्क कर सकते हैं। आपका दिन मंगलमय हो।",
+        "hindi": "मुझे अपना बहुमूल्य समय देने के लिए आभार। अपनी किसी भी समस्या के सम्बन्ध में जानकारी प्राप्त करने के लिए आप हमें '8'0'1'0'8'3'3'3'3'3' पर कॉल करके संपर्क कर सकते हैं। आपकी शाम मंगलमय हो।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_thankyou_customer_care_after_5",
+        "English Utterance": "Thank you for speaking to me. You can also reach our customer support at '8'0'1'0'8'3'3'3'3'3' to get further assistance. Have a great evening.",
+        "old English Utterance": "Thank you for speaking with me. You can also reach us at +91 '8'0'1'0'8'3'3'3'3'3' for any query. Have a good evening.",
+        "old hindi": "मुझे अपना बहुमूल्य समय देने के लिए मैं आपका आभार व्यक्त करती हूँ। अपनी किसी भी समस्या के सम्बन्ध में जानकारी प्राप्त करने के लिए आप हमें +91 '8'0'1'0'8'3'3'3'3'3' पर कॉल करके संपर्क कर सकते हैं। आपकी शाम मंगलमय हो।",
+        "hindi": "मुझे अपना बहुमूल्य समय देने के लिए आभार। अपनी किसी भी समस्या के सम्बन्ध में जानकारी प्राप्त करने के लिए आप हमें '8'0'1'0'8'3'3'3'3'3' पर कॉल करके संपर्क कर सकते हैं। आपकी शाम मंगलमय हो।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_greet_again",
+        "English Utterance": "Hello, I'm listening.",
+        "old English Utterance": "Hey, I am still online.",
+        "old hindi": "हां मैं यही हूं बताइए |",
+        "hindi": "हां मैं सुन रहा हूं, बताइए।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_confirm_language_support",
+        "English Utterance": "Yes, I can speak in English",
+        "old English Utterance": "",
+        "old hindi": "जी हाँ, मैं हिंदी में आपसे बात कर सकता हूँ।",
+        "hindi": "जी हाँ, मैं हिंदी में आपसे बात कर सकता हूँ।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_confirm_eng_hin_support",
+        "English Utterance": "I can only speak in English and Hindi at the moment.",
+        "old English Utterance": "",
+        "old hindi": "मैं अभी सिर्फ हिंदी एवं अंग्रेजी में आपसे बात कर सकता हूँ।",
+        "hindi": "मैं अभी सिर्फ हिंदी एवं अंग्रेजी में आपसे बात कर सकता हूँ।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_apology_call_back",
+        "English Utterance": "Apologies, I can only speak in English and Hindi at the moment. Our {language} speaking customer support agents will call you back shortly.",
+        "old English Utterance": "",
+        "old hindi": "मुझे क्षमा करें मैं अभी सिर्फ हिंदी एवं अंग्रेजी में आपसे बात कर सकता हूँ। हमारे {language} भाषी ग्राहक सेवा अधिकारी आपसे दुबारा संपर्क करेंगे। आपका दिन मंगलमय हो।",
+        "hindi": "मुझे क्षमा करें मैं अभी सिर्फ हिंदी एवं अंग्रेजी में आपसे बात कर सकता हूँ। हमारे {language} भाषी ग्राहक सेवा अधिकारी आपसे दुबारा संपर्क करेंगे। आपका दिन मंगलमय हो।",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_pay_now_status_recheck",
+        "English Utterance": "can you pay during this call",
+        "old English Utterance": "",
+        "old hindi": "क्या आप इस कॉल के दौरान भुगतान कर सकते हैं?",
+        "hindi": "क्या आप इस कॉल के दौरान भुगतान कर सकते हैं?",
+        "": ""
+    },
+    {
+        "Utterance Name": "utter_language_check",
+        "English Utterance": "would like to continue in the English language",
+        "old English Utterance": "",
+        "old hindi": "क्या आप हिंदी में बात करना चाहेंगे",
+        "hindi": "क्या आप हिंदी में बात करना चाहेंगे",
+        "": ""
+    }
+]

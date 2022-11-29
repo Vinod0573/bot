@@ -1,0 +1,292 @@
+version: "3.4"
+
+services:
+  rasa-core-bengali-sriram:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./models:/app/models
+      - ./constants:/app/constants
+    ports:
+      - "8130:8130"
+    network_mode: "host"
+    command:
+      - -m
+      - rasa
+      - run
+      - --enable-api
+      - -m
+      - models/emi_english/emi_english_core.tar.gz
+      - --endpoints
+      - constants/emi_english/endpoints_core_bengali.yml
+      - --port
+      - "8130"
+      - -vv
+  rasa-core-bengali-sriram1:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./models:/app/models
+      - ./constants:/app/constants
+    ports:
+      - "8131:8131"
+    network_mode: "host"
+    command:
+      - -m
+      - rasa
+      - run
+      - --enable-api
+      - -m
+      - models/emi_english/emi_english_core.tar.gz
+      - --endpoints
+      - constants/emi_english/endpoints_core_bengali.yml
+      - --port
+      - "8131"
+      - -vv
+  # rasa-core-bengali-sriram2:
+  #   image: "tatisudheer/chatbot"
+  #   volumes:
+  #     - ./models:/app/models
+  #     - ./constants:/app/constants
+  #   ports:
+  #     - "8132:8132"
+  #   network_mode: "host"
+  #   command:
+  #     - -m
+  #     - rasa
+  #     - run
+  #     - --enable-api
+  #     - -m
+  #     - models/emi_english/emi_english_core.tar.gz
+  #     - --endpoints
+  #     - constants/emi_english/endpoints_core_bengali.yml
+  #     - --port
+  #     - "8132"
+  #     - -vv
+  # rasa-core-bengali-sriram3:
+  #   image: "tatisudheer/chatbot"
+  #   volumes:
+  #     - ./models:/app/models
+  #     - ./constants:/app/constants
+  #   ports:
+  #     - "8133:8133"
+  #   network_mode: "host"
+  #   command:
+  #     - -m
+  #     - rasa
+  #     - run
+  #     - --enable-api
+  #     - -m
+  #     - models/emi_english/emi_english_core.tar.gz
+  #     - --endpoints
+  #     - constants/emi_english/endpoints_core_bengali.yml
+  #     - --port
+  #     - "8133"
+  #     - -vv
+
+  rasa-actions-bengali-sriram:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./models:/app/models
+      - ./constants:/app/constants
+      - ./actions:/app/actions
+      - ./call_logs.csv:/app/call_logs.csv
+      - ./customer_details.json:/app/customer_details.json
+      - ./customer_details_new.csv:/app/customer_details_new.csv
+      - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+      - "5130:5130"
+    network_mode: "host"
+    command:
+      - -m
+      - rasa
+      - run
+      - actions
+      - --actions
+      - actions.actions
+      - --port
+      - "5130"
+      - -vv
+  rasa-actions-bengali-sriram1:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./models:/app/models
+      - ./constants:/app/constants
+      - ./actions:/app/actions
+      - ./call_logs.csv:/app/call_logs.csv
+      - ./customer_details.json:/app/customer_details.json
+      - ./customer_details_new.csv:/app/customer_details_new.csv
+      - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+      - "5131:5131"
+    network_mode: "host"
+    command:
+      - -m
+      - rasa
+      - run
+      - actions
+      - --actions
+      - actions.actions
+      - --port
+      - "5131"
+      - -vv
+  rasa-actions-bengali-sriram2:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./models:/app/models
+      - ./constants:/app/constants
+      - ./actions:/app/actions
+      - ./call_logs.csv:/app/call_logs.csv
+      - ./customer_details.json:/app/customer_details.json
+      - ./customer_details_new.csv:/app/customer_details_new.csv
+      - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+      - "5132:5132"
+    network_mode: "host"
+    command:
+      - -m
+      - rasa
+      - run
+      - actions
+      - --actions
+      - actions.actions
+      - --port
+      - "5132"
+      - -vv
+  rasa-actions-bengali-sriram3:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./models:/app/models
+      - ./constants:/app/constants
+      - ./actions:/app/actions
+      - ./call_logs.csv:/app/call_logs.csv
+      - ./customer_details.json:/app/customer_details.json
+      - ./customer_details_new.csv:/app/customer_details_new.csv
+      - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+      - "5133:5133"
+    network_mode: "host"
+    command:
+      - -m
+      - rasa
+      - run
+      - actions
+      - --actions
+      - actions.actions
+      - --port
+      - "5133"
+      - -vv
+  # rasa-actions-bengali-sriram4:
+  #   image: "tatisudheer/chatbot"
+  #   environment:
+  #     - PYTHONUNBUFFERED=1
+  #   volumes:
+  #     - ./models:/app/models
+  #     - ./constants:/app/constants
+  #     - ./actions:/app/actions
+  #     - ./call_logs.csv:/app/call_logs.csv
+  #     - ./customer_details.json:/app/customer_details.json
+  #     - ./customer_details_new.csv:/app/customer_details_new.csv
+  #   ports:
+  #     - "5134:5134"
+  #   network_mode: "host"
+  #   command:
+  #     - -m
+  #     - rasa
+  #     - run
+  #     - actions
+  #     - --actions
+  #     - actions.actions
+  #     - --port
+  #     - "5134"
+  #     - -vv
+  # rasa-actions-bengali-sriram5:
+  #   image: "tatisudheer/chatbot"
+  #   environment:
+  #     - PYTHONUNBUFFERED=1
+  #   volumes:
+  #     - ./models:/app/models
+  #     - ./constants:/app/constants
+  #     - ./actions:/app/actions
+  #     - ./call_logs.csv:/app/call_logs.csv
+  #     - ./customer_details.json:/app/customer_details.json
+  #     - ./customer_details_new.csv:/app/customer_details_new.csv
+  #   ports:
+  #     - "5135:5135"
+  #   network_mode: "host"
+  #   command:
+  #     - -m
+  #     - rasa
+  #     - run
+  #     - actions
+  #     - --actions
+  #     - actions.actions
+  #     - --port
+  #     - "5135"
+  #     - -vv
+  # rasa-actions-bengali-sriram6:
+  #   image: "tatisudheer/chatbot"
+  #   environment:
+  #     - PYTHONUNBUFFERED=1
+  #   volumes:
+  #     - ./models:/app/models
+  #     - ./constants:/app/constants
+  #     - ./actions:/app/actions
+  #     - ./call_logs.csv:/app/call_logs.csv
+  #     - ./customer_details.json:/app/customer_details.json
+  #     - ./customer_details_new.csv:/app/customer_details_new.csv
+  #   ports:
+  #     - "5136:5136"
+  #   network_mode: "host"
+  #   command:
+  #     - -m
+  #     - rasa
+  #     - run
+  #     - actions
+  #     - --actions
+  #     - actions.actions
+  #     - --port
+  #     - "5136"
+  #     - -vv
+
+  app_server-bengali-sriram:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./nlu:/app/nlu
+    ports:
+      - "12633:12633"
+    network_mode: "host"
+    command:
+      - nlu/emi_english/app_bengali.py
+
+  nlg_server-bengali-sriram:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./nlg:/app/nlg
+      - ./Sheet1.json:/app/Sheet1.json
+    ports:
+      - "13133:13133"
+    network_mode: "host"
+    command:
+      - nlg/emi_english/nlg_server_bengali.py
+
+  Orchestrator-bengali-sriram:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./Orchestrator/CZ:/app/Orchestrator/CZ
+      - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+      - "7133:7133"
+    network_mode: "host"
+    command:
+      - Orchestrator/CZ/orchestrator_bengali.py

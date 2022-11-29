@@ -1,0 +1,6 @@
+tracker_store:
+    db: 2
+    password: sam@1234
+    type: redis
+    url: localhost
+    record_exp: 300

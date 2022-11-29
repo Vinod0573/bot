@@ -1,0 +1,190 @@
+version: "3.4"
+# sudo docker run -d -p 5672:5672 -e RABBITMQ_DEFAULT_USER=saarthi -e RABBITMQ_DEFAULT_PASS=analytics rabbitmq:3-management
+#
+services:
+#  rabbitmq:
+#    image:  rabbitmq:3-management
+#    container_name: rabbitmq
+#    environment:
+#      RABBITMQ_DEFAULT_USER: saarthi
+#      RABBITMQ_DEFAULT_PASS: analytics
+#    ports:
+#      - 5672:5672
+#      - 15672:15672
+#    healthcheck:
+#      test: [ "CMD", "curl", "-f", "http://localhost:15672" ]
+#      interval: 30s
+#      timeout: 10s
+#      retries: 5
+
+  analytics-sriram-english:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer.py
+      - --endpoints
+      - constants/emi_english/endpoints_core.yml
+
+  analytics-sriram-hindi:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer-hindi.py
+      - --endpoints
+      - constants/emi_english/endpoints_core_hindi.yml
+
+  analytics-sriram-tamil:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer-tamil.py
+      - --endpoints
+      - constants/emi_english/endpoints_core_tamil.yml
+
+  analytics-sriram-telugu:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer-telugu.py
+      - --endpoints
+      - constants/emi_english/endpoints_core_telugu.yml
+
+  analytics-sriram-punjabi:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer-punjabi.py
+      - --endpoints
+      - constants/emi_english/endpoints_core_punjabi.yml
+
+  analytics-sriram-marathi:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer-marathi.py
+      - --endpoints
+      - constants/emi_english/endpoints_core_marathi.yml
+
+  
+  analytics-sriram-malayalam:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer-malayalam.py
+      - --endpoints
+      - constants/emi_english/endpoints_core_malayalam.yml
+
+
+  analytics-sriram-kannada:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer-kannada.py
+      - --endpoints
+      - constants/emi_english/endpoints_core_kannada.yml
+
+  analytics-sriram-bengali:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer-bengali.py
+      - --endpoints
+      - constants/emi_english/endpoints_core_bengali.yml
+
+  analytics-sriram-gujarati:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./constants:/app/constants
+      - ./analytics:/app/analytics
+      - ./call_logs.csv:/app/call_logs.csv
+    environment:
+      - PYTHONUNBUFFERED=1
+    network_mode: "host"
+    command:
+      - analytics/pika-consumer-gujarathi.py
+      - --endpoints
+      - constants/emi_english/endpoints_core_gujarati.yml
+
+
+
+
+  # analytics-avail-finance-kannada:
+  #   image: "tatisudheer/chatbot"
+  #   volumes:
+  #     - ./constants:/app/constants
+  #     - ./analytics:/app/analytics
+  #   environment:
+  #     - PYTHONUNBUFFERED=1
+  #   network_mode: "host"
+  #   command:
+  #     - analytics/pika-consumer-kannada.py
+  #     - --endpoints
+  #     - constants/emi_english/endpoints_core_kannada.yml
+
+#    sheet-schedular-avail-finance-english:
+#      image: "tatisudheer/chatbot"
+#      volumes:
+#        - ./sheetSchedular:/app/sheetSchedular
+#      environment:
+#        - PYTHONUNBUFFERED=1
+#      network_mode: "host"
+#      command:
+#        - sheetSchedular/google_sheet_reader.py
+
+
+
+

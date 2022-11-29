@@ -1,0 +1,30 @@
+[
+    {
+        "phone_number": 12345,
+        "flow_name": "pre_emi"
+    },
+    {
+        "phone_number": 98867,
+        "flow_name": "pre_emi"
+    },
+    {
+        "phone_number": 7977906861,
+        "flow_name": "post_emi"
+    },
+    {
+        "phone_number": 7981882653,
+        "flow_name": "pre_emi"
+    },
+    {
+        "phone_number": 9632116528,
+        "flow_name": "pre_emi"
+    },
+    {
+        "phone_number": 7894427533,
+        "flow_name": "pre_emi"
+    },
+    {
+        "phone_number": 9494034885,
+        "flow_name": "pre_emi"
+    }
+]

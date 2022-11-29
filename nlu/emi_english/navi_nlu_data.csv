@@ -1,0 +1,2058 @@
+intent,english
+ask_payment_link,could you please share the payment link again ?
+ask_payment_link,text me the payment link.
+ask_payment_link,where is the payment link ?
+ask_payment_link,send me the payment link
+ask_payment_link,can you send the payment link
+ask_payment_link,is it possible for you to resend the payment link
+ask_payment_link,what is the payment link?
+ask_payment_link,i need the payment link
+ask_payment_link,can you message the payment link 
+ask_payment_link,whatsapp the payment link to me
+ask_payment_link,send the link to me on my email
+ask_payment_link,share the payment link ASAP
+ask_payment_link,do you mind sending me the payment link
+ask_payment_link,"I want to make the payment, so send me the payment link please"
+ask_payment_link,help me with the payment link please
+ask_payment_link,kindly share the payment link
+ask_payment_link,i want to pay the installment for this month.Where is the payment link?
+ask_payment_link,where can I get the payment link ?
+ask_payment_link,"send the payment link  please,its urgent'"
+ask_payment_link,give me the payment link
+ask_payment_link,I have been asking for the payment link since a lot of time.Send it now please
+ask_payment_link,send the payment link on my whatsapp number
+ask_payment_link,i need help with the payment link.Can you send it to me?
+ask_payment_link,"send me the link , i will pay now"
+ask_payment_link,message me the payment link
+ask_payment_link,i can't find the payment link. please re-send it.
+ask_payment_link,can i get the payment link ?
+ask_payment_link,share the payment link via email please
+ask_payment_link,Resend  link I will pay now
+ask_payment_link,Ping me the link will pay in sometime
+ask_payment_link,Send me the link will pay soon
+ask_payment_link,Message me the payment link will send it now
+ask_payment_link,email me the payment link
+ask_payment_link,Give me the link will pay now
+ask_payment_link,I will pay right away just send me the payment link
+ask_payment_link,Inbox me with the link i will do the payment
+ask_payment_link,Remind me with the payment link i will do payment
+ask_payment_link,Pass me the link will do it right away inform payment delay reason
+ask_payment_link,Can you share the link to another number
+ask_payment_link,Will remit the payment send me the link
+ask_payment_link,Kindly send me the link.I'll pay right away
+ask_payment_link,Please share me the link soon
+ask_payment_link, Where can I find the link?
+ask_payment_link,Will you help me with the link.Please
+ask_payment_link,Mail me the link.I will pay now
+ask_payment_link,I'm not sure I have the link.Can you send me again
+ask_payment_link,Do you mind sending me the payment link again?
+ask_payment_link,Guide me through the payment link
+ask_payment_link,How to pay? Can you help me through the payment link
+ask_payment_link,I will make the payment right away just send me the link
+ask_payment_link,Send me the link to my alternative number. Please.
+ask_payment_link,How about sending me the link again?
+ask_payment_link,Can you leave me msg along with the payment link?
+ask_payment_link,Will you mind sharing the link to my another number
+ask_payment_link,Can you send the link to my whatsapp?
+ask_payment_link,Just resend the link to my number.
+pay_later,I will do it over the weekend
+pay_later,I'll do the payment by EOD.
+pay_later,I'll do the payment in a couple of days.
+pay_later,I'll pay the amount soon.
+pay_later,I'll make the payment by tomorrow
+pay_later,I'll pay the emi sometime this week.
+pay_later,I'll pay the installment by month-end
+pay_later,"I will do the payment as soon as I get free,I'm busy now."
+pay_later,I'll make the payment in sometime
+pay_later,I'll pay the amount within 15 days
+pay_later,In office right now.I'll make the payment as soon as I am home
+pay_later,I'll pay the emi as soon as I get my salary
+pay_later,i will pay the installment by friday
+pay_later,i will pay later
+pay_later,i will pay this month's emi with the next month's installment
+pay_later,I can't pay now.I need sometime
+pay_later,it's not possible for me to pay now.I will pay by next week
+pay_later,"i'm on a vacation right now , i'll pay when i return"
+pay_later,I'll pay the installment in the next couple of hours
+pay_later,"sorry,i'll pay later"
+pay_later,i can't pay today
+pay_later,no i won't be able to pay today.i'll pay later
+pay_later,i will not pay now.I'll do it later
+pay_later, i am not paying now.i'll pay tomorrow
+pay_later,i will be paying later
+pay_later,sorry i can only pay in a few days
+pay_later,yes i will definately pay later
+pay_later,can't pay now
+pay_later,i am going to pay later
+pay_later,i will be paying by this month end
+pay_later,I will pay later
+pay_later,Will pay in sometime
+pay_later,Give me sometime. I'll make it soon
+pay_later,Right now I cannot.Need some more time.
+pay_later,I'll pay later.I'm out of station
+pay_later,Will make the payment very soon.
+pay_later,I may require some more time for the payment.
+pay_later,Right now it is not possible.Will try to do it soon.
+pay_later,I will make the payment as soon as possible.
+pay_later,Payment would be delayed a bit.
+pay_later,There will be delay in the payment because of personal issues.
+pay_later,I will make sure about the payment sooner or later.
+pay_later,"I'm in middle of some work, will do it afterwards"
+pay_later,This time payment will be late.
+pay_later,I will pay EMI a while later
+pay_later,Payment will be done next day
+pay_later,Payment would be done at a later time.
+pay_later,I will make the payment on some other day
+pay_later,Will do the payment another time
+pay_later,I will complete the payment in following few days
+pay_later,Will complete payment sooner
+pay_later,Later on will do the payment.
+pay_later,Will do the payment in following week.
+pay_later,I need a week of time for the payment
+pay_later,Will do the payment as soon as possible.
+pay_later,Will be done with the payment in a mean while
+pay_later,It will take some more time for the complete payment
+pay_later,Need a couple of days for the payment settlement
+pay_later,I would do the payment another day..
+inform_payment_delay_reason,I am busy with office work
+inform_payment_delay_reason,I'm out of town right now and there is network issue here.
+inform_payment_delay_reason,I tried making the payment but there was some network issue.
+inform_payment_delay_reason,There was a family emergency.
+inform_payment_delay_reason,I had a few additional expenses this time
+inform_payment_delay_reason,I'm suffering losses in my business
+inform_payment_delay_reason,you didn't tell me when the payment was due
+inform_payment_delay_reason,I have changed my bank recently. So account activation will take some time
+inform_payment_delay_reason,I lost my job recently
+inform_payment_delay_reason,I'm not well right now
+inform_payment_delay_reason,I don't have enough money to pay the installment
+inform_payment_delay_reason,I had met with an accident
+inform_payment_delay_reason,I am out of work and hence limited cashflow.
+inform_payment_delay_reason,It completely slipped my mind.I'll do it soon
+inform_payment_delay_reason,i thought i paid my last installment
+inform_payment_delay_reason,i'm going through some financial problems
+inform_payment_delay_reason,there was an expected emergency so i'm short on money right now
+inform_payment_delay_reason,i'm in a very low network area currently
+inform_payment_delay_reason,i don't have a job anymore
+inform_payment_delay_reason,"I was sick and couldnt work ,so i didnt get enough salary this month"
+inform_payment_delay_reason,There was a medical emergency in my family for which I had to spend a lot of money
+inform_payment_delay_reason,"i made another investment this month , hence low on liquidity"
+inform_payment_delay_reason,my business didn't make enough profits this month
+inform_payment_delay_reason,couldnt arrange sufficient funds this time
+inform_payment_delay_reason,i have blocked my account due to suspected fraud.activation of new account is taking time
+inform_payment_delay_reason,i did not get any reminder for emi payment this month
+inform_payment_delay_reason,i don't have the funds at the moment
+inform_payment_delay_reason,i was on a business trip
+inform_payment_delay_reason,I have some financial problems right now
+inform_payment_delay_reason,salary for this month hasn't been given yet
+inform_payment_delay_reason,Due to my salary delay I cannot pay now will pay later
+inform_payment_delay_reason,Iam out of country I will pay once Iam back
+inform_payment_delay_reason,Actually I lost Job so pay payment will be delayed
+inform_payment_delay_reason,I am facing problems in business this time emi will be payed later
+inform_payment_delay_reason,I had medical emergencies so will repay emi later
+inform_payment_delay_reason,I am facing business downturn due to low sales so will pay later
+inform_payment_delay_reason,Actually cannot pay this time due to finanical difficulty
+inform_payment_delay_reason,My accounting practices has become mess causing delayed payments
+inform_payment_delay_reason,I will pay later due to loss of job
+inform_payment_delay_reason,I am running low in revenue due to economic crisis so will pay later
+inform_payment_delay_reason,I have health issues so payment will be done later
+inform_payment_delay_reason,Financially I'm not doing well so I'll do the payment later
+inform_payment_delay_reason,I'm having family issues so payment will be delayed
+inform_payment_delay_reason,I will pay later because I have not got the salary yet
+inform_payment_delay_reason,I will  be paying later because something is wrong with my accounting
+inform_payment_delay_reason,Will be making the payment later because I'm out os station
+inform_payment_delay_reason,Due to economic breakdown I have lost job so I will make payment later
+inform_payment_delay_reason,"My net banking is locked, will make the payment when net banking will work"
+inform_payment_delay_reason,My card got blocked due to incorrect pin. So will make payment later
+inform_payment_delay_reason,I have lost money due to sending to incorrect account. I'll make the payment later
+inform_payment_delay_reason,Due to loss of job I will pay EMI later
+inform_payment_delay_reason,I had assumed that Payment has been done already
+inform_payment_delay_reason,I have limited cash due to more expenses
+inform_payment_delay_reason,I'm onto changing the job so will make the payment after joining
+inform_payment_delay_reason,I was not well and having lot of medical expenses
+inform_payment_delay_reason,My auto debit is not working. So will make payment in sometime
+inform_payment_delay_reason,I thought it is debit automatically from salary account
+inform_payment_delay_reason,Did not get reminder of payment due
+inform_payment_delay_reason,I'm out for some emrgency. Will make the payment once I'm back.
+inform_payment_delay_reason,I'm facing financial crisis so will be making payments once I'm sorted with that.
+inform_payment_delay_reason,Link got deleted and Couldn't reach you out.
+inform_dont_have_sms,No message received
+inform_dont_have_sms,I have not got a message 
+inform_dont_have_sms,i can't find the message.Can you re-send it?
+inform_dont_have_sms,I didnt get any message
+inform_dont_have_sms,I dont have the sms
+inform_dont_have_sms,No message found.
+inform_dont_have_sms,no message was delivered to me
+inform_dont_have_sms,I did not receive any message
+inform_dont_have_sms,there is no such message with me
+inform_dont_have_sms,you didn't send me the message ?
+inform_dont_have_sms,"no,i didn't get any message"
+inform_dont_have_sms,i wasn't provided with the message
+inform_dont_have_sms,send the sms again
+inform_dont_have_sms,share the message again. I lost the previous one.
+inform_dont_have_sms,i don't have the message.
+inform_dont_have_sms,"nope, no sms."
+inform_dont_have_sms,i did not get your message.
+inform_dont_have_sms,I have not got a single text from you so far
+inform_dont_have_sms,I deleted the message by mistake.please re send it
+inform_dont_have_sms,i didn't find the message
+inform_dont_have_sms,i didnt get your sms
+inform_dont_have_sms,I cannot find the message
+inform_dont_have_sms,I am unable to find the message
+inform_dont_have_sms,Need the message. I don't have it
+inform_dont_have_sms,I searched for the message.Didn't find it
+inform_dont_have_sms,Don't have the sms
+inform_dont_have_sms,Did not recieve any sms regarding the payment
+inform_dont_have_sms,I was not notified with any payment messages
+inform_dont_have_sms,I did not get any sms on payment updates
+inform_dont_have_sms,Not finding any sms on the payment
+inform_dont_have_sms,I have not got any sms on that
+inform_dont_have_sms,No sms was delivered to me on payment
+inform_dont_have_sms,Couldn't find any sms about the payment
+inform_dont_have_sms,There is no such sms in my inbox
+inform_dont_have_sms,sms got deleted by mistake. Please resend
+inform_dont_have_sms,I have been waiting for update I have not got any notification on that
+inform_dont_have_sms,I haven't recieved any sms yet
+inform_dont_have_sms,Did you notify me with the sms?
+inform_dont_have_sms,I searched the Inbox no sms  was recieved
+inform_dont_have_sms,Are you sure u have sent me the sms
+inform_dont_have_sms,Don't knw why payment sms in not displaying in my Inbox
+inform_dont_have_sms,Searching the sms but not able to find them
+inform_dont_have_sms,I don't have any sms from your side
+inform_dont_have_sms,I'm not finding the sms please resend them
+inform_dont_have_sms,No sms was recieved please do send it again
+inform_dont_have_sms,I haven't a clue about the sms
+inform_dont_have_sms,I have no clue about the sms being recieved
+inform_dont_have_sms,I did not find the sms. Will double check Inbox once.
+inform_dont_have_sms,I was not left with any sms on the payment
+inform_dont_have_sms,I'm sure I did not get any sms from you side
+inform_dont_have_sms,Please resend I'm not finding the sms
+inform_dont_have_sms,I haven't recieved any payment sms from you
+inform_dont_have_sms,I haven't noticed any sms about the payment
+inform_dont_have_sms,Not been shared with any sms
+inform_dont_have_sms,I did not discover any sms from you
+inform_dont_have_sms,I did not see any sms on payment
+inform_dont_have_sms,I did not come across any sms  on payment
+inform_dont_have_payment_link, I have not received the payment link yet
+inform_dont_have_payment_link,I don't have the payment link
+inform_dont_have_payment_link,Didnt get any message with the payment link
+inform_dont_have_payment_link,share the payment link please
+inform_dont_have_payment_link,can you help me with the payment link ?
+inform_dont_have_payment_link,no payment link received
+inform_dont_have_payment_link,i have not got the payment link
+inform_dont_have_payment_link,no i don't have the link
+inform_dont_have_payment_link,can't find the link. please send it again
+inform_dont_have_payment_link,this link has expired.send updated link
+inform_dont_have_payment_link,i didn't get the payment link
+inform_dont_have_payment_link,"no,i don't have the payment link with me"
+inform_dont_have_payment_link,no payment link found
+inform_dont_have_payment_link,share new link.old link is not working
+inform_dont_have_payment_link,wasn't provided with the payment link
+inform_dont_have_payment_link,i did not get any link
+inform_dont_have_payment_link,I cannot find the link
+inform_dont_have_payment_link,link not found anywhere
+inform_dont_have_payment_link,payment link not received
+inform_dont_have_payment_link,not got link for payment
+inform_dont_have_payment_link,this is to inform you that I have not received payment link 
+inform_dont_have_payment_link,payment link is not there
+inform_dont_have_payment_link,no payment link with me
+inform_dont_have_payment_link,looked for the link. I can't find it
+inform_dont_have_payment_link,dont have the link
+inform_dont_have_payment_link,there is no link with me
+inform_dont_have_payment_link,no payment link
+inform_dont_have_payment_link,payment link is absent
+inform_dont_have_payment_link,no link to make payment
+inform_dont_have_payment_link,unable to find link
+inform_dont_have_payment_link,Not finding payment link
+inform_dont_have_payment_link,I dont have payment link
+inform_dont_have_payment_link,Resend the payment link
+inform_dont_have_payment_link,Reshare the payment link
+inform_dont_have_payment_link,I did not get payment link
+inform_dont_have_payment_link,message of payment link got deleted
+inform_dont_have_payment_link,Can you send the payment link again
+inform_dont_have_payment_link,Share the link again
+inform_dont_have_payment_link,Lost the shared payment link
+inform_dont_have_payment_link,I have not recieved any payment link
+inform_dont_have_payment_link,Give me the link again
+inform_dont_have_payment_link,Can you ping me with the payment link
+inform_dont_have_payment_link,I'm not having the new payment link. so share me again with the link
+inform_dont_have_payment_link,Old link is not working. I need new link
+inform_dont_have_payment_link,Not able to find the link at all
+inform_dont_have_payment_link,I did not find the email of the link
+inform_dont_have_payment_link,Provide me the link to my number
+inform_dont_have_payment_link,Redirect me with the link again
+inform_dont_have_payment_link,Send me the new link
+inform_dont_have_payment_link,I will send you the alternate number send link to that number
+inform_dont_have_payment_link,I would like to inform you that I did not get the link
+inform_dont_have_payment_link,Send me the link and notify me
+inform_dont_have_payment_link,Can u just update me with the new link
+inform_dont_have_payment_link,let me know after sending the new link
+inform_dont_have_payment_link,Previous email id is blocked so send link to the new one which I provide
+inform_dont_have_payment_link,Due to network issue I have not got the link at all.
+inform_dont_have_payment_link,Please resend the link to my mail.
+inform_dont_have_payment_link,Do share the link to the alternative number
+inform_dont_have_payment_link,Will you update me with the new link now
+inform_payment_done,Payment done succesfully
+inform_payment_done,payment completed
+inform_payment_done,I have paid the installment
+inform_payment_done,Made the payment.Have you received it?
+inform_payment_done,done with the payment of this month
+inform_payment_done,Payment done.
+inform_payment_done,i have done the payment
+inform_payment_done,i paid the emi for this month
+inform_payment_done,payment for this month has been completed
+inform_payment_done,would like to inform you that i have paid the emi for this month
+inform_payment_done,emi for this month has been transfered
+inform_payment_done,installment for this month has been credited to you
+inform_payment_done,can you confirm the receipt of the installment
+inform_payment_done,transferred my EMI for this month
+inform_payment_done,i have successfully done the payment
+inform_payment_done,paid the necessary amount
+inform_payment_done,Paid the EMI.
+inform_payment_done,done the payment.please check
+inform_payment_done,installment paid
+inform_payment_done,EMI for this month has been paid
+inform_payment_done,loan amount paid for this month
+inform_payment_done,installment payment for this month is done
+inform_payment_done,required amount has been paid.please confirm the payment
+inform_payment_done,payment of this month's EMI is done
+inform_payment_done,paid insallment of this month
+inform_payment_done,payment has been done
+inform_payment_done,completed the payment of this month
+inform_payment_done,this is to inform you that i have paid the emi for this month.Please acknowledge
+inform_payment_done,EMI payment is done
+inform_payment_done,hope you have received EMI for this month
+inform_payment_done,I have done the payment
+inform_payment_done,I have paid the EMI
+inform_payment_done,Successfuly done with the payment
+inform_payment_done,I have finished paying EMI 
+inform_payment_done,I have completed the EMI payment for this month
+inform_payment_done,I'm done with this month installment
+inform_payment_done,This to confirm you that payment is done
+inform_payment_done,I would like to confirm that payment has been made
+inform_payment_done,I have made the payment for this month
+inform_payment_done,I had already made the payment
+inform_payment_done,Payment is already auto-debited
+inform_payment_done,I would like to tell you that payment is already debited
+inform_payment_done,Payment for this month is done now
+inform_payment_done,Would like to confirm that I have paid the EMI
+inform_payment_done,I have transferred the EMI amount
+inform_payment_done,I'm done with payment transfers
+inform_payment_done,This month has been done
+inform_payment_done,I have cleared this month's EMI
+inform_payment_done,Payment has been cleared
+inform_payment_done,I would like to inform you that I have cleared the payment
+inform_payment_done,I would like to confirm you about the payment
+inform_payment_done,I like to inform you about this month's payment clearance
+inform_payment_done,I have done this month's payment. Have you recieved
+inform_payment_done,Just now cleared the payment. Did you recieve?
+inform_payment_done,I have finished with payment Can you confirm me on the same
+inform_payment_done,Already Payment is cleared
+inform_pay_with_other_method,can I pay with a cheque?
+inform_pay_with_other_method,can i do a NEFT?
+inform_pay_with_other_method,i will pay using Gpay 
+inform_pay_with_other_method,can I pay using some other payment method?
+inform_pay_with_other_method,is there any other option to make the payment
+inform_pay_with_other_method,i'm paying in cash 
+inform_pay_with_other_method,will pay from PAYTM
+inform_pay_with_other_method,i'm paying using phonepay upi
+inform_pay_with_other_method,i'll come to the bank and swipe my card
+inform_pay_with_other_method,i will submit a demand draft
+inform_pay_with_other_method,I will pay using some other method
+inform_pay_with_other_method,i would like to pay using paytm
+inform_pay_with_other_method,paying via a cheque
+inform_pay_with_other_method,using google pay to pay the money
+inform_pay_with_other_method,will make payment using PAYTM
+inform_pay_with_other_method,I will pay the EMI using my UPI 
+inform_pay_with_other_method,will use PAYTM to make the payment
+inform_pay_with_other_method,going to pay via google pay
+inform_pay_with_other_method,making payment from my credit card
+inform_pay_with_other_method,using paytm to pay the EMI
+inform_pay_with_other_method,i would like to pay using google pay
+inform_pay_with_other_method,I'll pay the installment in cash
+inform_pay_with_other_method,I'd like to pay with my paytm wallet
+inform_pay_with_other_method,i'd like to do a bank transfer
+inform_pay_with_other_method,I want to pay using google pay
+inform_pay_with_other_method,I will make the payment with a cheque
+inform_pay_with_other_method,Will pay through net banking
+inform_pay_with_other_method,Will make transaction from phonePay
+inform_pay_with_other_method,Okay! will pay through UPI Id
+inform_pay_with_other_method,I will be paying through googlePay
+inform_pay_with_other_method,EMI will be payed from paytm
+inform_pay_with_other_method,I'll do bank transfer for payment
+inform_pay_with_other_method,I'll do digital transaction for payment
+inform_payment_going_on,i'm making the payment now
+inform_payment_going_on,payment is in process
+inform_payment_going_on,i have initiated the payment
+inform_payment_going_on,i'm paying the emi now
+inform_payment_going_on,doing the payment right now
+inform_payment_going_on,i was just making the payment now
+inform_payment_going_on,yes payment is going on now
+inform_payment_going_on,payment has been initiated now
+inform_payment_going_on,yes just started the payment process
+inform_payment_going_on,i am doing the payment
+inform_payment_going_on,paying now
+inform_payment_going_on,paying installment now
+inform_payment_going_on,making the payment now
+inform_payment_going_on,payment is going on
+inform_payment_going_on,doing payment now
+inform_payment_going_on,paying amount right now
+inform_payment_going_on,doing now
+inform_payment_going_on,transfering the money now
+inform_payment_going_on,started the payment now
+inform_payment_going_on,I'm paying the installment
+inform_payment_going_on,I have started the payment process
+inform_payment_going_on,paying EMI now
+inform_payment_going_on,yes paying now
+inform_payment_going_on,doing the payment now
+inform_payment_going_on,just transferring the amount now
+inform_payment_going_on,yes i'm paying now
+inform_payment_going_on,i have initiated the money transfer
+inform_payment_going_on,just started the payment
+inform_payment_going_on,I'm processing the payment
+inform_payment_going_on,Payment is going on
+inform_payment_going_on,I'm doing the payment now
+inform_payment_going_on,I'll process the pament right away
+inform_payment_going_on,Payment process is going on
+inform_payment_going_on,I'm almost done with the payment
+inform_payment_going_on,I'm  going to complete the payment in sometime
+inform_payment_going_on,EMI payment is in process
+inform_payment_going_on,Payment process is under completion
+inform_payment_going_on,Currently working on payment process
+inform_payment_going_on,I'm clearing the payment now
+inform_payment_going_on,"Payment is going on, it will be completed in sometime"
+inform_payment_going_on,On going with the payment completion
+inform_payment_going_on,Completion of payment will happen in sometime
+inform_payment_going_on,Payment is to be finished in a while
+inform_payment_going_on,Process of clearing the payment is going on
+inform_payment_going_on,On going with the EMI payment
+inform_payment_going_on,On going with the payment process
+inform_payment_going_on,Will be getting the payment in sometime soon
+inform_payment_going_on,Payment is going on you will get it soon
+inform_payment_going_on,Process is happening it wil take a while
+inform_payment_going_on,EMI payment is in progress
+inform_payment_going_on,You will be recieving the payment in few minutes
+inform_payment_going_on,Payment progress is happening
+inform_payment_going_on,You will be getting the payment in sometine soon
+inform_payment_going_on,EMI payment is being progress
+inform_payment_going_on,EMI payment is on progress
+inform_payment_going_on,On going with the payment process
+inform_payment_going_on,you will recieve the amount soon
+inform_payment_going_on,you will recive the payment in anytime today
+inform_payment_going_on,Payment is progressing you will be getting in some time
+inform_payment_going_on,Payment is in processing stage
+inform_payment_going_on,PAyment wil be paid in sometime
+inform_issue_in_payment,I'm getting error while making the payment
+inform_issue_in_payment,unable to complete the payment
+inform_issue_in_payment,getting page not found error
+inform_issue_in_payment,the payment link has expired
+inform_issue_in_payment,payment page is crashing while making payment
+inform_issue_in_payment,Did not get OTP after entering details
+inform_issue_in_payment,the payment method is not getting accepted
+inform_issue_in_payment,incorrect link received
+inform_issue_in_payment,"even after entering all details correctly,it says wrong information entered"
+inform_issue_in_payment,made the payment.still showing processing
+inform_issue_in_payment,the site is not compatible with my browser
+inform_issue_in_payment,no payment confirmation received
+inform_issue_in_payment,i keep getting Wallet payment failure
+inform_issue_in_payment,the payment website is down
+inform_issue_in_payment,payment failed
+inform_issue_in_payment,bank server is down
+inform_issue_in_payment,money was deducted but got pop up saying payment failed
+inform_issue_in_payment,"after adding my customer id , it says record not found"
+inform_issue_in_payment,payment page is not loading
+inform_issue_in_payment,page becomes unresponsive after entering payment details
+inform_issue_in_payment,facing network issues
+inform_issue_in_payment,payment link is not working
+inform_issue_in_payment,payment page keeps hanging
+inform_issue_in_payment,payment page is not responding
+inform_issue_in_payment,unable to link paytm wallet
+inform_issue_in_payment,payment processing failed
+inform_issue_in_payment,forgot password and could not reset it
+inform_issue_in_payment, this link is not working
+inform_issue_in_payment,it keeps saying unable to process your request
+inform_issue_in_payment,i don't have proper network
+inform_issue_in_payment,I'm facing some issues in paying the EMI
+inform_issue_in_payment,Payment is getting declined
+inform_issue_in_payment,Not able to make the payment with the link sent by you
+inform_issue_in_payment,Something is wrong with the link
+inform_issue_in_payment,Unable to make the payment
+inform_issue_in_payment,Some issue in auto_debit payment
+inform_issue_in_payment,Unable to open the link sent
+inform_issue_in_payment,It showing payment failed
+inform_issue_in_payment,It is showing server down
+inform_issue_in_payment,Some issue with bank server 
+inform_issue_in_payment,Having some issue in the account
+inform_issue_in_payment,Payment got declined
+inform_issue_in_payment,I have done with the payment but not getting reflected
+inform_issue_in_payment,Not able to complete the transaction
+inform_issue_in_payment,i'm not able to open the link
+inform_issue_in_payment,Payment link is not working
+inform_issue_in_payment,I'm not able to proceed with the payment confirmation
+inform_issue_in_payment,Payment is rejected
+inform_issue_in_payment,Facing some link issues
+inform_issue_in_payment,Link is not directing for the payment
+inform_issue_in_payment,Payment is not happening
+inform_issue_in_payment,I'm not able to complete the payment
+inform_issue_in_payment,Some issue with the network
+inform_issue_in_payment,I'm facing payment issues
+inform_issue_in_payment,Not able to clear the payment from the given link
+inform_issue_in_payment,Given link is not working properly
+inform_issue_in_payment,Bank server is down today causing payment delay
+inform_issue_in_payment,Showing error if I click the link
+inform_issue_in_payment,Link is not directing to the payment page
+inform_issue_in_payment,Not getting the OTP to my number
+inform_issue_in_payment,Payment process is failed
+inform_issue_in_payment,Page is getting hanged during the process of payment
+inform_issue_in_payment,Have some issues in the link
+agree_to_proceed,Yes tell me
+agree_to_proceed,Do tell
+agree_to_proceed,"Yes, I can talk now. "
+agree_to_proceed,I can talk
+agree_to_proceed,Speak
+agree_to_proceed,You tell me
+agree_to_proceed,Tell us more
+agree_to_proceed,Please continue speaking
+agree_to_proceed,Please keep explaining
+agree_to_proceed,"Sure, continue!"
+agree_to_proceed,I can talk to you now.
+agree_to_proceed,"Yes, this is a good time to discuss"
+agree_to_proceed,You tell I'm listening
+agree_to_proceed,Tell 
+agree_to_proceed,"I'm listening to you, tell"
+agree_to_proceed,"Tell me, I am paying attention."
+agree_to_proceed,Tell me what you were saying.
+agree_to_proceed,You can speak
+agree_to_proceed,"I can hear now, you say."
+agree_to_proceed,Yes tell further
+agree_to_proceed,"I am understanding, you keep talking"
+agree_to_proceed,I can talk at the moment
+agree_to_proceed,"Yes, well, speak"
+agree_to_proceed,Tell me your voice is coming clear
+agree_to_proceed,"I can understand the voice, you tell"
+agree_to_proceed,Say what to tell
+agree_to_proceed,It was done. tell further
+agree_to_proceed,"I understand your point, you tell us further."
+agree_to_proceed,"What else you wanted to tell, tell that"
+agree_to_proceed,Yes you speak
+agree_to_proceed,"I'm able to hear, you can tell further"
+agree_to_proceed,"Yes, tell me more about it."
+agree_to_proceed,Okay. next?
+agree_to_proceed,"yes, you may."
+agree_to_proceed,"yes, tell me now"
+agree_to_proceed,Explain further
+agree_to_proceed,You can tell
+agree_to_proceed,Tell ahead
+disagree_to_proceed,I am busy right now
+disagree_to_proceed,don't wanna talk
+disagree_to_proceed,I can't talk right now
+disagree_to_proceed,Don't disturb me
+disagree_to_proceed,Won't be able to talk right now
+disagree_to_proceed,We don't want  to listen now
+disagree_to_proceed,Now is not the right time to talk
+disagree_to_proceed,I won't understand because I'm busy
+disagree_to_proceed,You don't tell now because I don't have time
+disagree_to_proceed,At this time I can't talk
+disagree_to_proceed,Just won't talk
+disagree_to_proceed,Can't talk right now
+disagree_to_proceed,I won't talk right now
+disagree_to_proceed,I don't want to understand right now
+disagree_to_proceed,We're busy so won't be able to talk
+disagree_to_proceed,I don't want to talk
+disagree_to_proceed,I don't want to hear anything right now
+disagree_to_proceed,Don't tell now
+disagree_to_proceed,"Don't bother right now, I'm busy"
+disagree_to_proceed,Don't tell any further
+disagree_to_proceed,Can't talk
+disagree_to_proceed,Can't talk now
+disagree_to_proceed,I just won't talk to anyone
+disagree_to_proceed,We don't want to listen further
+disagree_to_proceed,Don't want to listen now
+disagree_to_proceed,I'm not talking
+disagree_to_proceed,It's hard to talk at the moment
+disagree_to_proceed,I am busy 
+disagree_to_proceed,"No,won't talk right now"
+disagree_to_proceed,"No,can't talk right now"
+disagree_to_proceed,Don't want to know at the moment
+disagree_to_proceed,Don't want to talk further
+disagree_to_proceed,Can't talk on call now
+disagree_to_proceed,Do not want to know further
+disagree_to_proceed,Don't tell now 
+disagree_to_proceed,I'm busy
+disagree_to_proceed,I'm busy so i disagree to continue
+disagree_to_proceed,i don't want to proceed with this call
+agree_to_pay,We will pay it
+agree_to_pay,I remember to pay . I will
+agree_to_pay,I will pay according to my time
+agree_to_pay,I will remember to pay
+agree_to_pay,Yes i will pay
+agree_to_pay,yes i want to pay
+agree_to_pay,I will pay on time
+agree_to_pay,I Have to pay. i will pay
+agree_to_pay,will be done
+agree_to_pay,I will pay before time
+agree_to_pay,I will pay.
+agree_to_pay,"Give me sometime, I will pay."
+agree_to_pay,It will be done 
+agree_to_pay, Will do the payment
+agree_to_pay,"Yes, i will pay it"
+agree_to_pay,I will pay according to the dates
+agree_to_pay,Will pay before the dates
+agree_to_pay,I am ready to do the payment
+agree_to_pay,We have to pay.
+agree_to_pay,I want to pay
+agree_to_pay,"Yes, I am ready to pay"
+agree_to_pay,If you want i can pay now
+agree_to_pay,I can pay immediately
+agree_to_pay,Will pay
+agree_to_pay,I want to pay now
+agree_to_pay,"I will pay, whenever possible"
+agree_to_pay,I want to pay for it
+agree_to_pay,"Yes, I can pay "
+agree_to_pay,I will pay
+agree_to_pay,sure I will pay
+agree_to_pay,i'll remember to pay
+agree_to_pay,I said I will pay
+agree_to_pay,I know I have to pay and I will
+agree_to_pay,yes I will pay the emi
+agree_to_pay,I'll remember to pay the EMI
+agree_to_pay,I will pay
+agree_to_pay,yes I would pay the EMI
+agree_to_pay,"yes, I will pay"
+agree_to_pay,I can pay
+agree_to_pay,i'll pay right away
+agree_to_pay,I will pay before time
+agree_to_pay,"sure, will pay"
+agree_to_pay,i know the date is nearing. I will pay.
+agree_to_pay,"okay, I will pay the EMI"
+agree_to_pay,i'll pay in accordance to the last date
+agree_to_pay,I will make sure to pay
+agree_to_pay,Definitely. I will pay
+disagree_to_pay,"No, I cannot pay today"
+disagree_to_pay,I cannot pay today
+disagree_to_pay,This will not be paid
+disagree_to_pay,I cannot pay now
+disagree_to_pay,Cannot pay
+disagree_to_pay,Will not pay now
+disagree_to_pay,"No, i don't want to pay"
+disagree_to_pay,Will not be able to pay on the future date
+disagree_to_pay,We will not be able to pay this time
+disagree_to_pay,Do not have to pay
+disagree_to_pay,I disagree to pay
+disagree_to_pay,Will not be able to pay this time due to issues
+disagree_to_pay,Cannot pay
+disagree_to_pay,I will not pay
+disagree_to_pay,"I will pay together second time, now I can't"
+disagree_to_pay,Cannot pay right now
+disagree_to_pay,This payment cannot be done
+disagree_to_pay,I cannot pay
+disagree_to_pay,"If I would have been able to pay i would, but this time i can't"
+disagree_to_pay,I cannot pay due to reasons
+disagree_to_pay,I will do it some other time but not now
+disagree_to_pay,Will not be able to pay this payment amount
+disagree_to_pay,"Please understand, cannot pay"
+disagree_to_pay,No money to pay
+disagree_to_pay,Payment cannot be done
+disagree_to_pay,I don't want to pay
+disagree_to_pay,Will not do
+disagree_to_pay,"Will pay it some another time, but not now"
+disagree_to_pay,wont be able to pay
+disagree_to_pay,Cannot pay you  by any means
+disagree_to_pay,I can't pay
+disagree_to_pay,i won't pay now
+disagree_to_pay,I won't be able to make payments
+disagree_to_pay,I will not be able to pay this time
+disagree_to_pay,I don't think i can pay the emi
+disagree_to_pay,I am not willing to pay EMI
+disagree_to_pay,I do not want to pay
+disagree_to_pay,i will not pay the emi this month
+disagree_to_pay,I won't pay the EMI
+disagree_to_pay,I do not intend to pay the EMI
+disagree_to_pay,I don't think i can pay
+disagree_to_pay,I will not pay
+disagree_to_pay,I don't want to give EMI
+disagree_to_pay,Cannot give EMI right now
+disagree_to_pay,EMI will not be paid this time
+disagree_to_pay,I will not pay this time
+disagree_to_pay,This time will not give EMI
+ask_principal_amount,How much loan have I taken?
+ask_principal_amount,What is the loan amount?
+ask_principal_amount,What is the total principle amount?
+ask_principal_amount,What is my original amount?
+ask_principal_amount,How much is the principle amount?
+ask_principal_amount,Is the principle amount still left?
+ask_principal_amount,What is my principle amount?
+ask_principal_amount,Want to know the principle amount
+ask_principal_amount,How much is my principle amount 
+ask_principal_amount,Please indicate the principle amount.
+ask_principal_amount,what's the principle amount?
+ask_principal_amount,principal amount ?
+ask_principal_amount,How much principle amount is approximately?
+ask_principal_amount,How much will this principle amount be mine
+ask_principal_amount,How much more principle amount is to be given?
+ask_principal_amount,What will be the total payment of principle amount?
+ask_principal_amount,What is the principal amount to be paid?
+ask_principal_amount,Now how much will be the principal amount?
+ask_principal_amount,How much of the principle amount will I have to pay ?
+ask_principal_amount,what is the entire principle amount?
+ask_principal_amount,What will be my outstanding principle amount right now
+ask_principal_amount,What is the original amount still to be paid?
+ask_interest_rate,At what rate are you charging from me?
+ask_interest_rate,What is the rate of my loan
+ask_interest_rate,A little detail of interest rate
+ask_interest_rate,How much interest rate is currently being charged on my loan
+ask_interest_rate,Tell me about the interest rate which is charged for my loan
+ask_interest_rate,At what interest rate are you charging current
+ask_interest_rate,Thank you also tell us how much interest is being taken
+ask_interest_rate,"Yes, how much interest have you applied in this loan"
+ask_interest_rate,I want to know about interest rate
+ask_interest_rate,Tell me about the interest 
+ask_interest_rate,How much interest is being taken in this
+ask_interest_rate,Had to ask about the interest rate
+ask_interest_rate,Will you give some information about interest rate
+ask_interest_rate,How much rate of interest is in this
+ask_interest_rate,Yes how much rate of interest
+ask_interest_rate,What is the current interest rate
+ask_interest_rate,What interest rate am i being charged
+ask_interest_rate,Can you tell me something about the current interest rate
+ask_interest_rate,What amount will I get at the current interest rate
+ask_interest_rate,What is the interest rate going on right now
+ask_interest_rate,How much my interest rate will be
+ask_interest_rate,At what interest rate are you giving a loan now
+ask_interest_rate,Need information about current interest rate
+ask_interest_rate,What is my current interest rate
+ask_interest_rate,What is the current rate of interest?
+ask_interest_rate,How much is my interest rate
+ask_interest_rate,This interest rate is currently
+ask_interest_rate,How much interest rate am I currently
+ask_interest_rate,How much or less the current rate of interest is from before
+ask_interest_rate,Where can I see the current interest rate
+ask_interest_rate,At what interest rate is the loan currently granted?
+ask_interest_rate,Wanted information about my interest rate
+ask_interest_rate,What can you tell about the current interest rate
+ask_interest_rate,What is my current interest rate
+ask_interest_rate,What is the interest rate of interest
+ask_interest_rate,When will the current interest rate change?
+ask_interest_rate,What is the interest rate for me
+ask_interest_rate,How much will the interest rate be for me
+ask_interest_rate,When can the current interest rate change
+ask_interest_rate,I had to find the interest rate
+ask_interest_rate,How to know the interest rate
+ask_interest_rate,Why is this current interest rate so high?
+ask_interest_rate,What will be the current interest rate for me
+ask_interest_rate,State the interest rate
+ask_interest_rate,Tell our current interest
+ask_interest_rate,What is my interest rate
+ask_interest_rate,Can you tell me my interest rate
+ask_payment_till_now,I wanted to know how much money I have given to the total so far of home loan
+ask_payment_till_now,I do not remember how much amount I have been given so far… Please tell
+ask_payment_till_now,How much loan have I given?
+ask_payment_till_now,How much balance is left to be paid ..... I had already paid a lot for the loan
+ask_payment_till_now,Please tell how much part of the loan I have paid
+ask_payment_till_now,Tell balance details now
+ask_payment_till_now,How much have I paid yet?
+ask_payment_till_now,How much loan balance is left?
+ask_payment_till_now,What is the payment balance?
+ask_payment_till_now,How much have I paid?
+ask_payment_till_now,How much balance to pay now?
+ask_payment_till_now,How much payment I have left?
+ask_payment_till_now,How much balance account is left
+ask_payment_till_now,How much money have I paid?
+ask_payment_till_now,"After this payment, how much balance will be made"
+ask_payment_till_now,I am paying today. How much more will be left to do now?
+ask_payment_till_now,How much amount of loan is left to be paid?
+ask_payment_till_now,How much balance is left
+ask_payment_till_now,How much will the loan be left after giving today's installment?
+ask_payment_till_now,How much of my loan payment is left now?
+ask_payment_till_now,How much loan is unpaid now?
+ask_payment_till_now,I have given the installment today how much money left to give now
+ask_payment_till_now,How much loan have I paid?
+ask_payment_till_now,What is the amount left for the loan
+ask_payment_till_now,I will pay today how much loan will remain after that
+ask_payment_till_now,How much loan have I made so far?
+ask_payment_till_now,"My father has paid the installment this time, how much loan is left"
+ask_payment_till_now,How much have I paid so far?
+ask_payment_till_now,How much have I paid for Total?
+ask_payment_till_now,How much money is left for the loan to end?
+ask_payment_till_now,How much have I paid this including time?
+ask_payment_till_now,Will you tell me the balance?
+ask_payment_till_now,How much will this payment have to be made and to end the loan?
+ask_payment_till_now,How much more to pay now?
+ask_payment_till_now,How much money have I paid for this loan?
+ask_payment_till_now,How much money have I paid for the loan so far?
+ask_next_due_date,When to pay next
+ask_next_due_date,What is the next date of EMI?
+ask_next_due_date,When is the next payment date?
+ask_next_due_date,What is my next payment date
+ask_next_due_date,How long to pay for the next time?
+ask_next_due_date,When to pay next month?
+ask_next_due_date,When is the next E M I date?
+ask_next_due_date,When is the next payment date?
+ask_next_due_date,When is the next date for payment?
+ask_next_due_date,When is the E M I to be given next month?
+ask_next_due_date,What is my next due date for EMI?
+ask_next_due_date,When do we have to make the next payment
+ask_next_due_date,What is the next date for payment?
+ask_next_due_date,What is the next due date for payment?
+ask_next_due_date,When is the date of payment next month?
+ask_next_due_date,What will be the next date for payment of loan amount?
+ask_next_due_date,What is the due date for this in the next two months?
+ask_next_due_date,payment has to be done next month too. till what day?
+ask_next_due_date,What is my payment date for next week?
+ask_next_due_date,Which day to pay next month?
+ask_next_due_date,When should I pay this installment next month?
+ask_next_due_date,I have not paid this time when can I do it next month?
+ask_next_due_date,Tell pay date of next month
+ask_next_due_date,How much to pay next time and when?
+ask_next_due_date,What day do I have to pay next week?
+ask_next_due_date,What is my next date to pay?
+ask_next_due_date,Do I have to pay next month too? What is the date?
+ask_next_due_date,What is the next date of repayment of this loan?
+ask_next_due_date,What is the next due date?
+ask_next_due_date,When is the next payment date?
+ask_next_due_date,when do I have to pay next?
+ask_next_due_date,next due date?
+ask_next_due_date,next payment cycle is when?
+ask_next_due_date,next emi date will be?
+ask_next_due_date,what is the next date for emi pay?
+ask_next_due_date,what's the emi payment date for next month?
+ask_next_due_date,this month's payment is done. when will it be for next month?
+ask_next_due_date,can you tell due date for next month?
+ask_next_due_date,emi due date for my loan?
+ask_next_due_date,do you know the due date for my emi?
+ask_next_due_date,whats the due date of next emi
+ask_next_due_date,next due date 
+ask_next_due_date,next emi date will be?
+ask_next_due_date,when is next emi date
+ask_next_due_date,due date of next emi 
+ask_next_due_date,whats next due date
+ask_next_due_date,when to pay next emi
+ask_next_due_date,next emi date?
+ask_next_due_date,next EMI due date
+tenure_left,When does the tenure end
+tenure_left,How long is the tenure
+tenure_left,When is the last month for the loan
+tenure_left,When will the loan be over
+tenure_left,How many months are left before the tenure ends
+tenure_left,What is the last loan date
+tenure_left,How long will the loan last
+tenure_left,What is its loan tenure?
+tenure_left,When is the loan going to end?
+tenure_left,How much time is left for the loan to end
+tenure_left,When will the loan end?
+tenure_left,Till when the loan will end?
+tenure_left,How long is my loan
+tenure_left,What month is this loan till
+tenure_left,When is the last date for this loan?
+tenure_left,How much time is left for the loan tenure to end?
+tenure_left,How long is the loan period?
+tenure_left,How much time is left for the tenure to get over?
+tenure_left,How many days are more for the loan?
+tenure_left,When do i have to give a loan now
+tenure_left,What is the last month of loan?
+tenure_left,How many more days will the loan go
+tenure_left,In what time will the loan end?
+tenure_left,What time will be left for the loan tenure to end?
+tenure_left,How many more days will the loan remain?
+tenure_left,When will the loan end?
+tenure_left,When is my loan coming to an end
+tenure_left,How much time will the loan end?
+tenure_left,When can you tell the loan tenure is coming to an end?
+tenure_left,What will be the last month of my loan?
+tenure_left,what time is left for this to over?
+tenure_left,when does this loan end?
+tenure_left,what amount of time is left for this loan to end?
+tenure_left,what time is left for the end of the loan ?
+tenure_left,when will this tenure for loan end?
+tenure_left,how many months left in tenure of loan?
+tenure_left,what is the time left for the loan?
+tenure_left,What is the time left in the loan tenure
+tenure_left,remaining loan tenure
+tenure_left,what time is left on loan tenure?
+reduce_emi,Can  EMI be reduced
+reduce_emi,Can payment for EMI be reduced
+reduce_emi,EMI is more can it be reduced
+reduce_emi,How to reduce EMI
+reduce_emi,Please decrease the emi
+reduce_emi,I have to pay a lot of EMI can you reduce it
+reduce_emi,I can not pay this much EMI please make some changes
+reduce_emi,I can not pay this much EMI
+reduce_emi,We want to reduce the amount of EMI
+reduce_emi,I need a change in EMI amount
+reduce_emi,How low can the EMI be reduced
+reduce_emi,How much money can you reduce in EMI
+reduce_emi,The amount of EMI has been increased without any notifying change it to as much as before
+reduce_emi,How to lower the EMI amount?
+reduce_emi,EMI has to be reduced a bit
+reduce_emi,The EMI amount is higher. Please reduce it
+reduce_emi,I want to change my  EMI amount
+reduce_emi,Can you please reduce the EMI amount?
+reduce_emi,I will not be able to pay such a thick EMI. Please consider reducing it
+reduce_emi,What is the process of reducing EMI
+reduce_emi,I want my EMI to be reduced by 5%
+reduce_emi,I am requesting you to reduce the EMI because it is too much to pay
+reduce_emi,What can I do to reduce EMI
+reduce_emi,I request you to reduce EMI
+reduce_emi,Please I need modification in installment amount
+reduce_emi,I cannot pay such huge amount og EMI
+reduce_emi,Where can I request to change my EMI amount officially
+reduce_emi,Change my EMI amount
+reduce_emi,Can you reduce emi cost?
+reduce_emi,This is generally higher than paying as EMI. Reduce it
+reduce_emi,can you reduce emi?
+reduce_emi,the EMI amount is a lot. please lessen it
+reduce_emi,you will have to decrease the amount of emi
+reduce_emi,reduce the amount of EMI
+reduce_emi,I won't be able to pay so much. reduce the emi
+reduce_emi,emi amount is a lot for me. please reduce it 
+reduce_emi,you would have to reduce the emi cost for it
+reduce_emi,i'd like to have less EMI
+reduce_emi,you can reduce the EMI I think
+change_emi_due_date,How to change emi date
+change_emi_due_date,Need changes in EMI due date
+change_emi_due_date,Need more time for EMI
+change_emi_due_date,Where can emi date  be changed?
+change_emi_due_date,Please change EMi due date
+change_emi_due_date,I request for change in EMI due date
+change_emi_due_date,Wanted to change E M I date
+change_emi_due_date,EMI is due date is already passed out Please change the due date
+change_emi_due_date,In prior I'm notifying you that I won't be able to make payment on due date
+change_emi_due_date,I forgot the due date and it has to be payed very soon. Please change the due date
+change_emi_due_date,Can I change my E M I due date
+change_emi_due_date,Extend the EMI due date to someother time
+change_emi_due_date,Change the EMI date to some other day
+change_emi_due_date,I want E M I due dates to be changed
+change_emi_due_date,I need more time to pay the EMI. Please change the due date
+change_emi_due_date,Can you help me change the date of EMI
+change_emi_due_date,I had changed the EMI date previously. But not reflecting
+change_emi_due_date,How can I change the E M I date
+change_emi_due_date,Reschedule my EMI due date as I won't be able to pay
+change_emi_due_date,How to change emi due date
+change_emi_due_date,Can there be a date change of EMI?
+change_emi_due_date,I wont be able to make the payment so early.Please change the due date
+change_emi_due_date,How to change this E M I paying date
+change_emi_due_date,I need a change in E M I date due to corona
+change_emi_due_date,I want to shift the E M I date ahead
+change_emi_due_date,Can I have an option of changing the due date?
+change_emi_due_date,Payment cannot be done this time.Please give some extension in the due date
+change_emi_due_date,Will I be able to change EMI due date
+change_emi_due_date,Will it be possible to have some changes in due date
+change_emi_due_date,Help me out with the change in the EMI due date
+change_emi_due_date,Can you tell me the process of changing the EMI due date
+change_emi_due_date,Kindly help me out in changing the EMI due date
+change_emi_due_date,Could you please tell me how to make changes in EMI due date
+change_emi_due_date,What is the procedure for changing the EMI due date
+change_emi_due_date,It will take time to pay the E M I so change it.
+change_emi_due_date,It is not possible to make the payment. Please extend my EMI due date
+change_emi_due_date,My E M I due date has to be changed again
+change_emi_due_date,Where can I make changes to E M I due dates
+change_emi_due_date,emi due date needs to be changed
+change_emi_due_date,Can you change my EMI due to another day?
+change_emi_due_date,shift the emi date
+change_emi_due_date,emi due date is too early. please change it
+change_emi_due_date,can you change the emi date for me?
+change_emi_due_date,change the emi date to next cycle
+change_emi_due_date,i have some other bills so please change the emi due date
+change_emi_due_date,i want a change in emi due date
+change_emi_due_date,change emi due date
+ask_late_fees,What is the late fee?
+ask_late_fees,"If I delay the payment, will i have to pay the late fee also?"
+ask_late_fees,Is there any fine on late payment?
+ask_late_fees,What will be the late fee on paying late?
+ask_late_fees,How much fine do I have to pay?
+ask_late_fees,"My payment is late, how much fine will it take this time?"
+ask_late_fees,If the payment is late for the first time will there be any fine?
+ask_late_fees,"I didn't remember the payment date, will I have to pay fine?"
+ask_late_fees,I wanted to know the late fees
+ask_late_fees,How much will the late fine be this time?
+ask_late_fees,"The payment will be late this time, what will be the fine?"
+ask_late_fees,Can you tell me how much late fee I have to pay?
+ask_late_fees,What is the amount of late fine
+ask_late_fees,"I will pay, how much is the fine?"
+ask_late_fees,"The fine from first time is also left, what is the total fine?"
+ask_late_fees,How much is the fee for late payment?
+ask_late_fees,what will be late fee for this
+ask_late_fees,How much will my fine be after paying two days late?
+ask_late_fees,How much is my fine?
+ask_late_fees,How much is the late fees?
+ask_late_fees,How much extra money is required to be paid after payment date?
+ask_late_fees,What are the late charges?
+ask_late_fees,How much is late fine?
+ask_late_fees,I forgot to pay on time. what will be the late fees?
+ask_late_fees,Please tell the late fees
+ask_late_fees,Is there any late fees?
+ask_late_fees,How long do you have to pay late fees?
+ask_late_fees,How long can you give late fine?
+ask_late_fees,Is late payment have extra fine?
+ask_late_fees,Do you charge fine for paying late?
+ask_late_fees,How much is the late fine?
+ask_late_fees,How much late fees have to be paid
+ask_late_fees,What will be the late fee?
+ask_late_fees,I am few days late for payment. any late fee?
+ask_late_fees,What if I wont  give late fee if there is any?
+ask_late_fees,why is there late fees?
+ask_late_fees,do you take late fees for paying EMI a day late?
+ask_late_fees,how much late fees do I have to pay?
+ask_late_fees,why is late fees so much?
+ask_late_fees,cost of late fees?
+ask_late_fees,How much will I have to pay for late fee?
+ask_late_fees,Will late fee be charged too much?
+ask_late_fees,How much will they charge me as late fee?
+ask_late_fees,What if I forgot to pay late fee?
+ask_late_fees,Will late fee cost me more?
+ask_late_fees,How you make late fee payments?
+ask_late_fees,Need few info on late fee?
+ask_late_fees,How do I get info about late fee?
+ask_late_fees,Will I be informed about late fee?
+ask_late_fees,on what basis  late fee charges are put?
+inform_do_not_call,Don't call I'll see later
+inform_do_not_call,No need to call
+inform_do_not_call,Don't call again and again
+inform_do_not_call,"Don't call now, I'm busy"
+inform_do_not_call,No need to call I remember
+inform_do_not_call,don't call us now please
+inform_do_not_call,"One  call is enough, don't disturb again and again"
+inform_do_not_call,Don't call continously and disturb
+inform_do_not_call,Don't call now because I'm busy
+inform_do_not_call,I'm in the meeting so don't call
+inform_do_not_call,Don't call right now because I'm doing another job
+inform_do_not_call,Who calls so often? Don't call now
+inform_do_not_call,Stop bothering by calling us
+inform_do_not_call,Please stop making unnecessary calls
+inform_do_not_call,Let's not call any further
+inform_do_not_call,Don't call
+inform_do_not_call,You've disturbed us by calling again and again. Don't call now because we won't talk now
+inform_do_not_call,Don't call this number from now on
+inform_do_not_call,"Listen, don't call now"
+inform_do_not_call,Don't call daily
+inform_do_not_call,Now not a single call should come from your side
+inform_do_not_call,Don't call for payment again and again. I remember i will pay
+inform_do_not_call,Don't call me now until tomorrow
+inform_do_not_call,Stop making these calls you guys
+inform_do_not_call,I don't want to talk further on this so don't call
+inform_do_not_call,Can you stop calling? It is disturbing
+inform_do_not_call,Can you stop calling
+inform_do_not_call,Will you stop calling? I do remember
+inform_do_not_call,Please don't call me
+inform_do_not_call,do not call me
+inform_do_not_call,Don't call me now
+inform_do_not_call,please don't call
+inform_do_not_call,Call me someother time. I'm busy now
+inform_do_not_call,do not call and disturb
+inform_do_not_call,don't call. I am in middle of other work
+inform_do_not_call,Call me later I'm busy right now
+inform_do_not_call,better don't call at his time 
+inform_do_not_call,This is not right time to discuss. call me later
+inform_do_not_call,Please call me in some other time
+inform_do_not_call,I'm at office call me later.
+inform_call_later,Call anytime else
+inform_call_later,I'll listen to you some other time 
+inform_call_later,Talk some other time
+inform_call_later,Tell it some other day
+inform_call_later,Call later
+inform_call_later,You call some other day
+inform_call_later,Tell some other day
+inform_call_later,Talk about it later someday
+inform_call_later,Discuss this some other time
+inform_call_later,Please call some more time.
+inform_call_later,This is not the best time to talk. Call later
+inform_call_later,Please call later
+inform_call_later,I can talk to you later.
+inform_call_later,I will talk later when I have time.
+inform_call_later,I'll talk later.
+inform_call_later,Call later when I'm free.
+inform_call_later,Call me in the evening some other day.
+inform_call_later,Call me in some other time because I have a meeting
+inform_call_later,call me in a while
+inform_call_later,Call some other time
+inform_call_later,call me later 
+inform_call_later,Talk about this some other time
+inform_call_later,Please call me at another time 
+inform_call_later,"Can talk in the day,call me then"
+inform_call_later,"Call in the day some time, we'll see then"
+inform_call_later,Call me later in the evening then we'll talk
+inform_call_later,Tell us about it later by calling
+inform_call_later,"Can talk only in the day,call me later then"
+inform_call_later,We'll talk later
+inform_call_later,"Yes, call later in the morning. Can talk then"
+inform_call_later,let's talk some other time
+inform_call_later,let's talk some other day
+inform_call_later,Call me later
+inform_call_later,Call at a later time
+inform_call_later,call me later in a while
+inform_call_later,you can call later
+inform_call_later,call some time later
+inform_call_later,you may call in some other time
+inform_call_later,I'll be free later please call then
+inform_call_later,Please do call me later
+inform_wrong_info,This information is wrong
+inform_wrong_info,My monthly installment is not this much
+inform_wrong_info,You are giving wrong information
+inform_wrong_info,You are telling wrong date
+inform_wrong_info,You are telling wrong EMI
+inform_wrong_info,"No, that's wrong, I have no amount left"
+inform_wrong_info,"No, you are telling wrong"
+inform_wrong_info,I have not taken the loan
+inform_wrong_info,Loan amount is not right
+inform_wrong_info,My loan is complete now
+inform_wrong_info,"you are telling lie, I have completed the loan "
+inform_wrong_info,"You have misunderstood, i have different EMI"
+inform_wrong_info,"You are saying wrong, my loan is ending this year."
+inform_wrong_info,Loan amount was more than this
+inform_wrong_info,You are telling  wrong Interest
+inform_wrong_info,Tell E M I amount not principal amount
+inform_wrong_info,You are giving me wrong info
+inform_wrong_info,"My loan value is not this much, something is wrong"
+inform_wrong_info,"Which amount of E M I are you saying, I do not give this much"
+inform_wrong_info,something is wrong with this info. Please verify
+inform_wrong_info,You have given the information for the wrong account
+inform_wrong_info,"The last loan date was next month, why are you saying different?"
+inform_wrong_info,"She is giving wrong information, I have given more loan than this."
+inform_wrong_info,"you are telling me wrong, More time is left to pay for loan"
+inform_wrong_info,This was not principal amount
+inform_wrong_info,Interest won't be this much
+inform_wrong_info,Tell me the correct account number is not mine
+inform_wrong_info,You are saying wrong loan EMI
+inform_wrong_info,"This is not my name, you are telling someone's else"
+inform_wrong_info,You are telling this wrong
+inform_wrong_info,You are giving the wrong information
+inform_wrong_info,"You have written something else on the website, why are you saying wrong?"
+inform_wrong_info,you are telling the wrong emi
+inform_wrong_info,But these are wrong loan details 
+inform_wrong_info,interest rate wasn't this first. have you given wrong info?
+inform_wrong_info,What are you talking about? We have given full EMI
+inform_wrong_info,Do not give false information unnecessarily
+inform_wrong_info,You are giving me wrong info.Please recheck and come back
+inform_wrong_info,you have given wrong details regarding interest rate
+affirm,Yes will do it
+affirm,It will be done
+affirm,Oh ya sure it will be done
+affirm,okay will do it
+affirm,Sure it will be done
+affirm,Fine will do it
+affirm,I would say yes will do it
+affirm,Will do it soon
+deny,I'm not able to do
+deny,I wont do
+deny,I cannot do
+deny,I will not do
+deny,I won't be able to do
+deny,I will not be able to do it
+deny,I'm not going to do
+deny,not doing now
+deny,cant do now
+deny,i can not do now
+deny,no not doing it
+deny,"No, I have changed my mind."
+deny,"No, I do not want that."
+deny,Not at all
+deny,No chance of doing it
+deny,not possible
+deny,I don't want it
+deny,not required
+affirm,Yes Yes
+affirm,Is good
+affirm,Oh ok sir
+affirm,"Yes, I want to continue with the same account."
+affirm,I would say so
+affirm,Haha
+affirm,Okay
+affirm,"Yes, OK"
+affirm,Hmmmm
+affirm,I would say yes
+affirm,Hmmmm
+affirm,Go ahead
+affirm,Haha
+affirm,This
+affirm,Hmmmm
+affirm,correct
+affirm,Ok OK
+affirm,Yes Yes
+affirm,"Yes, OK"
+affirm,Cool
+affirm,Yes
+affirm,Oh ok sir
+affirm,"Yes, OK"
+affirm,Aha
+affirm,Ok OK
+affirm,Sure
+affirm,Fine
+affirm,Yes
+affirm,Oh ok sir
+affirm,OK then
+affirm,Okay
+affirm,O ye
+affirm,You are right
+affirm,exact
+affirm,Yes
+affirm,Cool
+affirm,Yes
+affirm,Awesome
+affirm,correct
+affirm,Yes
+affirm,Yeah
+affirm,Yes
+affirm,Okay
+affirm,Yes
+affirm,Okay
+affirm,Ok OK
+affirm,Ok OK
+affirm,Yes
+affirm,Go ahead
+affirm,correct
+affirm,Sure
+affirm,Okay
+affirm,exact
+affirm,Go ahead
+affirm,Fine
+affirm,Yes
+deny,Nothing
+deny,"No, I have changed my mind."
+deny,"No, I do not want that."
+deny,I can not
+deny,No
+deny,"No, I do not want that."
+deny,No
+deny,Nah
+deny,Nothing
+deny,I do not know
+deny,Nothing
+deny,I do not know
+deny,forget it
+deny,I do not remember
+deny,Not at all
+deny,Nah
+deny,no chance
+deny,No
+deny,No question
+deny,not possible
+deny,I can not
+deny,No No
+deny,No wait
+deny,No
+deny,Oh no baby
+deny,No
+deny,No
+deny,I do not know
+deny,no chance
+deny,No
+deny,forget it
+deny,I do not want to
+deny,no
+deny,not needed
+deny,I do not want to
+deny,Oh don't want to know
+deny,Nothing to know
+deny,I have not ordered
+deny,I don't want it
+deny,not required
+thankyou,That's enough
+thankyou,Thanks
+thankyou,Thanks
+thankyou,Thanks a lot
+thankyou,Thank you very much
+thankyou,I thank you
+thankyou,Thanks friend
+thankyou,Thanks
+thankyou,thank you
+thankyou,Thank you very much
+thankyou,thank you goodbye
+thankyou,Thanks a lot
+thankyou,thank you
+thankyou,Thank you very much
+thankyou,thank you
+thankyou,thank you goodbye
+thankyou,I thank you
+thankyou,Thank you very much
+thankyou,Thank you very much
+thankyou,thank you
+thankyou,thank for your help
+thankyou,Thank you very much
+thankyou,Thank you very much
+thankyou,Thank you
+thankyou,Thanks
+thankyou,I thank you from the bottom of my heart
+thankyou,thanks a lot
+thankyou,Thanks
+thankyou,I thank you from the bottom of my heart
+thankyou,thank you goodbye
+thankyou,thank for your help
+thankyou,thanks a lot
+thankyou,Thanks a lot
+thankyou,Thank you
+thankyou,I thank you from the bottom of my heart
+thankyou,Thanks a lot
+thankyou,Thanks
+thankyou,I am thankful. Thanks a lot
+thankyou,Thanks
+thankyou,Thanks
+thankyou,Thanks a ton
+thankyou,Thanks a lot
+thankyou,Thank you
+thankyou,Thanks friend
+thankyou,Thank you
+thankyou,thank you
+thankyou,Thanks you
+thankyou,Thanks
+thankyou,Thanks friend
+thankyou,Thanks
+thankyou,Thank you for your service
+thankyou,Thank you very much
+thankyou,thank you goodbye
+thankyou,Thanks you
+thankyou,Thanks a ton
+thankyou,I thank you from the bottom of my heart
+thankyou,Thanks a lot
+thankyou,Thanks
+thankyou,I thank you
+thankyou,thank for your help
+thankyou,Thanks a lot
+thankyou,Thank you very much
+thankyou,I thank you from the bottom of my heart
+thankyou,thanks a lot
+thankyou,Thanks you
+thankyou,thanks a lot
+thankyou,Thanks
+thankyou,Thanks you
+thankyou,Thank you
+thankyou,Thank you for your service
+thankyou,I thank you from the bottom of my heart
+thankyou,Thank you very much
+thankyou,Thanks a ton
+thankyou,Thank you for your service
+thankyou,Thank you very much
+thankyou,Thanks
+thankyou,I thank you
+thankyou,Thanks a ton
+thankyou,I am thankful. Thanks a lot
+thankyou,Thanks a lot
+thankyou,thank for your help
+thankyou,Thank you very much
+thankyou,Thank you
+thankyou,Thank you
+thankyou,Thanks you
+thankyou,I am thankful. Thanks a lot
+thankyou,thanks a lot
+thankyou,Thanks a lot
+thankyou,Thanks
+thankyou,Thank you
+thankyou,Thanks you
+thankyou,Thank you
+thankyou,I thank you
+thankyou,Thanks a lot
+thankyou,Thanks a lot
+thankyou,Thank you very much
+thankyou,Thanks a lot
+thankyou,I thank you
+thankyou,Thanks a lot
+thankyou,Thanks a ton
+thankyou,"ok, Thank you"
+thankyou,No thanks for the help
+thankyou,Yes thank you ma'am
+thankyou,No want to know nothing thanks
+thankyou,No ok want to know nothing thanks
+thankyou,No ok thanks a lot madam your
+thankyou,No ok thanks
+thankyou,No ok thank you
+thankyou,No thanks nothing to know
+thankyou,Thank you
+bye,OK Bye
+bye,bye Bye
+bye,OK Bye
+bye,Bye
+bye,Ok bye
+bye,Bye
+bye,have to go
+bye,Ba bye
+bye,bye
+bye,Take care
+bye,Thanks bye
+bye,bye Bye Bye
+bye,Cia
+bye,Bye
+bye,Bye
+bye,Ba bye
+bye,OK Bye
+bye,very long
+bye,Bye
+bye,Bye
+bye,bye
+bye,Bye
+bye,very long
+bye,bye Bye Bye
+bye,bye
+bye,bye
+bye,Kk bye
+bye,See you again soon
+bye,Bye
+bye,See you
+bye,See you again soon
+bye,Ba bye
+bye,See you later
+bye,See you later
+bye,Bye
+bye,thank you goodbye.
+bye,I have to go
+bye,Bye
+bye,thank you goodbye.
+bye,very long
+bye,Ok thank you goodbye
+bye,Kk bye
+bye,You look round
+bye,I have to go
+bye,Bye
+bye,See you later
+bye,Ok bye
+bye,Ok bye
+bye,thank you goodbye.
+bye,have to go
+bye,bye
+bye,See you!
+bye,Cia
+bye,OK Bye
+bye,Thanks bye
+bye,Bye
+bye,bye
+bye,Okay bye
+bye,Talk to you later
+bye,See you later
+bye,Take care
+bye,See you
+bye,Bye
+bye,Have a good day
+bye,Bye
+bye,thank you goodbye
+bye,Take care
+bye,Cia
+bye,bye Bye
+bye,Ok bye bye
+bye,See you again soon
+bye,very long
+bye,Have a good day
+bye,Thanks bye
+bye,Kk bye
+bye,Okay bye
+bye,OK Bye
+bye,thank you goodbye.
+bye,have to go
+bye,bye Bye
+bye,Bye
+bye,thank you goodbye
+bye,You look round
+bye,have to go
+bye,bye
+bye,thank you goodbye.
+bye,I have to go
+bye,Have a good day
+bye,Cia
+bye,I have to go
+bye,bye
+bye,Have a good day
+bye,thank you goodbye
+bye,See you
+bye,See you later
+bye,bye Bye Bye
+bye,Ok bye bye
+bye,thank you goodbye.
+bye,Ok thank you goodbye
+bye,Ba bye
+bye,Don't want to go you stop
+bye,You hang up
+bye,bye
+bye,Let's check in and contact you
+bye,Oh no we are done ok bye bye
+bye,No ok thanks bye bye
+bye,bye
+bye,Oh no thank you bye
+wait,I will tell in 2 minutes
+wait,Wait let me see
+wait,Will take some time let me see
+wait,Telling give me some time
+wait,Wait 1 second looking in the app
+wait,It will take time to find in the app wait 1 minute
+wait,Yes hold looking
+wait,To hold
+wait,You dont go I am coming
+wait,Yes holding it will check and tell
+wait,Have to find the slip
+wait,Wait look will ask and tell
+wait,Yes ok wait 1 minute
+wait,Good wait will see and tell
+wait,Ok ok will see you wait
+wait,Will take 5 minutes 
+wait,Will take some time let me see
+wait,Give me time to find 
+wait,Looking for order id wait a little
+wait,Yes wait
+wait,Stop calling the customer from another number
+wait,Hang up and ask the customer
+wait,Id don't remember will have to watch wait 1 minute 
+wait,Customer is not getting a call wait see once
+wait,Wait will call customer now
+wait,I need five minutes
+wait,5 minute hold
+wait,Let me check l'll be back
+wait,Please hold
+wait,Please wait
+wait,Please stay there im checking
+wait,Im checking please wait a little
+wait,How can I tell give me two minutes
+wait,It is not written on hand give some time
+wait,Forgot id let me see wait 1 minute
+wait,Stop for 1 minute please
+wait,Please shut up
+wait,Ok wait see
+wait,Give couple of minutes will look back and tell
+wait,Do not go anywhere I am coming
+wait,All right hold on let me check
+wait,Ok will tell 1 minute
+wait,I will do talking late they put your call on hold please stay on line
+wait,Yes one second we are giving you an order number one second
+wait,Wait 1 minute will tell
+repeat,Tell again
+repeat,I could not understand tell me again
+repeat,Say again
+repeat,"Tell once again, didn't understand"
+repeat,"Say once again, didn't understand anything"
+repeat,"Can't understand, tell once again"
+repeat,What are you saying? Speak once more
+repeat,Couldn't hear speak again
+repeat,"What did you speak?  Didn't understand, tell again"
+repeat,Could not understand tell again
+repeat,"Tell once more, I couldn't understand"
+repeat,Tell once again what you were saying
+repeat,Can you tell once again?
+repeat,I wasn't paying attention tell again
+repeat,Heard nothing say again
+repeat,Look I could not understand so tell again once
+repeat,Can you speak again? I could not understand
+repeat,Repeat what you said. I didn't understand a single thing
+repeat,Say it again. Your voice was not clear so it could not be understood
+repeat,I did not hear what you said earlier. Please repeat...
+repeat,Could not understand. Repeat once
+repeat,Tell us what you spoke again
+repeat,Repeat what you said now. I could not understand
+repeat,I failed to understand what you said. Repeat.
+repeat,You have to repeat what you said because I did not understand what you said
+repeat,Speak once again we couldn't understand anything
+repeat,I did not understand. Please repeat
+repeat,I cannot understand what you are saying. Please repeat...
+repeat,Please say once more so that I can understand
+repeat,Repeat what you explained. I failed to understand
+repeat,"I could not understand, please tell again"
+repeat,Don't understand tell me again
+repeat,Did not understand. speak again
+repeat,I could not understand what you said. Repeat
+repeat,Repeat because I have not understood what to say
+repeat,Don't know what you are saying. Repeat
+repeat,Repeat. i didn't hear
+repeat,"Could not understand, tell me again"
+repeat,you would have to repeat it as i didn't understand
+repeat,can you repeat it as i didn't understand
+ask_human_handoff,I would like to talk to customer care.
+ask_human_handoff,I want to talk to your agent
+ask_human_handoff,Connect with someone
+ask_human_handoff,Have an agent to talk to
+ask_human_handoff,Make you talk so much mind
+ask_human_handoff,There is no time yet to have an agent to talk to quickly
+ask_human_handoff,Connect with agent
+ask_human_handoff,Talk to an agent
+ask_human_handoff,No we need to talk to an agent
+ask_human_handoff,Talk to someone
+ask_human_handoff,Are any gents not free
+ask_human_handoff,An agent is free
+ask_human_handoff,If the agent is free then call forward
+ask_human_handoff,I want to talk to a human
+ask_human_handoff,I want to talk to customer care
+ask_human_handoff,Talk to a customer agent
+ask_human_handoff,Call customer care
+ask_human_handoff,I would like to talk with customer care
+ask_human_handoff,Can you pass this call to any agent?
+ask_human_handoff,It would be better to talk to customer care
+ask_human_handoff,Let me talk to some agent
+ask_human_handoff,Let me talk to somebody else
+ask_human_handoff,Can I talk to an agent?
+ask_human_handoff,I'd like to talk to an agent
+ask_human_handoff,Make me talk to an agent
+ask_human_handoff,don't want to talk to bot
+ask_human_handoff,i'd rather not talk to bot but an agent
+ask_human_handoff,I think someone from customer care can help better
+inform,1 January 2020
+inform,14 January 2020
+inform,5 June 2020
+inform,10 April 2020
+inform,March 2020
+inform,17 May 2020
+inform,11 October 2020
+inform,5 September 2022
+inform,12 Feburary
+inform,8 November
+inform,14 July 2020
+inform,16 December 2020
+inform,19 August 2020
+inform,November 10
+inform,6 August 2015
+inform,21 December 2018
+inform,4pm
+inform,3pm
+inform,11 October
+inform,13 April 2020
+inform,2 May
+inform,3 Feburary 2015
+inform,16 January 2020
+inform,16 August 2020
+inform,7 Feburary 2020
+inform,22 September 2020
+inform,12 July 2020
+inform,27 June 2020
+inform,13 November 2020
+inform,12 May 2020
+inform,16 January
+inform,12 July 2020
+inform,13 August 2018
+inform,14 May 2018
+inform,13 April 2020
+inform,16 July 2020
+inform,2 November 2020
+inform,6 July 2020
+inform,19 May 2020
+inform,20 December 2020
+inform,21 February 2018
+inform,22 October 2020
+inform,23 November 2020
+inform,14 June 2020
+inform,20 September 2020
+inform,14 December 2020
+inform,7 April 2020
+inform,23 January 2020
+inform,4 April 2020
+inform,27 May 2020
+inform,3pm
+inform,2pm tomorrow 
+inform,monday 5 pm
+inform,26 feb 7pm
+inform,tuesday 7 am
+inform,tuesday 7 in the evening
+inform,4 pm tomorrow 
+inform,3 in afternoon day after tomorrow.
+inform,10 in the morning
+inform,day after tomorrow 4 pm
+inform,yesterday at around 3 in the afternoon
+inform,tomorrow 8 pm
+inform,6 pm next week
+inform,3 pm today
+inform,4pm
+inform,8pm
+inform,6am
+inform,6.30 pm
+inform,5:30 pm tomorrow
+inform,28 march 4:30 pm
+inform,1st march 5 am
+inform,8 pm next wednesday
+inform,9:30 pm thursday 
+inform,8:45 pm saturday
+inform,sunday 3pm sharp
+inform,8 pm in the morning on 4th august
+inform,12 april 1:00 pm
+inform,21st march 7 pm
+inform,8 pm next sunday
+inform,1:30 pm today
+humiliate,you are really stupid
+humiliate,don't talk stupid
+humiliate,first learn how to talk to your boss
+humiliate,don't talk useless
+humiliate,"are you drunk bro, why are you answering like that?"
+humiliate,are you blabbering
+humiliate,you have zero sense
+humiliate,don't know who made you stupid
+humiliate,you are such a cheap company
+humiliate,useless piece of shit
+humiliate,you are also useless
+humiliate,whose face did i see today that i have to talk to you 
+humiliate,stop talking crap with me
+humiliate,will you just shutup now
+humiliate,get lost 
+humiliate,i can't tolerate your nonsense anymore
+humiliate,don't mess with my head
+humiliate,you are such a fool
+humiliate,your words are rubbish
+humiliate,you talk so much shit
+humiliate,you are a complete useless
+humiliate,seems like you don't have a brain
+humiliate,shut up!
+humiliate,you seem like an idiot
+humiliate,you talk a lot of crap
+humiliate,are you mad?
+humiliate,you are causing me a headache
+humiliate,so stupid you are
+humiliate,you are speaking nonsense now
+humiliate,you are so dumb
+humiliate,stop lecturing me 
+humiliate,you are such a big dumbass
+humiliate,you lack intellect 
+humiliate,damn you
+humiliate,go to hell
+humiliate,stop your chattering
+humiliate,i wish i could give you a smack in the face
+humiliate,stop with this bullshit now
+humiliate,you are such a disgrace 
+humiliate,you are a goofy bot
+humiliate,our 3-year-old child quickly understands
+humiliate,are you dumb?
+humiliate,you are no good
+humiliate,you are absolutely rubbish
+humiliate,how stupid one can be
+humiliate,you are frustrating me 
+humiliate,you are an idiot 
+humiliate,you are dumb
+humiliate,you are good for nothing
+humiliate,absolute disgrace you are
+humiliate,i don't need your lecture
+humiliate,you are such a disappointment
+humiliate,why are you so stupid
+humiliate,how can you  be so stupid
+humiliate,you are absolutely useless
+humiliate,you are nonsense
+humiliate,you need to shut up 
+humiliate,you can shut up
+humiliate,it's better that you shut up
+humiliate,i wish i can slap you
+humiliate,what are the people who have kept the useless thing
+humiliate,you are a goner
+humiliate,i'm not into all that stupid shit so shut up
+humiliate,can you get lost?
+humiliate,you need to fuckin shut up
+humiliate,"damn, you are really an idiot"
+humiliate,are you always this stupid?
+humiliate,you are crazy to think i'd do that
+humiliate,you are crazy
+humiliate,are you fucking kidding me?
+humiliate,you are a fucking waste of time and money
+humiliate,"for fuck's sake, shut up."
+humiliate,you don't know shit
+humiliate,such a dumbass
+humiliate,can you go to hell or do you need some help?
+humiliate,holy shit! you're stupid
+humiliate,you are a bastard
+humiliate,it's fucked up
+humiliate,son of a bitch
+humiliate,"fuck off, idiot!"
+humiliate,can you just die?
+humiliate,you are an ugly hag
+humiliate,fuck you
+humiliate,fuck off
+humiliate,"fuck it, you are of no use"
+humiliate,can you shut the fuck up?
+humiliate,you are absolutely fucked up
+humiliate,how can someone be this useless?
+humiliate,what do you know even? you are practically of no good
+humiliate,you are a prick
+humiliate,you are such a gullible idiot
+humiliate,you are such an idiot
+humiliate,this is bullshit
+humiliate,you don't have the guts 
+humiliate,you have zero guts 
+humiliate,you are a shithead
+humiliate,to hell with you
+humiliate,such a git you are
+humiliate,you are a dummy
+humiliate,what crap is it!
+humiliate,you fucked up bad
+humiliate,don't be an asshole
+humiliate,go fuck yourself
+greet,How are you
+greet,Hello
+greet,How was your day
+greet,Yo
+greet,good afternoon!
+greet,Hey dude
+greet,Hola
+greet,Hi how was your day?
+greet,Hello friend!
+greet,how!
+greet,Hi what's up?
+greet,Hello
+greet,Yo! What is happening?
+greet,Hey! How is it going?
+greet,good morning
+greet,How are you
+greet,Hello friend! top of the morning to you.
+greet,Hello
+greet,Hello. How are you
+greet,Hi
+greet,good day! How is it going?
+greet,How is it going
+greet,Hello! good morning.
+greet,how are you?
+greet,how are you brother?
+greet,Haiye
+greet,What's wrong with you?
+greet,how are you
+greet,Alas
+greet,Tell me more
+greet,What is happening ?
+greet,how are you brother?
+greet,Hi charioteer
+greet,"Hello, my friend"
+greet,how are you today?
+greet,Hey! how are you?
+greet,How is your day going
+greet,Hello how you doing
+greet,how are you?
+greet,Hi !
+greet,Hello! good morning.
+greet,This is good
+greet,How is your day going
+greet,Tell more
+greet,how are things going
+greet,What is happening ?
+greet,How do you do?
+greet,you are there
+greet,What is happening
+greet,Hey dude whats up?
+greet,Hi charioteer
+greet,Hey! How is it going?
+greet,Hello friend!
+greet,Hey how are you
+greet,Hello friend
+greet,Yo! What is happening?
+greet,Hello Friend
+greet,How is your day going
+greet,What is happening
+greet,How was your day?
+greet,How are you today?
+greet,good day! How is it going?
+greet,Hello friend
+greet,Yo! What is happening?
+greet,how are you
+greet,good morning
+greet,Hello. How are you
+greet,How is everything going?
+greet,how are you
+greet,Hello. How are you
+greet,how are you
+greet,what's going on
+greet,Hey how are you
+greet,how are things going
+greet,This is good
+greet,Hello Friend
+greet,How do you do?
+greet,how are you?
+greet,Hi good morning
+greet,How was your day
+greet,Hi
+greet,Hi friend
+greet,Hello Friend
+greet,good afternoon!
+greet,"Hey, buddy"
+greet,How was your day
+greet,Hi how was your day
+greet,Hello how you doing
+greet,Bonjour
+greet,What's wrong with you?
+greet,Hello friend!
+greet,Are you ok
+greet,Yo! What is happening?
+greet,How are you
+greet,Hello friend! How are you?
+greet,what's new?
+greet,What is happening
+greet,Evening
+greet,Hi !
+greet,How is it going
+greet,Greetings
+greet,how are you dear
+greet,And tell me how are you
+greet,Hey okay and whats up
+inform_next_availability,I can talk till 4 o'clock in the evening
+inform_next_availability,Call tomorrow at 10 am
+inform_next_availability,You talk at one o'clock in the day
+inform_next_availability,Call at 3 day after tomorrow
+inform_next_availability,"Do one thing,let's talk on the 3rd"
+inform_next_availability,Tomorrow may be around 5 p.m.
+inform_next_availability,Call at 3 tomorrow
+inform_next_availability,You'll be able to talk if you call before 12
+inform_next_availability,Call at 6
+inform_next_availability,Tell before 4 o'call on the 3rd
+inform_next_availability,Call and tell at 6 on Tuesday evening
+inform_next_availability,You can call me tomorrow at 11 am
+inform_next_availability,Call by 1 o'clock. We'll talk
+inform_next_availability,"Yes, we can tell you by calling at 5 o'clock in the evening."
+inform_next_availability,Will be free on the 16th
+inform_next_availability,Tell us before 7 pm tomorrow
+inform_next_availability,Call me tomorrow morning but before 10
+inform_next_availability,I'll be free by 8 o'clock on Monday then i can do it
+inform_next_availability,"I won't be busy on Friday, so you'll call at 7 o'clock"
+inform_next_availability,We are free tomorrow until 7 p.m.
+inform_next_availability,Will talk to you tomorrow in the morning at 12 
+inform_next_availability,Schedule calls for the 19th
+inform_next_availability,Call about 12 noon on Monday
+inform_next_availability,Make a call at any time after 3 p.m.
+inform_next_availability,Call tomorrow or day after tomorrow but before 11
+inform_next_availability,I'm free tomorrow morning so you can call
+inform_next_availability,"I'm coming back on 2nd,two days later, then you tell comfortably about it."
+inform_next_availability,"Schedule this call for 21st,Monday morning"
+inform_next_availability,I'm free in the day call me then to explain
+inform_next_availability,you keep the next call to 25th
+inform_next_availability,Call by 1 pm
+inform_next_availability,If you call in the morning then you will be able to talk
+inform_next_availability,Call me someday next week 
+inform_next_availability,Call on friday or saturday
+inform_next_availability,I will be free on Sunday then call
+inform_next_availability,"Next sunday, call me"
+inform_next_availability,Call tomorrow
+inform_next_availability,you can try once on monday
+inform_next_availability,discuss it next monday
+inform_next_availability,Call me in the evening. will be free then
+bot_unable_to_understand,i do not understand you
+bot_unable_to_understand,"brother, i am asking you, what are you saying?"
+bot_unable_to_understand,meaning you still don't understand
+bot_unable_to_understand,what's the matter with you 
+bot_unable_to_understand,"you leave, how many times i've to say"
+bot_unable_to_understand,"you don't belong to us, how are you talking"
+bot_unable_to_understand,looks like you don't
+bot_unable_to_understand,you seem not to be able to talk
+bot_unable_to_understand,you first understand my point properly and reply later
+bot_unable_to_understand,why are you repeating the same thing over and over again
+bot_unable_to_understand,your accuracy level is very low brother
+bot_unable_to_understand,have you used hindi language before?
+bot_unable_to_understand,"i am asking the same thing, why are you telling me back then?"
+bot_unable_to_understand,you do not seem to be our level of wisdom
+bot_unable_to_understand,are you talking to us only
+bot_unable_to_understand,"looks like you can only speak hindi, you cannot understand"
+bot_unable_to_understand,obey me you desperately need treatment
+bot_unable_to_understand,bot are you making fun of me?
+bot_unable_to_understand,you don't need this app
+bot_unable_to_understand,have you put people here to help
+bot_unable_to_understand,you are not able to help
+bot_unable_to_understand,don't you understand at once
+bot_unable_to_understand,hey brother why can't you understand such a small thing
+bot_unable_to_understand,"if you cannot answer such a direct question, then how will other people handle you?"
+bot_unable_to_understand,"hey its not that i am talking about the previous one, you do not understand"
+bot_unable_to_understand,"listen, you are not able to understand at all"
+bot_unable_to_understand,do you even know the answer to my question
+bot_unable_to_understand,"i don't want to talk to you, talking to you is like hitting the wall"
+bot_unable_to_understand,no no you don't understand
+bot_unable_to_understand,what am i saying and what do you understand
+bot_unable_to_understand,"hey, are you speaking, doesn't it mean anything"
+bot_unable_to_understand,you don't understand man
+bot_unable_to_understand,don't you understand
+bot_unable_to_understand,"brother, you will not be able to understand"
+bot_unable_to_understand,do you not  get it
+bot_unable_to_understand,you are misunderstood 
+bot_unable_to_understand,no no i didn't mean that
+bot_unable_to_understand,"hey brother, i said this a little differently"
+bot_unable_to_understand,no i didn't mean to speak
+bot_unable_to_understand,"no brother, you are wrong"
+bot_unable_to_understand,hey bro what am i  saying and what are you understanding
+bot_unable_to_understand,don't you understand
+bot_unable_to_understand,"you will not be able to understand, you misunderstood"
+bot_unable_to_understand,what i said you got the opposite
+bot_unable_to_understand,you could not understand me
+bot_unable_to_understand,don't you understand brother
+bot_unable_to_understand,what have you got wrong
+bot_unable_to_understand,"shared so many times, yet you did not understand"
+bot_unable_to_understand,"what happened to you, you can't understand anything"
+bot_unable_to_understand,"brother, you don't know what you think"
+bot_unable_to_understand,no no i didn't mean
+bot_unable_to_understand,"dude, you misunderstood"
+bot_unable_to_understand,i do not understand what you want to say
+bot_unable_to_understand,what do you understand so wrong?
+bot_unable_to_understand,"brother, how long have i been explaining something "
+bot_unable_to_understand,don't you understand 
+bot_unable_to_understand,"hey brother, you are not getting it"
+bot_unable_to_understand,this is not what i meant
+bot_unable_to_understand,no i don't want that
+bot_unable_to_understand,no you don't understand
+bot_unable_to_understand,since start what have i been telling you
+bot_unable_to_understand,don't you know anything
+bot_unable_to_understand,no i don't ask for this
+bot_unable_to_understand,when did i say that?
+bot_unable_to_understand,no i didn't mean to speak
+bot_unable_to_understand,you are wrong this time
+bot_unable_to_understand,"no brother, when did i say yes?"
+bot_unable_to_understand,"hey man, why don't you understand?"
+bot_unable_to_understand,what did i say and what do you understand
+bot_unable_to_understand,why have you been trying since long
+bot_unable_to_understand,no brother i didn't say that
+bot_unable_to_understand,no madam you don't understand what i mean
+bot_unable_to_understand,no no you got it wrong
+bot_unable_to_understand,"no, i did not mean it, try to understand again"
+bot_unable_to_understand,bot is not able to understand the issue
+bot_unable_to_understand,this is beyond the comprehension of the bot
+bot_unable_to_understand,you understand nothing
+bot_unable_to_understand,do you understand what i want to tell you
+bot_unable_to_understand,"saying anything, first understand me"
+bot_unable_to_understand,you don't understand anything
+bot_unable_to_understand,"what are you saying, brother?"
+bot_unable_to_understand,something confusin is happening
+bot_unable_to_understand,what did you say now
+bot_unable_to_understand,do not understand what you are trying to say
+bot_unable_to_understand,first understand
+bot_unable_to_understand,you do not understand anything
+bot_unable_to_understand,what does it mean?
+bot_unable_to_understand,you have failed to understand me.
+bot_unable_to_understand,what are you understanding
+bot_unable_to_understand,hey what did you mean brother
+bot_unable_to_understand,what are you saying bro
+bot_unable_to_understand,i'm trying but i don't understand
+bot_unable_to_understand,you don't understand boat
+bot_unable_to_understand,it's not easy i can't understand
+bot_unable_to_understand,you don't understand
+bot_unable_to_understand,it's hard to understand
+bot_unable_to_understand,this is a completely new understanding
+bot_unable_to_understand,that's not gonna happen
+bot_unable_to_understand,"explained to you 10 times, but only then you are not understanding"
+bot_unable_to_understand,don't you understand this
+bot_unable_to_understand,hey you don't understand anything stupid
+bot_unable_to_understand,you don't understand
+bot_unable_to_understand,troubled talking to you
+bot_unable_to_understand,you screwed up. do you understand anything?
+bot_unable_to_understand,hey doesn't understand what once
+bot_unable_to_understand,you don't understand once speaking
+bot_unable_to_understand,you are not able to help me
+bot_unable_to_understand,we are so upset already and you are so stupid
+bot_unable_to_understand,hey doesn't understand what is said at once
+bot_unable_to_understand,"agent, you have to do the right thing, you don't understand anything"
+bot_unable_to_understand,do you even understand hindi or not
+bot_unable_to_understand,hey we are not speaking in english understand something
+bot_unable_to_understand,"hey brother, don't you understand at once"
+bot_unable_to_understand,understand how you speak
+bot_unable_to_understand,hey you are speaking but still not understand
+bot_unable_to_understand,why don't you understand again and again
+bot_unable_to_understand,understand the same thing every time
+bot_unable_to_understand,explain something
+bot_unable_to_understand,you can't do a single thing
+bot_unable_to_understand,you won't be able to understand i get now
+bot_unable_to_understand,how long will it take to tell you something
+bot_unable_to_understand,why are you just chattering for 5 minutes and don't understand a thing
+bot_unable_to_understand,"we do not know the address of this order, what will the other order tell?"
+bot_unable_to_understand,i do not understand what to do
+bot_unable_to_understand,you are not understanding me
+bot_unable_to_understand,listen carefully first and then reply
+bot_unable_to_understand,"i wasn't saying this, what are you talking about"
+bot_unable_to_understand,are you unable to understand what i am saying?
+bot_unable_to_understand,this is not what i am saying 
+bot_unable_to_understand,seems like you are incapable of helping me
+bot_unable_to_understand,i think that you are unable to understand me
+bot_unable_to_understand,first listen to me then say your point
+bot_unable_to_understand,you can't understand me 
+bot_unable_to_understand,what you are saying has nothing to do with what i was asking
+bot_unable_to_understand,you are not helping me
+bot_unable_to_understand,sorry i can't make out what you are saying
+bot_unable_to_understand,i can't understand what you are saying
+bot_unable_to_understand,this was not what i was saying
+bot_unable_to_understand,can't you understand what i am trying to say?
+bot_unable_to_understand,first listen properly then reply
+bot_unable_to_understand,"i did not ask this, what are you saying?"
+bot_unable_to_understand,don't you understand what i want to say?
+bot_unable_to_understand,you are not helping me right now
+bot_unable_to_understand,give it up you don't understand me
+bot_unable_to_understand,i can’t make head nor tail of what you’re saying
+bot_unable_to_understand,"what are you saying, i did not ask this"
+bot_unable_to_understand,"no, that's not what i am trying to say"
+bot_unable_to_understand,don't you understand?
+bot_unable_to_understand,just leave it you can't understand what i am trying to say
+bot_unable_to_understand,i think you are confused with what i was trying to say
+bot_unable_to_understand,this isn't what i was talking about
+bot_unable_to_understand,"you understood the wrong thing, i didn't say that"
+bot_unable_to_understand,you cannot understand what i am trying to say

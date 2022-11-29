@@ -1,0 +1,20 @@
+action_endpoint:
+    url: http://srirambot.saarthi.ai/action_gujarati/webhook
+nlu:
+    url: http://localhost:12816
+nlg:
+    url: http://localhost:13816/nlg
+    
+tracker_store:
+    db: 5
+    password: sam@1234
+    type: redis
+    url: localhost
+    record_exp: 300
+
+event_broker:
+  type: pika
+  url: localhost
+  username: saarthi
+  password: analytics
+  queue: shriram-gujarati-events-queue

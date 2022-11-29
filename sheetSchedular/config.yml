@@ -1,0 +1,39 @@
+---
+type: service_account
+project_id: enhanced-bebop-235010
+private_key_id: 6095df502ed38437f61568cbb11aa2ceb5f333a4
+private_key: |
+  -----BEGIN PRIVATE KEY-----
+  MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCb3BBLXJq6HBQK
+  XZ4zy2r17FBmgXseJrkyjKLOQ58Y3KWG0r7yR1Qhu/a+W5Zt1S50XsxmF1AtT2cp
+  VtDOxayq7JU0g+kFLfDyS7sfBqUkpqxF0RJ7whmJjDarMML7J/abgTBFSFdbnesY
+  RkaDYUs8Ll4kJoBOUMhO7bCFWRP/vis5TRz74+cK5hEtcmnEOkB9hkPDQ4Il1kYn
+  QsqZd5DNHE0HvufR4LwzGohKMR0JKTpUQ3g32lKqXKS6Z375Au9F64+ZfuwgcnMz
+  Rl3CfYZnD1h6yTEZfqSP7yW9Pcz2KkpVuUA1sGLcsNU+0PI9HLPvDHE0wN14HaBL
+  6Q+jbrQnAgMBAAECggEAC5lyIQAWuwXlIlLBt/fj0Vxkxp9mSuH1sHxk9W+oHIQq
+  hLRhTGV6Lm4ihYI9cy+Fa79OYpHjmd7dJGd3CZx083eN/Y2McjuidFw/sQxs9L0h
+  +KqZpicI5xxNr6nkwo2NcRji2PuMSZ/UFxQyO6VD1L1cRkATSac1CrxUm2f78NfX
+  6SyxlWll/ymN9Ibzn1tNf2HACoppvC+YeulPbJkuvron0OgYY67PnrYB7ucKaY2f
+  C8WZDV1p7Z50u5uLD9ZcYcG+S2SprVM9S2gNR9bepwen49Q3CdcABHTLG+blxlkY
+  1hPTAfv+lQbD0ObA7EPhmjHk3OQydL3E2DENPyH8uQKBgQDWkFA2CEViKl8fDvmS
+  L8URqIUPCYaehEXcy/gxJxJev3Usv7zFISSYosfU4g9toQgN0+9zCWn6zaiKM6z6
+  jq4/ZOGJnHqwWcF4LWoS67d6qzmhcCxXCd+rZScdXqcJhPjIgW7RwLWKOTtmKIVi
+  8QNgH5ynsgaWhQbXJEfMWagW6wKBgQC59YOAgIQmLp6smdpS1avnLCFuh6mUm1UQ
+  +TGZFZEDvlmohhLXophLoDxUGwpCbFD38PEk3U++cOK27yRmnUCi0GpK1WbPlIH2
+  MRITkLzTBYVXNM6FnfliZorgbrELfm/0/K56SX0xtTO9LypCv8+/YjTJ67reJZSG
+  ObjutiOAtQKBgQCS0B5CSniHSezaSJnWQF98zK1285KsZl+TS/GgWFbGhAS+QNf+
+  nsX2tvM7JA9geR4UsB6YvSlKFmyrW96Rdw2djP6R9YMxpciu3YxGNAnQotaFM0bz
+  q2rjUQxpmTl8VwMP1xin50+Qq8aMCU/zumwP2rGLQVImrhFXJpkGJ5bPTwKBgH33
+  a47ef6YFqoKs7ZFzIDFGWZcv2pXJ6wPGaeyTCVqJ1N4thBICGDwSXQt0Da0VBnwO
+  AKvCJsSQX2Mf935zQ1eG6pmqmSxAIxEMCHysbNxdPwflw4gLjOU1JRoGoXNxwJEp
+  oV9A7MeBQX0DuBLjL+0qryugvULCHiwWacl6I+6JAoGAPvGUpEbavkGRJaYYdKWc
+  5/BmMKuObdFs1AE1GS9VUwmO+94XXnx+BeUwcFuAMxNDme3183JbzfA8aOcJlY9c
+  IhowUjq+R+WykPweyB2hrUYFcayBKy5EqEkfP2uWVY0bfsdxJT6cfNQc3n89PoHk
+  4/286w3dyI+QNRL24F4tLL4=
+  -----END PRIVATE KEY-----
+client_email: meeshodb@enhanced-bebop-235010.iam.gserviceaccount.com
+client_id: '100056326014067353608'
+auth_uri: https://accounts.google.com/o/oauth2/auth
+token_uri: https://oauth2.googleapis.com/token
+auth_provider_x509_cert_url: https://www.googleapis.com/oauth2/v1/certs
+client_x509_cert_url: https://www.googleapis.com/robot/v1/metadata/x509/meeshodb%40enhanced-bebop-235010.iam.gserviceaccount.com

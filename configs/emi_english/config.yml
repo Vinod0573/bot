@@ -1,0 +1,34 @@
+language: "xx"
+pipeline:
+- name: "SpacyNLP"
+- name: "SpacyTokenizer"
+- name: "SpacyEntityExtractor"
+- name: "SpacyFeaturizer"
+- name: "RegexFeaturizer"
+- name: "CRFEntityExtractor"
+- name: "EntitySynonymMapper"
+- name: "CountVectorsFeaturizer"
+  analyzer: "char_wb"
+  min_ngram: 1
+  max_ngram: 4
+- name: "EmbeddingIntentClassifier"
+  epochs: 500
+
+policies:
+  - name: "MappingPolicy"
+  - name: "KerasPolicy"
+    epochs: 500
+    featurizer:
+    - name: MaxHistoryTrackerFeaturizer
+      max_history: 3
+      state_featurizer:
+        - name: BinarySingleStateFeaturizer
+  - name: "MemoizationPolicy"
+    max_history: 4
+  - name: "FallbackPolicy"
+    nlu_threshold: 0.6
+    core_threshold: 0.3
+    fallback_action_name: "action_default"
+    priority: 5
+  - name: "FormPolicy"
+    priority: 4

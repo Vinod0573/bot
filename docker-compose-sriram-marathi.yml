@@ -1,0 +1,292 @@
+version: "3.4"
+
+services:
+  rasa-core-shriram-finance-marathi:
+    image: "tatisudheer/chatbot"
+    volumes:
+        - ./models:/app/models
+        - ./constants:/app/constants
+    ports:
+        - "8630:8630"
+    network_mode: "host"
+    command:
+        - -m
+        - rasa
+        - run
+        - --enable-api
+        - -m
+        - models/emi_english/emi_english_core.tar.gz
+        - --endpoints
+        - constants/emi_english/endpoints_core_marathi.yml
+        - --port
+        - "8630"
+        - -vv
+  rasa-core-shriram-finance-marathi1:
+    image: "tatisudheer/chatbot"
+    volumes:
+        - ./models:/app/models
+        - ./constants:/app/constants
+    ports:
+        - "8631:8631"
+    network_mode: "host"
+    command:
+        - -m
+        - rasa
+        - run
+        - --enable-api
+        - -m
+        - models/emi_english/emi_english_core.tar.gz
+        - --endpoints
+        - constants/emi_english/endpoints_core_marathi.yml
+        - --port
+        - "8631"
+        - -vv
+  # rasa-core-shriram-finance-marathi2:
+  #   image: "tatisudheer/chatbot"
+  #   volumes:
+  #       - ./models:/app/models
+  #       - ./constants:/app/constants
+  #   ports:
+  #       - "8632:8632"
+  #   network_mode: "host"
+  #   command:
+  #       - -m
+  #       - rasa
+  #       - run
+  #       - --enable-api
+  #       - -m
+  #       - models/emi_english/emi_english_core.tar.gz
+  #       - --endpoints
+  #       - constants/emi_english/endpoints_core_marathi.yml
+  #       - --port
+  #       - "8632"
+  #       - -vv
+  # rasa-core-shriram-finance-marathi3:
+  #   image: "tatisudheer/chatbot"
+  #   volumes:
+  #       - ./models:/app/models
+  #       - ./constants:/app/constants
+  #   ports:
+  #       - "8633:8633"
+  #   network_mode: "host"
+  #   command:
+  #       - -m
+  #       - rasa
+  #       - run
+  #       - --enable-api
+  #       - -m
+  #       - models/emi_english/emi_english_core.tar.gz
+  #       - --endpoints
+  #       - constants/emi_english/endpoints_core_marathi.yml
+  #       - --port
+  #       - "8633"
+  #       - -vv
+
+  rasa-actions-shriram-finance-marathi:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+        - ./models:/app/models
+        - ./constants:/app/constants
+        - ./actions:/app/actions
+        - ./call_logs.csv:/app/call_logs.csv
+        - ./customer_details.json:/app/customer_details.json
+        - ./customer_details_new.csv:/app/customer_details_new.csv
+        - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+        - "5630:5630"
+    network_mode: "host"
+    command:
+        - -m
+        - rasa
+        - run
+        - actions
+        - --actions
+        - actions.actions
+        - --port
+        - "5630"
+        - -vv
+  rasa-actions-shriram-finance-marathi1:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+        - ./models:/app/models
+        - ./constants:/app/constants
+        - ./actions:/app/actions
+        - ./call_logs.csv:/app/call_logs.csv
+        - ./customer_details.json:/app/customer_details.json
+        - ./customer_details_new.csv:/app/customer_details_new.csv
+        - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+        - "5631:5631"
+    network_mode: "host"
+    command:
+        - -m
+        - rasa
+        - run
+        - actions
+        - --actions
+        - actions.actions
+        - --port
+        - "5631"
+        - -vv
+  rasa-actions-shriram-finance-marathi2:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+        - ./models:/app/models
+        - ./constants:/app/constants
+        - ./actions:/app/actions
+        - ./call_logs.csv:/app/call_logs.csv
+        - ./customer_details.json:/app/customer_details.json
+        - ./customer_details_new.csv:/app/customer_details_new.csv
+        - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+        - "5632:5632"
+    network_mode: "host"
+    command:
+        - -m
+        - rasa
+        - run
+        - actions
+        - --actions
+        - actions.actions
+        - --port
+        - "5632"
+        - -vv
+  rasa-actions-shriram-finance-marathi3:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+        - ./models:/app/models
+        - ./constants:/app/constants
+        - ./actions:/app/actions
+        - ./call_logs.csv:/app/call_logs.csv
+        - ./customer_details.json:/app/customer_details.json
+        - ./customer_details_new.csv:/app/customer_details_new.csv
+        - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+        - "5633:5633"
+    network_mode: "host"
+    command:
+        - -m
+        - rasa
+        - run
+        - actions
+        - --actions
+        - actions.actions
+        - --port
+        - "5633"
+        - -vv
+  # rasa-actions-shriram-finance-marathi4:
+  #   image: "tatisudheer/chatbot"
+  #   environment:
+  #     - PYTHONUNBUFFERED=1
+  #   volumes:
+  #       - ./models:/app/models
+  #       - ./constants:/app/constants
+  #       - ./actions:/app/actions
+  #       - ./call_logs.csv:/app/call_logs.csv
+  #       - ./customer_details.json:/app/customer_details.json
+  #       - ./customer_details_new.csv:/app/customer_details_new.csv
+  #   ports:
+  #       - "5634:5634"
+  #   network_mode: "host"
+  #   command:
+  #       - -m
+  #       - rasa
+  #       - run
+  #       - actions
+  #       - --actions
+  #       - actions.actions
+  #       - --port
+  #       - "5634"
+  #       - -vv
+  # rasa-actions-shriram-finance-marathi5:
+  #   image: "tatisudheer/chatbot"
+  #   environment:
+  #     - PYTHONUNBUFFERED=1
+  #   volumes:
+  #       - ./models:/app/models
+  #       - ./constants:/app/constants
+  #       - ./actions:/app/actions
+  #       - ./call_logs.csv:/app/call_logs.csv
+  #       - ./customer_details.json:/app/customer_details.json
+  #       - ./customer_details_new.csv:/app/customer_details_new.csv
+  #   ports:
+  #       - "5635:5635"
+  #   network_mode: "host"
+  #   command:
+  #       - -m
+  #       - rasa
+  #       - run
+  #       - actions
+  #       - --actions
+  #       - actions.actions
+  #       - --port
+  #       - "5635"
+  #       - -vv
+  # rasa-actions-shriram-finance-marathi6:
+  #   image: "tatisudheer/chatbot"
+  #   environment:
+  #     - PYTHONUNBUFFERED=1
+  #   volumes:
+  #       - ./models:/app/models
+  #       - ./constants:/app/constants
+  #       - ./actions:/app/actions
+  #       - ./call_logs.csv:/app/call_logs.csv
+  #       - ./customer_details.json:/app/customer_details.json
+  #       - ./customer_details_new.csv:/app/customer_details_new.csv
+  #   ports:
+  #       - "5636:5636"
+  #   network_mode: "host"
+  #   command:
+  #       - -m
+  #       - rasa
+  #       - run
+  #       - actions
+  #       - --actions
+  #       - actions.actions
+  #       - --port
+  #       - "5636"
+  #       - -vv
+
+  app_server-shriram-finance-marathi:
+    image: "tatisudheer/chatbot"
+    volumes:
+      - ./nlu:/app/nlu
+    ports:
+      - "12716:12716"
+    network_mode: "host"
+    command:
+      - nlu/emi_english/app_marathi.py
+
+  nlg_server-shriram-finance-marathi:
+    image: "tatisudheer/chatbot"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+    - ./nlg:/app/nlg
+    - ./Sheet1.json:/app/Sheet1.json
+    ports:
+    - "13716:13716"
+    network_mode: "host"
+    command:
+    - nlg/emi_english/nlg_server_marathi.py
+
+  Orchestrator-shriram-finance-marathi:
+    image: "tatisudheer/chatbot"
+    volumes:
+    - ./Orchestrator/CZ:/app/Orchestrator/CZ
+    - ./customer_details.json:/app/customer_details.json
+    - ./handle_bulk_data.py:/app/handle_bulk_data.py
+    ports:
+    - "7716:7716"
+    network_mode: "host"
+    command:
+    - Orchestrator/CZ/orchestrator_marathi.py
+

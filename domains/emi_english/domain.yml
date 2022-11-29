@@ -1,0 +1,335 @@
+actions:
+- action_default
+- action_greet
+- action_wait
+- action_inform_schedule
+- action_ask_availability
+- action_ask_time
+- action_repeat
+- action_late_fees
+- action_ask_interest_rate
+- action_principal_amount_left
+- action_tenure_left
+- action_moratorium_period
+- action_change_emi_due_date
+- action_reduce_emi
+- action_next_due_date
+- action_no_message
+- action_balance_payment
+- action_cycle_date_issue
+- action_humiliate
+- action_ask_capability
+- action_human_handoff
+- action_noise
+- action_change_language_from_english_to_hindi
+- action_change_language
+- action_change_language_from_hindi_to_english
+- action_inform_payment_done
+- action_ask_emi_amount
+- action_customer_care_general_intents
+- action_bye
+- action_thank_you
+- action_call_later
+- action_ask_due_date
+- action_transfer_to_another_hfc
+- action_initial_message
+- action_vehicle_seized
+- action_inform_have_balance
+- action_medical_issue
+- action_technical_issue
+- action_inform_wrong_info
+- ask_emi_due_date
+- action_salary_issue
+- action_family_dispute_issue
+- action_business_loss_issue
+- action_job_loss
+- action_ask_emi_due_date
+- action_ask_next_due_date
+- action_third_party_contact
+- action_pay_via_agent
+- action_foreclosing_through_own_funds
+- action_change_account_for_deduction
+- action_pay_online
+- action_pay_via_branch
+- action_property_dispute
+- action_personal_issue
+- action_app_not_working
+- action_account_problem
+- action_branch_issue
+- action_check_bounce
+- action_will_pay_late_fee
+- action_pay_via_store
+- action_pay_via_online
+- action_insufficient_funds
+- action_death_in_family
+
+intents:
+  - initial_message:
+      triggers: action_initial_message
+  - property_dispute:
+      triggers: action_property_dispute
+  - ask_payment_link
+  - affirm
+  - deny
+  - agree_to_proceed
+  - death_in_family:
+      triggers: action_death_in_family
+  - pay_via_store:
+      triggers: action_pay_via_store
+  - pay_via_online:
+      triggers: action_pay_via_online
+  - check_bounce:
+      triggers: action_check_bounce
+  - account_not_working:
+      triggers: action_account_problem
+  - branch_issue:
+      triggers: action_branch_issue
+  - ask_partial_payment:
+      triggers: action_transfer_to_another_hfc
+  - inform
+  - diagree_to_proceed
+  - inform_wrong_info:
+      triggers: action_inform_wrong_info
+  - agree_to_pay
+  - disagree_to_pay
+  - business_loss:
+      triggers: action_business_loss_issue
+
+  - cycle_date_issue:
+      triggers: action_cycle_date_issue
+  - insufficient_funds:
+      triggers: action_insufficient_funds
+  - app_not_working:
+      triggers: action_app_not_working
+  - job_loss: 
+      triggers: action_job_loss
+  - salary_issue:
+      triggers: action_salary_issue
+  - medical_issue:
+      triggers: action_medical_issue
+  - technical_issue:
+      triggers: action_technical_issue
+  - family_dispute:
+      triggers: action_family_dispute_issue
+  - foreclosing_through_own_funds:
+      triggers: action_foreclosing_through_own_funds
+  - change_account_for_deduction:
+      triggers: action_change_account_for_deduction
+  - personal_issue:
+      triggers: action_personal_issue
+  - family_issue
+  - transfer_to_another_hfc:
+      triggers: action_transfer_to_another_hfc
+  - vehicle_seized:
+      triggers: action_vehicle_seized
+  - inform_have_balance:
+      triggers: action_inform_have_balance
+  - inform_payment_done:
+      triggers: action_inform_payment_done
+  - greet:
+      triggers: action_greet
+  - no_message:
+      triggers: action_no_message
+  - wait:
+      triggers: action_wait
+  - ask_repeat:
+      triggers: action_repeat
+  - will_pay_late_fee:
+      triggers: action_will_pay_late_fee
+  - bye:
+      triggers: action_bye
+  - thankyou:
+      triggers: action_thank_you
+  - humiliate:
+      triggers: action_humiliate
+  - inform_call_later:
+      triggers: action_call_later
+  - bot_unable_to_understand:
+      triggers: action_default
+  - ask_emi_amount:
+      triggers: action_ask_emi_amount
+  - ask_emi_due_date:
+      triggers: action_ask_emi_due_date
+  - tenure_left:
+      triggers: action_tenure_left
+  - extend_moratorium_period:
+      triggers: action_moratorium_period
+  - ask_interest_rate:
+      triggers: action_ask_interest_rate
+  - reduce_emi:
+      triggers: action_reduce_emi
+  - ask_late_fees:
+      triggers: action_late_fees
+  - change_emi_due_date:
+      triggers: action_change_emi_due_date
+  - ask_next_due_date:
+      triggers: action_ask_next_due_date
+  - ask_due_date:
+      triggers: action_ask_emi_due_date
+  - ask_human_handoff:
+      triggers: action_human_handoff
+  - ask_capability:
+      triggers: action_ask_capability
+  - noise:
+      triggers: action_no_message
+  - language_change:
+      triggers: action_change_language
+  - change_language_from_english_to_hindi:
+      triggers: action_change_language_from_english_to_hindi
+  - change_language_from_hindi_to_english:
+      triggers: action_change_language_from_hindi_to_english
+  - third_party_contact:
+      triggers: action_third_party_contact
+  - pay_via_agent:
+      triggers: action_pay_via_agent
+  - pay_online:
+      triggers: action_pay_online
+  - pay_via_branch:
+      triggers: action_pay_via_branch
+
+entities:
+  - time
+  - date
+
+slots:
+  availability_status:
+    type: unfeaturized
+  total_emi_amount:
+    type: unfeaturized
+  loan_id:
+    type: unfeaturized
+  URNNO:
+    type: unfeaturized
+  due_date:
+    type: unfeaturized
+  sheet_name:
+    type: unfeaturized
+  emi_flow:
+    type: unfeaturized
+  language:
+    type: unfeaturized
+  employee_name:
+    type: unfeaturized
+  user_id:
+    type: unfeaturized
+  account_no:
+    type: unfeaturized
+  last_unpaid_emi_date:
+    type: unfeaturized
+  count_of_days:
+    type: unfeaturized
+  total_loans:
+    type: unfeaturized
+  pay_now_status:
+    type: unfeaturized
+  pay_now_status_recheck:
+    type: unfeaturized
+  payment_status:
+    type: unfeaturized
+  stop_conversation:
+    type: unfeaturized
+  time:
+    type: unfeaturized
+  date:
+    type: unfeaturized
+  callback_date:
+    type: unfeaturized
+    auto_fill: False
+  callback_time:
+    type: unfeaturized
+    auto_fill: False
+  emi_uttered:
+    type: unfeaturized
+    initial_value: False
+  humiliate_count:
+    type: unfeaturized
+    initial_value: 0
+  welcomed:
+    type: unfeaturized
+    initial_value: False
+  number_of_queries:
+    type: unfeaturized
+    initial_value: False
+  number_of_times_date_asked:
+    type: unfeaturized
+  trail_count:
+    type: unfeaturized
+  sms_sent_count:
+    type: unfeaturized
+  payment_delay_reason:
+    type: unfeaturized
+  no_response_count:
+    type: unfeaturized
+  timestamp:
+    type: float
+  noise_count:
+    type: unfeaturized
+    initial_value: 0
+  language_confirm:
+    type: unfeaturized
+  language_recheck:
+    type: unfeaturized
+  main_flow:
+    type: unfeaturized
+  current_slot:
+    type: unfeaturized
+  ptp_date:
+    type: unfeaturized
+  payment_confirmation:
+    type: unfeaturized
+  recheck_date:
+    type: unfeaturized
+  ask_delay_reason:
+    type: unfeaturized
+  partial_payment_status:
+    type: unfeaturized
+  partial_payment:
+    type: unfeaturized
+  greet_count:
+    type: unfeaturized
+    initial_value: 0
+  user_confirmation:
+    type: unfeaturized
+  partial_amount_check:
+    type: unfeaturized
+  ask_partial_amount:
+    type: unfeaturized
+  partial_amount:
+    type: unfeaturized
+  ptp_amount_count:
+    type: unfeaturized
+    initial_value: 0
+  repeat_count:
+    type: unfeaturized
+    initial_value: 0
+  prev_message:
+    type: unfeaturized
+  default_count:
+    type: unfeaturized
+    initial_value: 0
+  wait_count:
+    type: unfeaturized
+    initial_value: 0
+  change_language_count:
+    type: unfeaturized
+    initial_value: 0
+  change_specific_language_count:
+    type: unfeaturized
+    initial_value: 0
+
+
+
+forms:
+  - language_recheck_form
+  # - post_emi_form
+  - user_confirmation_form
+  - post_emi_7_form
+  - post_emi_20_form
+  - post_emi_20+_form
+  - ptp_reminder_form
+  - sriram_pre_emi_form
+  - post_emi_7_updated_form
+  - post_emi_20_updated_form
+  - post_emi_20+_updated_form
+  - ptp_reminder_updated_form
+  - sriram_pre_emi_updated_form  

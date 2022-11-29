@@ -1,0 +1,10 @@
+POST http://localhost:7004/webhook 
+Content-Type: application/json
+
+{
+"user_id" : "9702045066",
+"request_id" : "request112789121",
+"sender" : "sendersd3esw2s3s3s23343e452",
+"message": "/pay_later"
+}
+

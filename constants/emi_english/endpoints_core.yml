@@ -1,0 +1,20 @@
+action_endpoint:
+    url: http://localhost:5030/webhook
+nlu:
+    url: http://localhost:12214
+nlg:
+    url: http://localhost:13279/nlg
+#    type: nlg.emi_english.customNLGGenerator.CustomNLGGenerator
+tracker_store:
+    db: 5
+    password: QrtfUtgtqvZ5JmQlySiqJc3PkyHttrufqAzCaMMPbNg
+    type: redis
+    url: redisengineering.redis.cache.windows.net
+    record_exp: 300
+
+# event_broker:
+#   type: pika
+#   url: localhost
+#   username: saarthi
+#   password: analytics
+#   queue: shriram-english-events-queue

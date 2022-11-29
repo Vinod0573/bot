@@ -1,0 +1,170 @@
+[
+    {
+        "Template": "utter_greet_cred",
+        "English": "Hello, I'm calling from Cred. Your EMI of Rs.{monthly_emi} is due since {emi_date}.",
+        "Hindi": "नमस्ते, मैं क्रेड से कॉल कर रही हूँ।आपकी {monthly_emi} रुपये की ईएमआई पेमेंट {emi_date} से बाकी है.",
+        "": ""
+    },
+    {
+        "Template": "utter_ask_payment_confirmation",
+        "English": "By when can you make the payment?",
+        "Hindi": "बताएं आप पेमेंट कब तक करेंगे?",
+        "": ""
+    },
+    {
+        "Template": "utter_agree_to_pay_cred",
+        "English": "Great. You can pay using the Cred App.",
+        "Hindi": "ठीक है, आप क्रेड ऍप से पेमेंट कर सकते है.",
+        "": ""
+    },
+    {
+        "Template": "utter_disagree_to_pay_cred",
+        "English": "This delay is impacting your credit score. Please arrange funds and pay your dues within a week.",
+        "Hindi": "लेट पेमेंट करने से आपका क्रेडिट स्कोर ख़राब हो रहा है. कृपया पैसे अरेंज करें और एक हफ्ते के अंदर पेमेंट कर दे.",
+        "": ""
+    },
+    {
+        "Template": "utter_dpd_less_7",
+        "English": "Ok. Please make sure you pay the amount before {ptp_day} through the Cred App.",
+        "Hindi": "ठीक है, {ptp_day} से पहले क्रेड ऍप के थ्रू पेमेंट कर दे.",
+        "": ""
+    },
+    {
+        "Template": "utter_delay_reson",
+        "English": "Can you tell me the reason for this delay?",
+        "Hindi": "मुझे लेट से पेमेंट करने का कारण बताएं।",
+        "": ""
+    },
+    {
+        "Template": "utter_payment_mode_cred",
+        "English": "Please pay the amount before {ptp_day} through the Cred App.",
+        "Hindi": "कृपया {ptp_day} से पहले क्रेड ऍप के थ्रू पेमेंट कर दे.",
+        "": ""
+    },
+    {
+        "Template": "utter_greet_multiple_cred",
+        "English": "Hello, I'm calling from Cred. Your EMI of Rs.{total_emi} across {no_of_loans} accounts is overdue.",
+        "Hindi": "नमस्ते, मैं क्रेड से कॉल कर रही हूँ।आपके {no_of_loans} अकाउंट पर {total_emi} रुपये की ईएमआई पेमेंट बाकी है.",
+        "": ""
+    },
+    {
+        "Template": "utter_thank_you",
+        "English": "Thank you, have a nice day",
+        "Hindi": "अपना समय देने के लिए धन्यवाद। आपका दिन शुभ रहे ।",
+        "": ""
+    },
+    {
+        "Template": "utter_ask_capability",
+        "English": "I'm calling from Cred regarding your EMI payment",
+        "Hindi": "मैं क्रेड से आपके ईएमआई पेमेंट के बारे में कॉल कर रही हूँ।",
+        "": ""
+    },
+    {
+        "Template": "utter_greet_again",
+        "English": "Yes, I'm listening.",
+        "Hindi": "जी हाँ। मैं सुन रही हूँ।",
+        "": ""
+    },
+    {
+        "Template": "utter_ask_delay_reason",
+        "English": "May I know the reason of delay in payment?",
+        "Hindi": "कृपया मुझे लेट पेमेंट करने का कारण बताएं।",
+        "": ""
+    },
+    {
+        "Template": "utter_apology",
+        "English": "Sorry for the inconvenience.",
+        "Hindi": "असुविधा के लिए हमें खेद है।",
+        "": ""
+    },
+    {
+        "Template": "utter_confirm_again",
+        "English": "Please confirm one more time.",
+        "Hindi": "कृपया एक बार और कन्फर्म करें।",
+        "": ""
+    },
+    {
+        "Template": "utter_agent_will_connect",
+        "English": "Thank you for your time. Our agent will call you shortly.",
+        "Hindi": "मुझे अपना समय देने के लिए धन्यवाद। हमारे एजेंट जल्दी ही आपसे संपर्क करेंगे।",
+        "": ""
+    },
+    {
+        "Template": "utter_customer_informed_wait",
+        "English": "Sure, I am waiting",
+        "Hindi": "ज़रूर, मैं वेट कर रही हूँ। ",
+        "": ""
+    },
+    {
+        "Template": "utter_call_later",
+        "English": "Thank you for your time. i will call you later",
+        "Hindi": "मुझे अपना समय देने के लिए धन्यवाद। हमारे एजेंट जल्दी ही आपसे संपर्क करेंगे।",
+        "": ""
+    },
+    {
+        "Template": "utter_user_said_thank_you",
+        "English": "I'm glad to help you.",
+        "Hindi": "आपकी सहायता करके मुझे खुशी हुई।",
+        "": ""
+    },
+    {
+        "Template": "utter_apology_call_back",
+        "English": "Apologies, I can only speak in English and Hindi at the moment. Our agents will get in touch with you. Have a nice day!",
+        "Hindi": "मुझे क्षमा करें। मैं अभी सिर्फ हिंदी और इंग्लिश में आपसे बात कर सकती हूँ। हमारे एजेंट आपसे संपर्क करेंगे। आपका दिन शुभ रहे।",
+        "": ""
+    },
+    {
+        "Template": "utter_confirm_language_support",
+        "English": "Yes, I can speak in English",
+        "Hindi": "जी हाँ, मैं हिंदी में आपसे बात कर सकता हूँ।",
+        "": ""
+    },
+    {
+        "Template": "",
+        "English": "Sorry I was not able to hear you.",
+        "Hindi": "क्षमा करें, मैं आपको सुन नहीं पाया।",
+        "": ""
+    },
+    {
+        "Template": "utter_idle_bye",
+        "English": "Since I'm unable to hear you, I am disconnecting this call.",
+        "Hindi": "मैं आपको सुन नहीं पा रही हूं, इसलिए मैं यह कॉल डिस्कनेक्ट कर रही हूं।",
+        "": ""
+    },
+    {
+        "Template": "utter_general_queries_customer_care",
+        "English": "You can visit support section of the Cred app for such queries",
+        "Hindi": "इसके लिए आप क्रेड ऍप के सपोर्ट सेक्शन में जाके बात कर सकते हैं।",
+        "": ""
+    },
+    {
+        "Template": "utter_default",
+        "English": "Pardon. I could not understand you.",
+        "Hindi": "क्षमा करें। मैं आपकी बात समझ नहीं पाया।",
+        "": ""
+    },
+    {
+        "Template": "utter_human_handoff",
+        "English": "utter_human_handoff",
+        "Hindi": "utter_human_handoff",
+        "": ""
+    },
+    {
+        "Template": "utter_bye",
+        "English": "Thank you for speaking to Cred. Have a great day!",
+        "Hindi": "क्रेड से बात करने के लिए धन्यवाद। आपका दिन शुभ रहे ।",
+        "": ""
+    },
+    {
+        "Template": "utter_audible_check",
+        "English": "am i audible to you?",
+        "Hindi": "क्या आप मुझे सुन पा रहे हैं।",
+        "": "நான் சொல்வது உங்களுக்கு கேட்கிறதா?"
+    },
+    {
+        "Template": "utter_idle",
+        "English": "Sorry I was not able to hear you.",
+        "Hindi": "क्षमा करें, मैं आपको सुन नहीं पायी।",
+        "": ""
+    }
+]

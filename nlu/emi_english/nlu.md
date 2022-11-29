@@ -1,0 +1,2025 @@
+## intent:ask_payment_link
+- could you please share the payment link again ?
+- text me the payment link.
+- where is the payment link ?
+- send me the payment link
+- can you send the payment link
+- is it possible for you to resend the payment link
+- what is the payment link?
+- i need the payment link
+- can you message the payment link 
+- whatsapp the payment link to me
+- send the link to me on my email
+- share the payment link ASAP
+- do you mind sending me the payment link
+- help me with the payment link please
+- kindly share the payment link
+- i want to pay the installment for this month.Where is the payment link?
+- where can I get the payment link ?
+- give me the payment link
+- I have been asking for the payment link since a lot of time.Send it now please
+- send the payment link on my whatsapp number
+- i need help with the payment link.Can you send it to me?
+- message me the payment link
+- i can't find the payment link. please re-send it.
+- can i get the payment link ?
+- share the payment link via email please
+- Resend  link I will pay now
+- Ping me the link will pay in sometime
+- Send me the link will pay soon
+- Message me the payment link will send it now
+- email me the payment link
+- Give me the link will pay now
+- I will pay right away just send me the payment link
+- Inbox me with the link i will do the payment
+- Remind me with the payment link i will do payment
+- Pass me the link will do it right away inform payment delay reason
+- Can you share the link to another number
+- Will remit the payment send me the link
+- Kindly send me the link.I'll pay right away
+- Please share me the link soon
+-  Where can I find the link?
+- Will you help me with the link.Please
+- Mail me the link.I will pay now
+- I'm not sure I have the link.Can you send me again
+- Do you mind sending me the payment link again?
+- Guide me through the payment link
+- How to pay? Can you help me through the payment link
+- I will make the payment right away just send me the link
+- Send me the link to my alternative number. Please.
+- How about sending me the link again?
+- Can you leave me msg along with the payment link?
+- Will you mind sharing the link to my another number
+- Can you send the link to my whatsapp?
+- Just resend the link to my number.
+
+
+## intent:pay_later
+- I will do it over the weekend
+- I'll do the payment by EOD.
+- I'll do the payment in a couple of days.
+- I'll pay the amount soon.
+- I'll make the payment by tomorrow
+- I'll pay the emi sometime this week.
+- I'll pay the installment by month-end
+- I'll make the payment in sometime
+- I'll pay the amount within 15 days
+- In office right now.I'll make the payment as soon as I am home
+- I'll pay the emi as soon as I get my salary
+- i will pay the installment by friday
+- i will pay later
+- i will pay this month's emi with the next month's installment
+- I can't pay now.I need sometime
+- it's not possible for me to pay now.I will pay by next week
+- I'll pay the installment in the next couple of hours
+- i can't pay today
+- no i won't be able to pay today.i'll pay later
+- i will not pay now.I'll do it later
+-  i am not paying now.i'll pay tomorrow
+- i will be paying later
+- sorry i can only pay in a few days
+- yes i will definately pay later
+- can't pay now
+- i am going to pay later
+- i will be paying by this month end
+- I will pay later
+- Will pay in sometime
+- Give me sometime. I'll make it soon
+- Right now I cannot.Need some more time.
+- I'll pay later.I'm out of station
+- Will make the payment very soon.
+- I may require some more time for the payment.
+- Right now it is not possible.Will try to do it soon.
+- I will make the payment as soon as possible.
+- Payment would be delayed a bit.
+- There will be delay in the payment because of personal issues.
+- I will make sure about the payment sooner or later.
+- This time payment will be late.
+- I will pay EMI a while later
+- Payment will be done next day
+- Payment would be done at a later time.
+- I will make the payment on some other day
+- Will do the payment another time
+- I will complete the payment in following few days
+- Will complete payment sooner
+- Later on will do the payment.
+- Will do the payment in following week.
+- I need a week of time for the payment
+- Will do the payment as soon as possible.
+- Will be done with the payment in a mean while
+- It will take some more time for the complete payment
+- Need a couple of days for the payment settlement
+- I would do the payment another day..
+
+
+## intent:inform_payment_delay_reason
+- I am busy with office work
+- I'm out of town right now and there is network issue here.
+- I tried making the payment but there was some network issue.
+- There was a family emergency.
+- I had a few additional expenses this time
+- I'm suffering losses in my business
+- you didn't tell me when the payment was due
+- I have changed my bank recently. So account activation will take some time
+- I lost my job recently
+- I'm not well right now
+- I don't have enough money to pay the installment
+- I had met with an accident
+- I am out of work and hence limited cashflow.
+- It completely slipped my mind.I'll do it soon
+- i thought i paid my last installment
+- i'm going through some financial problems
+- there was an expected emergency so i'm short on money right now
+- i'm in a very low network area currently
+- i don't have a job anymore
+- There was a medical emergency in my family for which I had to spend a lot of money
+- my business didn't make enough profits this month
+- couldnt arrange sufficient funds this time
+- i have blocked my account due to suspected fraud.activation of new account is taking time
+- i did not get any reminder for emi payment this month
+- i don't have the funds at the moment
+- i was on a business trip
+- I have some financial problems right now
+- salary for this month hasn't been given yet
+- Due to my salary delay I cannot pay now will pay later
+- Iam out of country I will pay once Iam back
+- Actually I lost Job so pay payment will be delayed
+- I am facing problems in business this time emi will be payed later
+- I had medical emergencies so will repay emi later
+- I am facing business downturn due to low sales so will pay later
+- Actually cannot pay this time due to finanical difficulty
+- My accounting practices has become mess causing delayed payments
+- I will pay later due to loss of job
+- I am running low in revenue due to economic crisis so will pay later
+- I have health issues so payment will be done later
+- Financially I'm not doing well so I'll do the payment later
+- I'm having family issues so payment will be delayed
+- I will pay later because I have not got the salary yet
+- I will  be paying later because something is wrong with my accounting
+- Will be making the payment later because I'm out os station
+- Due to economic breakdown I have lost job so I will make payment later
+- My card got blocked due to incorrect pin. So will make payment later
+- I have lost money due to sending to incorrect account. I'll make the payment later
+- Due to loss of job I will pay EMI later
+- I had assumed that Payment has been done already
+- I have limited cash due to more expenses
+- I'm onto changing the job so will make the payment after joining
+- I was not well and having lot of medical expenses
+- My auto debit is not working. So will make payment in sometime
+- I thought it is debit automatically from salary account
+- Did not get reminder of payment due
+- I'm out for some emrgency. Will make the payment once I'm back.
+- I'm facing financial crisis so will be making payments once I'm sorted with that.
+- Link got deleted and Couldn't reach you out.
+
+
+## intent:inform_dont_have_sms
+- No message received
+- I have not got a message 
+- i can't find the message.Can you re-send it?
+- I didnt get any message
+- I dont have the sms
+- No message found.
+- no message was delivered to me
+- I did not receive any message
+- there is no such message with me
+- you didn't send me the message ?
+- i wasn't provided with the message
+- send the sms again
+- share the message again. I lost the previous one.
+- i don't have the message.
+- i did not get your message.
+- I have not got a single text from you so far
+- I deleted the message by mistake.please re send it
+- i didn't find the message
+- i didnt get your sms
+- I cannot find the message
+- I am unable to find the message
+- Need the message. I don't have it
+- I searched for the message.Didn't find it
+- Don't have the sms
+- Did not recieve any sms regarding the payment
+- I was not notified with any payment messages
+- I did not get any sms on payment updates
+- Not finding any sms on the payment
+- I have not got any sms on that
+- No sms was delivered to me on payment
+- Couldn't find any sms about the payment
+- There is no such sms in my inbox
+- sms got deleted by mistake. Please resend
+- I have been waiting for update I have not got any notification on that
+- I haven't recieved any sms yet
+- Did you notify me with the sms?
+- I searched the Inbox no sms  was recieved
+- Are you sure u have sent me the sms
+- Don't knw why payment sms in not displaying in my Inbox
+- Searching the sms but not able to find them
+- I don't have any sms from your side
+- I'm not finding the sms please resend them
+- No sms was recieved please do send it again
+- I haven't a clue about the sms
+- I have no clue about the sms being recieved
+- I did not find the sms. Will double check Inbox once.
+- I was not left with any sms on the payment
+- I'm sure I did not get any sms from you side
+- Please resend I'm not finding the sms
+- I haven't recieved any payment sms from you
+- I haven't noticed any sms about the payment
+- Not been shared with any sms
+- I did not discover any sms from you
+- I did not see any sms on payment
+- I did not come across any sms  on payment
+
+
+## intent:inform_dont_have_payment_link
+-  I have not received the payment link yet
+- I don't have the payment link
+- Didnt get any message with the payment link
+- share the payment link please
+- can you help me with the payment link ?
+- no payment link received
+- i have not got the payment link
+- no i don't have the link
+- can't find the link. please send it again
+- this link has expired.send updated link
+- i didn't get the payment link
+- no payment link found
+- share new link.old link is not working
+- wasn't provided with the payment link
+- i did not get any link
+- I cannot find the link
+- link not found anywhere
+- payment link not received
+- not got link for payment
+- this is to inform you that I have not received payment link 
+- payment link is not there
+- no payment link with me
+- looked for the link. I can't find it
+- dont have the link
+- there is no link with me
+- no payment link
+- payment link is absent
+- no link to make payment
+- unable to find link
+- Not finding payment link
+- I dont have payment link
+- Resend the payment link
+- Reshare the payment link
+- I did not get payment link
+- message of payment link got deleted
+- Can you send the payment link again
+- Share the link again
+- Lost the shared payment link
+- I have not recieved any payment link
+- Give me the link again
+- Can you ping me with the payment link
+- I'm not having the new payment link. so share me again with the link
+- Old link is not working. I need new link
+- Not able to find the link at all
+- I did not find the email of the link
+- Provide me the link to my number
+- Redirect me with the link again
+- Send me the new link
+- I will send you the alternate number send link to that number
+- I would like to inform you that I did not get the link
+- Send me the link and notify me
+- Can u just update me with the new link
+- let me know after sending the new link
+- Previous email id is blocked so send link to the new one which I provide
+- Due to network issue I have not got the link at all.
+- Please resend the link to my mail.
+- Do share the link to the alternative number
+- Will you update me with the new link now
+
+
+## intent:inform_payment_done
+- Payment done succesfully
+- payment completed
+- I have paid the installment
+- Made the payment.Have you received it?
+- done with the payment of this month
+- Payment done.
+- i have done the payment
+- i paid the emi for this month
+- payment for this month has been completed
+- would like to inform you that i have paid the emi for this month
+- emi for this month has been transfered
+- installment for this month has been credited to you
+- can you confirm the receipt of the installment
+- transferred my EMI for this month
+- i have successfully done the payment
+- paid the necessary amount
+- Paid the EMI.
+- done the payment.please check
+- installment paid
+- EMI for this month has been paid
+- loan amount paid for this month
+- installment payment for this month is done
+- required amount has been paid.please confirm the payment
+- payment of this month's EMI is done
+- paid insallment of this month
+- payment has been done
+- completed the payment of this month
+- this is to inform you that i have paid the emi for this month.Please acknowledge
+- EMI payment is done
+- hope you have received EMI for this month
+- I have done the payment
+- I have paid the EMI
+- Successfuly done with the payment
+- I have finished paying EMI 
+- I have completed the EMI payment for this month
+- I'm done with this month installment
+- This to confirm you that payment is done
+- I would like to confirm that payment has been made
+- I have made the payment for this month
+- I had already made the payment
+- Payment is already auto-debited
+- I would like to tell you that payment is already debited
+- Payment for this month is done now
+- Would like to confirm that I have paid the EMI
+- I have transferred the EMI amount
+- I'm done with payment transfers
+- This month has been done
+- I have cleared this month's EMI
+- Payment has been cleared
+- I would like to inform you that I have cleared the payment
+- I would like to confirm you about the payment
+- I like to inform you about this month's payment clearance
+- I have done this month's payment. Have you recieved
+- Just now cleared the payment. Did you recieve?
+- I have finished with payment Can you confirm me on the same
+- Already Payment is cleared
+
+
+## intent:inform_pay_with_other_method
+- can I pay with a cheque?
+- can i do a NEFT?
+- i will pay using Gpay 
+- can I pay using some other payment method?
+- is there any other option to make the payment
+- i'm paying in cash 
+- will pay from PAYTM
+- i'm paying using phonepay upi
+- i'll come to the bank and swipe my card
+- i will submit a demand draft
+- I will pay using some other method
+- i would like to pay using paytm
+- paying via a cheque
+- using google pay to pay the money
+- will make payment using PAYTM
+- I will pay the EMI using my UPI 
+- will use PAYTM to make the payment
+- going to pay via google pay
+- making payment from my credit card
+- using paytm to pay the EMI
+- i would like to pay using google pay
+- I'll pay the installment in cash
+- I'd like to pay with my paytm wallet
+- i'd like to do a bank transfer
+- I want to pay using google pay
+- I will make the payment with a cheque
+- Will pay through net banking
+- Will make transaction from phonePay
+- Okay! will pay through UPI Id
+- I will be paying through googlePay
+- EMI will be payed from paytm
+- I'll do bank transfer for payment
+- I'll do digital transaction for payment
+
+
+## intent:inform_payment_going_on
+- i'm making the payment now
+- payment is in process
+- i have initiated the payment
+- i'm paying the emi now
+- doing the payment right now
+- i was just making the payment now
+- yes payment is going on now
+- payment has been initiated now
+- yes just started the payment process
+- i am doing the payment
+- paying now
+- paying installment now
+- making the payment now
+- payment is going on
+- doing payment now
+- paying amount right now
+- doing now
+- transfering the money now
+- started the payment now
+- I'm paying the installment
+- I have started the payment process
+- paying EMI now
+- yes paying now
+- doing the payment now
+- just transferring the amount now
+- yes i'm paying now
+- i have initiated the money transfer
+- just started the payment
+- I'm processing the payment
+- Payment is going on
+- I'm doing the payment now
+- I'll process the pament right away
+- Payment process is going on
+- I'm almost done with the payment
+- I'm  going to complete the payment in sometime
+- EMI payment is in process
+- Payment process is under completion
+- Currently working on payment process
+- I'm clearing the payment now
+- On going with the payment completion
+- Completion of payment will happen in sometime
+- Payment is to be finished in a while
+- Process of clearing the payment is going on
+- On going with the EMI payment
+- On going with the payment process
+- Will be getting the payment in sometime soon
+- Payment is going on you will get it soon
+- Process is happening it wil take a while
+- EMI payment is in progress
+- You will be recieving the payment in few minutes
+- Payment progress is happening
+- You will be getting the payment in sometine soon
+- EMI payment is being progress
+- EMI payment is on progress
+- On going with the payment process
+- you will recieve the amount soon
+- you will recive the payment in anytime today
+- Payment is progressing you will be getting in some time
+- Payment is in processing stage
+- PAyment wil be paid in sometime
+
+
+## intent:inform_issue_in_payment
+- I'm getting error while making the payment
+- unable to complete the payment
+- getting page not found error
+- the payment link has expired
+- payment page is crashing while making payment
+- Did not get OTP after entering details
+- the payment method is not getting accepted
+- incorrect link received
+- made the payment.still showing processing
+- the site is not compatible with my browser
+- no payment confirmation received
+- i keep getting Wallet payment failure
+- the payment website is down
+- payment failed
+- bank server is down
+- money was deducted but got pop up saying payment failed
+- payment page is not loading
+- page becomes unresponsive after entering payment details
+- facing network issues
+- payment link is not working
+- payment page keeps hanging
+- payment page is not responding
+- unable to link paytm wallet
+- payment processing failed
+- forgot password and could not reset it
+-  this link is not working
+- it keeps saying unable to process your request
+- i don't have proper network
+- I'm facing some issues in paying the EMI
+- Payment is getting declined
+- Not able to make the payment with the link sent by you
+- Something is wrong with the link
+- Unable to make the payment
+- Some issue in auto_debit payment
+- Unable to open the link sent
+- It showing payment failed
+- It is showing server down
+- Some issue with bank server 
+- Having some issue in the account
+- Payment got declined
+- I have done with the payment but not getting reflected
+- Not able to complete the transaction
+- i'm not able to open the link
+- Payment link is not working
+- I'm not able to proceed with the payment confirmation
+- Payment is rejected
+- Facing some link issues
+- Link is not directing for the payment
+- Payment is not happening
+- I'm not able to complete the payment
+- Some issue with the network
+- I'm facing payment issues
+- Not able to clear the payment from the given link
+- Given link is not working properly
+- Bank server is down today causing payment delay
+- Showing error if I click the link
+- Link is not directing to the payment page
+- Not getting the OTP to my number
+- Payment process is failed
+- Page is getting hanged during the process of payment
+- Have some issues in the link
+
+
+## intent:agree_to_proceed
+- Yes tell me
+- Do tell
+- I can talk
+- Speak
+- You tell me
+- Tell us more
+- Please continue speaking
+- Please keep explaining
+- I can talk to you now.
+- You tell I'm listening
+- Tell 
+- Tell me what you were saying.
+- You can speak
+- Yes tell further
+- I can talk at the moment
+- Tell me your voice is coming clear
+- Say what to tell
+- It was done. tell further
+- Yes you speak
+- Okay. next?
+- Explain further
+- You can tell
+- Tell ahead
+
+
+## intent:disagree_to_proceed
+- I am busy right now
+- don't wanna talk
+- I can't talk right now
+- Don't disturb me
+- Won't be able to talk right now
+- We don't want  to listen now
+- Now is not the right time to talk
+- I won't understand because I'm busy
+- You don't tell now because I don't have time
+- At this time I can't talk
+- Just won't talk
+- Can't talk right now
+- I won't talk right now
+- I don't want to understand right now
+- We're busy so won't be able to talk
+- I don't want to talk
+- I don't want to hear anything right now
+- Don't tell now
+- Don't tell any further
+- Can't talk
+- Can't talk now
+- I just won't talk to anyone
+- We don't want to listen further
+- Don't want to listen now
+- I'm not talking
+- It's hard to talk at the moment
+- I am busy 
+- Don't want to know at the moment
+- Don't want to talk further
+- Can't talk on call now
+- Do not want to know further
+- Don't tell now 
+- I'm busy
+- I'm busy so i disagree to continue
+- i don't want to proceed with this call
+
+
+## intent:agree_to_pay
+- We will pay it
+- I remember to pay . I will
+- I will pay according to my time
+- I will remember to pay
+- Yes i will pay
+- yes i want to pay
+- I will pay on time
+- I Have to pay. i will pay
+- will be done
+- I will pay before time
+- I will pay.
+- It will be done 
+-  Will do the payment
+- I will pay according to the dates
+- Will pay before the dates
+- I am ready to do the payment
+- We have to pay.
+- I want to pay
+- If you want i can pay now
+- I can pay immediately
+- Will pay
+- I want to pay now
+- I want to pay for it
+- I will pay
+- sure I will pay
+- i'll remember to pay
+- I said I will pay
+- I know I have to pay and I will
+- yes I will pay the emi
+- I'll remember to pay the EMI
+- I will pay
+- yes I would pay the EMI
+- I can pay
+- i'll pay right away
+- I will pay before time
+- i know the date is nearing. I will pay.
+- i'll pay in accordance to the last date
+- I will make sure to pay
+- Definitely. I will pay
+
+
+## intent:disagree_to_pay
+- I cannot pay today
+- This will not be paid
+- I cannot pay now
+- Cannot pay
+- Will not pay now
+- Will not be able to pay on the future date
+- We will not be able to pay this time
+- Do not have to pay
+- I disagree to pay
+- Will not be able to pay this time due to issues
+- Cannot pay
+- I will not pay
+- Cannot pay right now
+- This payment cannot be done
+- I cannot pay
+- I cannot pay due to reasons
+- I will do it some other time but not now
+- Will not be able to pay this payment amount
+- No money to pay
+- Payment cannot be done
+- I don't want to pay
+- Will not do
+- wont be able to pay
+- Cannot pay you  by any means
+- I can't pay
+- i won't pay now
+- I won't be able to make payments
+- I will not be able to pay this time
+- I don't think i can pay the emi
+- I am not willing to pay EMI
+- I do not want to pay
+- i will not pay the emi this month
+- I won't pay the EMI
+- I do not intend to pay the EMI
+- I don't think i can pay
+- I will not pay
+- I don't want to give EMI
+- Cannot give EMI right now
+- EMI will not be paid this time
+- I will not pay this time
+- This time will not give EMI
+
+
+## intent:ask_principal_amount
+- How much loan have I taken?
+- What is the loan amount?
+- What is the total principle amount?
+- What is my original amount?
+- How much is the principle amount?
+- Is the principle amount still left?
+- What is my principle amount?
+- Want to know the principle amount
+- How much is my principle amount 
+- Please indicate the principle amount.
+- what's the principle amount?
+- principal amount ?
+- How much principle amount is approximately?
+- How much will this principle amount be mine
+- How much more principle amount is to be given?
+- What will be the total payment of principle amount?
+- What is the principal amount to be paid?
+- Now how much will be the principal amount?
+- How much of the principle amount will I have to pay ?
+- what is the entire principle amount?
+- What will be my outstanding principle amount right now
+- What is the original amount still to be paid?
+
+
+## intent:ask_interest_rate
+- At what rate are you charging from me?
+- What is the rate of my loan
+- A little detail of interest rate
+- How much interest rate is currently being charged on my loan
+- Tell me about the interest rate which is charged for my loan
+- At what interest rate are you charging current
+- Thank you also tell us how much interest is being taken
+- I want to know about interest rate
+- Tell me about the interest 
+- How much interest is being taken in this
+- Had to ask about the interest rate
+- Will you give some information about interest rate
+- How much rate of interest is in this
+- Yes how much rate of interest
+- What is the current interest rate
+- What interest rate am i being charged
+- Can you tell me something about the current interest rate
+- What amount will I get at the current interest rate
+- What is the interest rate going on right now
+- How much my interest rate will be
+- At what interest rate are you giving a loan now
+- Need information about current interest rate
+- What is my current interest rate
+- What is the current rate of interest?
+- How much is my interest rate
+- This interest rate is currently
+- How much interest rate am I currently
+- How much or less the current rate of interest is from before
+- Where can I see the current interest rate
+- At what interest rate is the loan currently granted?
+- Wanted information about my interest rate
+- What can you tell about the current interest rate
+- What is my current interest rate
+- What is the interest rate of interest
+- When will the current interest rate change?
+- What is the interest rate for me
+- How much will the interest rate be for me
+- When can the current interest rate change
+- I had to find the interest rate
+- How to know the interest rate
+- Why is this current interest rate so high?
+- What will be the current interest rate for me
+- State the interest rate
+- Tell our current interest
+- What is my interest rate
+- Can you tell me my interest rate
+
+
+## intent:ask_payment_till_now
+- I wanted to know how much money I have given to the total so far of home loan
+- I do not remember how much amount I have been given so far… Please tell
+- How much loan have I given?
+- How much balance is left to be paid ..... I had already paid a lot for the loan
+- Please tell how much part of the loan I have paid
+- Tell balance details now
+- How much have I paid yet?
+- How much loan balance is left?
+- What is the payment balance?
+- How much have I paid?
+- How much balance to pay now?
+- How much payment I have left?
+- How much balance account is left
+- How much money have I paid?
+- I am paying today. How much more will be left to do now?
+- How much amount of loan is left to be paid?
+- How much balance is left
+- How much will the loan be left after giving today's installment?
+- How much of my loan payment is left now?
+- How much loan is unpaid now?
+- I have given the installment today how much money left to give now
+- How much loan have I paid?
+- What is the amount left for the loan
+- I will pay today how much loan will remain after that
+- How much loan have I made so far?
+- How much have I paid so far?
+- How much have I paid for Total?
+- How much money is left for the loan to end?
+- How much have I paid this including time?
+- Will you tell me the balance?
+- How much will this payment have to be made and to end the loan?
+- How much more to pay now?
+- How much money have I paid for this loan?
+- How much money have I paid for the loan so far?
+
+
+## intent:ask_next_due_date
+- When to pay next
+- What is the next date of EMI?
+- When is the next payment date?
+- What is my next payment date
+- How long to pay for the next time?
+- When to pay next month?
+- When is the next E M I date?
+- When is the next payment date?
+- When is the next date for payment?
+- When is the E M I to be given next month?
+- What is my next due date for EMI?
+- When do we have to make the next payment
+- What is the next date for payment?
+- What is the next due date for payment?
+- When is the date of payment next month?
+- What will be the next date for payment of loan amount?
+- What is the due date for this in the next two months?
+- payment has to be done next month too. till what day?
+- What is my payment date for next week?
+- Which day to pay next month?
+- When should I pay this installment next month?
+- I have not paid this time when can I do it next month?
+- Tell pay date of next month
+- How much to pay next time and when?
+- What day do I have to pay next week?
+- What is my next date to pay?
+- Do I have to pay next month too? What is the date?
+- What is the next date of repayment of this loan?
+- What is the next due date?
+- When is the next payment date?
+- when do I have to pay next?
+- next due date?
+- next payment cycle is when?
+- next emi date will be?
+- what is the next date for emi pay?
+- what's the emi payment date for next month?
+- this month's payment is done. when will it be for next month?
+- can you tell due date for next month?
+- emi due date for my loan?
+- do you know the due date for my emi?
+- whats the due date of next emi
+- next due date 
+- next emi date will be?
+- when is next emi date
+- due date of next emi 
+- whats next due date
+- when to pay next emi
+- next emi date?
+- next EMI due date
+
+
+## intent:tenure_left
+- When does the tenure end
+- How long is the tenure
+- When is the last month for the loan
+- When will the loan be over
+- How many months are left before the tenure ends
+- What is the last loan date
+- How long will the loan last
+- What is its loan tenure?
+- When is the loan going to end?
+- How much time is left for the loan to end
+- When will the loan end?
+- Till when the loan will end?
+- How long is my loan
+- What month is this loan till
+- When is the last date for this loan?
+- How much time is left for the loan tenure to end?
+- How long is the loan period?
+- How much time is left for the tenure to get over?
+- How many days are more for the loan?
+- When do i have to give a loan now
+- What is the last month of loan?
+- How many more days will the loan go
+- In what time will the loan end?
+- What time will be left for the loan tenure to end?
+- How many more days will the loan remain?
+- When will the loan end?
+- When is my loan coming to an end
+- How much time will the loan end?
+- When can you tell the loan tenure is coming to an end?
+- What will be the last month of my loan?
+- what time is left for this to over?
+- when does this loan end?
+- what amount of time is left for this loan to end?
+- what time is left for the end of the loan ?
+- when will this tenure for loan end?
+- how many months left in tenure of loan?
+- what is the time left for the loan?
+- What is the time left in the loan tenure
+- remaining loan tenure
+- what time is left on loan tenure?
+
+
+## intent:reduce_emi
+- Can  EMI be reduced
+- Can payment for EMI be reduced
+- EMI is more can it be reduced
+- How to reduce EMI
+- Please decrease the emi
+- I have to pay a lot of EMI can you reduce it
+- I can not pay this much EMI please make some changes
+- I can not pay this much EMI
+- We want to reduce the amount of EMI
+- I need a change in EMI amount
+- How low can the EMI be reduced
+- How much money can you reduce in EMI
+- The amount of EMI has been increased without any notifying change it to as much as before
+- How to lower the EMI amount?
+- EMI has to be reduced a bit
+- The EMI amount is higher. Please reduce it
+- I want to change my  EMI amount
+- Can you please reduce the EMI amount?
+- I will not be able to pay such a thick EMI. Please consider reducing it
+- What is the process of reducing EMI
+- I want my EMI to be reduced by 5%
+- I am requesting you to reduce the EMI because it is too much to pay
+- What can I do to reduce EMI
+- I request you to reduce EMI
+- Please I need modification in installment amount
+- I cannot pay such huge amount og EMI
+- Where can I request to change my EMI amount officially
+- Change my EMI amount
+- Can you reduce emi cost?
+- This is generally higher than paying as EMI. Reduce it
+- can you reduce emi?
+- the EMI amount is a lot. please lessen it
+- you will have to decrease the amount of emi
+- reduce the amount of EMI
+- I won't be able to pay so much. reduce the emi
+- emi amount is a lot for me. please reduce it 
+- you would have to reduce the emi cost for it
+- i'd like to have less EMI
+- you can reduce the EMI I think
+
+
+## intent:change_emi_due_date
+- How to change emi date
+- Need changes in EMI due date
+- Need more time for EMI
+- Where can emi date  be changed?
+- Please change EMi due date
+- I request for change in EMI due date
+- Wanted to change E M I date
+- EMI is due date is already passed out Please change the due date
+- In prior I'm notifying you that I won't be able to make payment on due date
+- I forgot the due date and it has to be payed very soon. Please change the due date
+- Can I change my E M I due date
+- Extend the EMI due date to someother time
+- Change the EMI date to some other day
+- I want E M I due dates to be changed
+- I need more time to pay the EMI. Please change the due date
+- Can you help me change the date of EMI
+- I had changed the EMI date previously. But not reflecting
+- How can I change the E M I date
+- Reschedule my EMI due date as I won't be able to pay
+- How to change emi due date
+- Can there be a date change of EMI?
+- I wont be able to make the payment so early.Please change the due date
+- How to change this E M I paying date
+- I need a change in E M I date due to corona
+- I want to shift the E M I date ahead
+- Can I have an option of changing the due date?
+- Payment cannot be done this time.Please give some extension in the due date
+- Will I be able to change EMI due date
+- Will it be possible to have some changes in due date
+- Help me out with the change in the EMI due date
+- Can you tell me the process of changing the EMI due date
+- Kindly help me out in changing the EMI due date
+- Could you please tell me how to make changes in EMI due date
+- What is the procedure for changing the EMI due date
+- It will take time to pay the E M I so change it.
+- It is not possible to make the payment. Please extend my EMI due date
+- My E M I due date has to be changed again
+- Where can I make changes to E M I due dates
+- emi due date needs to be changed
+- Can you change my EMI due to another day?
+- shift the emi date
+- emi due date is too early. please change it
+- can you change the emi date for me?
+- change the emi date to next cycle
+- i have some other bills so please change the emi due date
+- i want a change in emi due date
+- change emi due date
+
+
+## intent:ask_late_fees
+- What is the late fee?
+- Is there any fine on late payment?
+- What will be the late fee on paying late?
+- How much fine do I have to pay?
+- If the payment is late for the first time will there be any fine?
+- I wanted to know the late fees
+- How much will the late fine be this time?
+- Can you tell me how much late fee I have to pay?
+- What is the amount of late fine
+- How much is the fee for late payment?
+- what will be late fee for this
+- How much will my fine be after paying two days late?
+- How much is my fine?
+- How much is the late fees?
+- How much extra money is required to be paid after payment date?
+- What are the late charges?
+- How much is late fine?
+- I forgot to pay on time. what will be the late fees?
+- Please tell the late fees
+- Is there any late fees?
+- How long do you have to pay late fees?
+- How long can you give late fine?
+- Is late payment have extra fine?
+- Do you charge fine for paying late?
+- How much is the late fine?
+- How much late fees have to be paid
+- What will be the late fee?
+- I am few days late for payment. any late fee?
+- What if I wont  give late fee if there is any?
+- why is there late fees?
+- do you take late fees for paying EMI a day late?
+- how much late fees do I have to pay?
+- why is late fees so much?
+- cost of late fees?
+- How much will I have to pay for late fee?
+- Will late fee be charged too much?
+- How much will they charge me as late fee?
+- What if I forgot to pay late fee?
+- Will late fee cost me more?
+- How you make late fee payments?
+- Need few info on late fee?
+- How do I get info about late fee?
+- Will I be informed about late fee?
+- on what basis  late fee charges are put?
+
+
+## intent:inform_do_not_call
+- Don't call I'll see later
+- No need to call
+- Don't call again and again
+- No need to call I remember
+- don't call us now please
+- Don't call continously and disturb
+- Don't call now because I'm busy
+- I'm in the meeting so don't call
+- Don't call right now because I'm doing another job
+- Who calls so often? Don't call now
+- Stop bothering by calling us
+- Please stop making unnecessary calls
+- Let's not call any further
+- Don't call
+- You've disturbed us by calling again and again. Don't call now because we won't talk now
+- Don't call this number from now on
+- Don't call daily
+- Now not a single call should come from your side
+- Don't call for payment again and again. I remember i will pay
+- Don't call me now until tomorrow
+- Stop making these calls you guys
+- I don't want to talk further on this so don't call
+- Can you stop calling? It is disturbing
+- Can you stop calling
+- Will you stop calling? I do remember
+- Please don't call me
+- do not call me
+- Don't call me now
+- please don't call
+- Call me someother time. I'm busy now
+- do not call and disturb
+- don't call. I am in middle of other work
+- Call me later I'm busy right now
+- better don't call at his time 
+- This is not right time to discuss. call me later
+- Please call me in some other time
+- I'm at office call me later.
+
+
+## intent:inform_call_later
+- Call anytime else
+- I'll listen to you some other time 
+- Talk some other time
+- Tell it some other day
+- Call later
+- You call some other day
+- Tell some other day
+- Talk about it later someday
+- Discuss this some other time
+- Please call some more time.
+- This is not the best time to talk. Call later
+- Please call later
+- I can talk to you later.
+- I will talk later when I have time.
+- I'll talk later.
+- Call later when I'm free.
+- Call me in the evening some other day.
+- Call me in some other time because I have a meeting
+- call me in a while
+- Call some other time
+- call me later 
+- Talk about this some other time
+- Please call me at another time 
+- Call me later in the evening then we'll talk
+- Tell us about it later by calling
+- We'll talk later
+- let's talk some other time
+- let's talk some other day
+- Call me later
+- Call at a later time
+- call me later in a while
+- you can call later
+- call some time later
+- you may call in some other time
+- I'll be free later please call then
+- Please do call me later
+
+
+## intent:inform_wrong_info
+- This information is wrong
+- My monthly installment is not this much
+- You are giving wrong information
+- You are telling wrong date
+- You are telling wrong EMI
+- I have not taken the loan
+- Loan amount is not right
+- My loan is complete now
+- Loan amount was more than this
+- You are telling  wrong Interest
+- Tell E M I amount not principal amount
+- You are giving me wrong info
+- something is wrong with this info. Please verify
+- You have given the information for the wrong account
+- This was not principal amount
+- Interest won't be this much
+- Tell me the correct account number is not mine
+- You are saying wrong loan EMI
+- You are telling this wrong
+- You are giving the wrong information
+- you are telling the wrong emi
+- But these are wrong loan details 
+- interest rate wasn't this first. have you given wrong info?
+- What are you talking about? We have given full EMI
+- Do not give false information unnecessarily
+- You are giving me wrong info.Please recheck and come back
+- you have given wrong details regarding interest rate
+
+
+## intent:affirm
+- Yes will do it
+- It will be done
+- Oh ya sure it will be done
+- okay will do it
+- Sure it will be done
+- Fine will do it
+- I would say yes will do it
+- Will do it soon
+- Yes Yes
+- Is good
+- Oh ok sir
+- I would say so
+- Haha
+- Okay
+- Hmmmm
+- I would say yes
+- Hmmmm
+- Go ahead
+- Haha
+- This
+- Hmmmm
+- correct
+- Ok OK
+- Yes Yes
+- Cool
+- Yes
+- Oh ok sir
+- Aha
+- Ok OK
+- Sure
+- Fine
+- Yes
+- Oh ok sir
+- OK then
+- Okay
+- O ye
+- You are right
+- exact
+- Yes
+- Cool
+- Yes
+- Awesome
+- correct
+- Yes
+- Yeah
+- Yes
+- Okay
+- Yes
+- Okay
+- Ok OK
+- Ok OK
+- Yes
+- Go ahead
+- correct
+- Sure
+- Okay
+- exact
+- Go ahead
+- Fine
+- Yes
+
+
+## intent:deny
+- I'm not able to do
+- I wont do
+- I cannot do
+- I will not do
+- I won't be able to do
+- I will not be able to do it
+- I'm not going to do
+- not doing now
+- cant do now
+- i can not do now
+- no not doing it
+- Not at all
+- No chance of doing it
+- not possible
+- I don't want it
+- not required
+- Nothing
+- I can not
+- No
+- No
+- Nah
+- Nothing
+- I do not know
+- Nothing
+- I do not know
+- forget it
+- I do not remember
+- Not at all
+- Nah
+- no chance
+- No
+- No question
+- not possible
+- I can not
+- No No
+- No wait
+- No
+- Oh no baby
+- No
+- No
+- I do not know
+- no chance
+- No
+- forget it
+- I do not want to
+- no
+- not needed
+- I do not want to
+- Oh don't want to know
+- Nothing to know
+- I have not ordered
+- I don't want it
+- not required
+
+
+## intent:thankyou
+- That's enough
+- Thanks
+- Thanks
+- Thanks a lot
+- Thank you very much
+- I thank you
+- Thanks friend
+- Thanks
+- thank you
+- Thank you very much
+- thank you goodbye
+- Thanks a lot
+- thank you
+- Thank you very much
+- thank you
+- thank you goodbye
+- I thank you
+- Thank you very much
+- Thank you very much
+- thank you
+- thank for your help
+- Thank you very much
+- Thank you very much
+- Thank you
+- Thanks
+- I thank you from the bottom of my heart
+- thanks a lot
+- Thanks
+- I thank you from the bottom of my heart
+- thank you goodbye
+- thank for your help
+- thanks a lot
+- Thanks a lot
+- Thank you
+- I thank you from the bottom of my heart
+- Thanks a lot
+- Thanks
+- I am thankful. Thanks a lot
+- Thanks
+- Thanks
+- Thanks a ton
+- Thanks a lot
+- Thank you
+- Thanks friend
+- Thank you
+- thank you
+- Thanks you
+- Thanks
+- Thanks friend
+- Thanks
+- Thank you for your service
+- Thank you very much
+- thank you goodbye
+- Thanks you
+- Thanks a ton
+- I thank you from the bottom of my heart
+- Thanks a lot
+- Thanks
+- I thank you
+- thank for your help
+- Thanks a lot
+- Thank you very much
+- I thank you from the bottom of my heart
+- thanks a lot
+- Thanks you
+- thanks a lot
+- Thanks
+- Thanks you
+- Thank you
+- Thank you for your service
+- I thank you from the bottom of my heart
+- Thank you very much
+- Thanks a ton
+- Thank you for your service
+- Thank you very much
+- Thanks
+- I thank you
+- Thanks a ton
+- I am thankful. Thanks a lot
+- Thanks a lot
+- thank for your help
+- Thank you very much
+- Thank you
+- Thank you
+- Thanks you
+- I am thankful. Thanks a lot
+- thanks a lot
+- Thanks a lot
+- Thanks
+- Thank you
+- Thanks you
+- Thank you
+- I thank you
+- Thanks a lot
+- Thanks a lot
+- Thank you very much
+- Thanks a lot
+- I thank you
+- Thanks a lot
+- Thanks a ton
+- No thanks for the help
+- Yes thank you ma'am
+- No want to know nothing thanks
+- No ok want to know nothing thanks
+- No ok thanks a lot madam your
+- No ok thanks
+- No ok thank you
+- No thanks nothing to know
+- Thank you
+
+
+## intent:bye
+- OK Bye
+- bye Bye
+- OK Bye
+- Bye
+- Ok bye
+- Bye
+- have to go
+- Ba bye
+- bye
+- Take care
+- Thanks bye
+- bye Bye Bye
+- Cia
+- Bye
+- Bye
+- Ba bye
+- OK Bye
+- very long
+- Bye
+- Bye
+- bye
+- Bye
+- very long
+- bye Bye Bye
+- bye
+- bye
+- Kk bye
+- See you again soon
+- Bye
+- See you
+- See you again soon
+- Ba bye
+- See you later
+- See you later
+- Bye
+- thank you goodbye.
+- I have to go
+- Bye
+- thank you goodbye.
+- very long
+- Ok thank you goodbye
+- Kk bye
+- You look round
+- I have to go
+- Bye
+- See you later
+- Ok bye
+- Ok bye
+- thank you goodbye.
+- have to go
+- bye
+- See you!
+- Cia
+- OK Bye
+- Thanks bye
+- Bye
+- bye
+- Okay bye
+- Talk to you later
+- See you later
+- Take care
+- See you
+- Bye
+- Have a good day
+- Bye
+- thank you goodbye
+- Take care
+- Cia
+- bye Bye
+- Ok bye bye
+- See you again soon
+- very long
+- Have a good day
+- Thanks bye
+- Kk bye
+- Okay bye
+- OK Bye
+- thank you goodbye.
+- have to go
+- bye Bye
+- Bye
+- thank you goodbye
+- You look round
+- have to go
+- bye
+- thank you goodbye.
+- I have to go
+- Have a good day
+- Cia
+- I have to go
+- bye
+- Have a good day
+- thank you goodbye
+- See you
+- See you later
+- bye Bye Bye
+- Ok bye bye
+- thank you goodbye.
+- Ok thank you goodbye
+- Ba bye
+- Don't want to go you stop
+- You hang up
+- bye
+- Let's check in and contact you
+- Oh no we are done ok bye bye
+- No ok thanks bye bye
+- bye
+- Oh no thank you bye
+
+
+## intent:wait
+- I will tell in 2 minutes
+- Wait let me see
+- Will take some time let me see
+- Telling give me some time
+- Wait 1 second looking in the app
+- It will take time to find in the app wait 1 minute
+- Yes hold looking
+- To hold
+- You dont go I am coming
+- Yes holding it will check and tell
+- Have to find the slip
+- Wait look will ask and tell
+- Yes ok wait 1 minute
+- Good wait will see and tell
+- Ok ok will see you wait
+- Will take 5 minutes 
+- Will take some time let me see
+- Give me time to find 
+- Looking for order id wait a little
+- Yes wait
+- Stop calling the customer from another number
+- Hang up and ask the customer
+- Id don't remember will have to watch wait 1 minute 
+- Customer is not getting a call wait see once
+- Wait will call customer now
+- I need five minutes
+- 5 minute hold
+- Let me check l'll be back
+- Please hold
+- Please wait
+- Please stay there im checking
+- Im checking please wait a little
+- How can I tell give me two minutes
+- It is not written on hand give some time
+- Forgot id let me see wait 1 minute
+- Stop for 1 minute please
+- Please shut up
+- Ok wait see
+- Give couple of minutes will look back and tell
+- Do not go anywhere I am coming
+- All right hold on let me check
+- Ok will tell 1 minute
+- I will do talking late they put your call on hold please stay on line
+- Yes one second we are giving you an order number one second
+- Wait 1 minute will tell
+
+
+## intent:repeat
+- Tell again
+- I could not understand tell me again
+- Say again
+- What are you saying? Speak once more
+- Couldn't hear speak again
+- Could not understand tell again
+- Tell once again what you were saying
+- Can you tell once again?
+- I wasn't paying attention tell again
+- Heard nothing say again
+- Look I could not understand so tell again once
+- Can you speak again? I could not understand
+- Repeat what you said. I didn't understand a single thing
+- Say it again. Your voice was not clear so it could not be understood
+- I did not hear what you said earlier. Please repeat...
+- Could not understand. Repeat once
+- Tell us what you spoke again
+- Repeat what you said now. I could not understand
+- I failed to understand what you said. Repeat.
+- You have to repeat what you said because I did not understand what you said
+- Speak once again we couldn't understand anything
+- I did not understand. Please repeat
+- I cannot understand what you are saying. Please repeat...
+- Please say once more so that I can understand
+- Repeat what you explained. I failed to understand
+- Don't understand tell me again
+- Did not understand. speak again
+- I could not understand what you said. Repeat
+- Repeat because I have not understood what to say
+- Don't know what you are saying. Repeat
+- Repeat. i didn't hear
+- you would have to repeat it as i didn't understand
+- can you repeat it as i didn't understand
+
+
+## intent:ask_human_handoff
+- I would like to talk to customer care.
+- I want to talk to your agent
+- Connect with someone
+- Have an agent to talk to
+- Make you talk so much mind
+- There is no time yet to have an agent to talk to quickly
+- Connect with agent
+- Talk to an agent
+- No we need to talk to an agent
+- Talk to someone
+- Are any gents not free
+- An agent is free
+- If the agent is free then call forward
+- I want to talk to a human
+- I want to talk to customer care
+- Talk to a customer agent
+- Call customer care
+- I would like to talk with customer care
+- Can you pass this call to any agent?
+- It would be better to talk to customer care
+- Let me talk to some agent
+- Let me talk to somebody else
+- Can I talk to an agent?
+- I'd like to talk to an agent
+- Make me talk to an agent
+- don't want to talk to bot
+- i'd rather not talk to bot but an agent
+- I think someone from customer care can help better
+
+
+## intent:inform
+- 1 January 2020
+- 14 January 2020
+- 5 June 2020
+- 10 April 2020
+- March 2020
+- 17 May 2020
+- 11 October 2020
+- 5 September 2022
+- 12 Feburary
+- 8 November
+- 14 July 2020
+- 16 December 2020
+- 19 August 2020
+- November 10
+- 6 August 2015
+- 21 December 2018
+- 4pm
+- 3pm
+- 11 October
+- 13 April 2020
+- 2 May
+- 3 Feburary 2015
+- 16 January 2020
+- 16 August 2020
+- 7 Feburary 2020
+- 22 September 2020
+- 12 July 2020
+- 27 June 2020
+- 13 November 2020
+- 12 May 2020
+- 16 January
+- 12 July 2020
+- 13 August 2018
+- 14 May 2018
+- 13 April 2020
+- 16 July 2020
+- 2 November 2020
+- 6 July 2020
+- 19 May 2020
+- 20 December 2020
+- 21 February 2018
+- 22 October 2020
+- 23 November 2020
+- 14 June 2020
+- 20 September 2020
+- 14 December 2020
+- 7 April 2020
+- 23 January 2020
+- 4 April 2020
+- 27 May 2020
+- 3pm
+- 2pm tomorrow 
+- monday 5 pm
+- 26 feb 7pm
+- tuesday 7 am
+- tuesday 7 in the evening
+- 4 pm tomorrow 
+- 3 in afternoon day after tomorrow.
+- 10 in the morning
+- day after tomorrow 4 pm
+- yesterday at around 3 in the afternoon
+- tomorrow 8 pm
+- 6 pm next week
+- 3 pm today
+- 4pm
+- 8pm
+- 6am
+- 6.30 pm
+- 5:30 pm tomorrow
+- 28 march 4:30 pm
+- 1st march 5 am
+- 8 pm next wednesday
+- 9:30 pm thursday 
+- 8:45 pm saturday
+- sunday 3pm sharp
+- 8 pm in the morning on 4th august
+- 12 april 1:00 pm
+- 21st march 7 pm
+- 8 pm next sunday
+- 1:30 pm today
+
+
+## intent:humiliate
+- you are really stupid
+- don't talk stupid
+- first learn how to talk to your boss
+- don't talk useless
+- are you blabbering
+- you have zero sense
+- don't know who made you stupid
+- you are such a cheap company
+- useless piece of shit
+- you are also useless
+- whose face did i see today that i have to talk to you 
+- stop talking crap with me
+- will you just shutup now
+- get lost 
+- i can't tolerate your nonsense anymore
+- don't mess with my head
+- you are such a fool
+- your words are rubbish
+- you talk so much shit
+- you are a complete useless
+- seems like you don't have a brain
+- shut up!
+- you seem like an idiot
+- you talk a lot of crap
+- are you mad?
+- you are causing me a headache
+- so stupid you are
+- you are speaking nonsense now
+- you are so dumb
+- stop lecturing me 
+- you are such a big dumbass
+- you lack intellect 
+- damn you
+- go to hell
+- stop your chattering
+- i wish i could give you a smack in the face
+- stop with this bullshit now
+- you are such a disgrace 
+- you are a goofy bot
+- our 3-year-old child quickly understands
+- are you dumb?
+- you are no good
+- you are absolutely rubbish
+- how stupid one can be
+- you are frustrating me 
+- you are an idiot 
+- you are dumb
+- you are good for nothing
+- absolute disgrace you are
+- i don't need your lecture
+- you are such a disappointment
+- why are you so stupid
+- how can you  be so stupid
+- you are absolutely useless
+- you are nonsense
+- you need to shut up 
+- you can shut up
+- it's better that you shut up
+- i wish i can slap you
+- what are the people who have kept the useless thing
+- you are a goner
+- i'm not into all that stupid shit so shut up
+- can you get lost?
+- you need to fuckin shut up
+- are you always this stupid?
+- you are crazy to think i'd do that
+- you are crazy
+- are you fucking kidding me?
+- you are a fucking waste of time and money
+- you don't know shit
+- such a dumbass
+- can you go to hell or do you need some help?
+- holy shit! you're stupid
+- you are a bastard
+- it's fucked up
+- son of a bitch
+- can you just die?
+- you are an ugly hag
+- fuck you
+- fuck off
+- can you shut the fuck up?
+- you are absolutely fucked up
+- how can someone be this useless?
+- what do you know even? you are practically of no good
+- you are a prick
+- you are such a gullible idiot
+- you are such an idiot
+- this is bullshit
+- you don't have the guts 
+- you have zero guts 
+- you are a shithead
+- to hell with you
+- such a git you are
+- you are a dummy
+- what crap is it!
+- you fucked up bad
+- don't be an asshole
+- go fuck yourself
+
+
+## intent:greet
+- How are you
+- Hello
+- How was your day
+- Yo
+- good afternoon!
+- Hey dude
+- Hola
+- Hi how was your day?
+- Hello friend!
+- how!
+- Hi what's up?
+- Hello
+- Yo! What is happening?
+- Hey! How is it going?
+- good morning
+- How are you
+- Hello friend! top of the morning to you.
+- Hello
+- Hello. How are you
+- Hi
+- good day! How is it going?
+- How is it going
+- Hello! good morning.
+- how are you?
+- how are you brother?
+- Haiye
+- What's wrong with you?
+- how are you
+- Alas
+- Tell me more
+- What is happening ?
+- how are you brother?
+- Hi charioteer
+- how are you today?
+- Hey! how are you?
+- How is your day going
+- Hello how you doing
+- how are you?
+- Hi !
+- Hello! good morning.
+- This is good
+- How is your day going
+- Tell more
+- how are things going
+- What is happening ?
+- How do you do?
+- you are there
+- What is happening
+- Hey dude whats up?
+- Hi charioteer
+- Hey! How is it going?
+- Hello friend!
+- Hey how are you
+- Hello friend
+- Yo! What is happening?
+- Hello Friend
+- How is your day going
+- What is happening
+- How was your day?
+- How are you today?
+- good day! How is it going?
+- Hello friend
+- Yo! What is happening?
+- how are you
+- good morning
+- Hello. How are you
+- How is everything going?
+- how are you
+- Hello. How are you
+- how are you
+- what's going on
+- Hey how are you
+- how are things going
+- This is good
+- Hello Friend
+- How do you do?
+- how are you?
+- Hi good morning
+- How was your day
+- Hi
+- Hi friend
+- Hello Friend
+- good afternoon!
+- How was your day
+- Hi how was your day
+- Hello how you doing
+- Bonjour
+- What's wrong with you?
+- Hello friend!
+- Are you ok
+- Yo! What is happening?
+- How are you
+- Hello friend! How are you?
+- what's new?
+- What is happening
+- Evening
+- Hi !
+- How is it going
+- Greetings
+- how are you dear
+- And tell me how are you
+- Hey okay and whats up
+
+
+## intent:inform_next_availability
+- I can talk till 4 o'clock in the evening
+- Call tomorrow at 10 am
+- You talk at one o'clock in the day
+- Call at 3 day after tomorrow
+- Tomorrow may be around 5 p.m.
+- Call at 3 tomorrow
+- You'll be able to talk if you call before 12
+- Call at 6
+- Tell before 4 o'call on the 3rd
+- Call and tell at 6 on Tuesday evening
+- You can call me tomorrow at 11 am
+- Call by 1 o'clock. We'll talk
+- Will be free on the 16th
+- Tell us before 7 pm tomorrow
+- Call me tomorrow morning but before 10
+- I'll be free by 8 o'clock on Monday then i can do it
+- We are free tomorrow until 7 p.m.
+- Will talk to you tomorrow in the morning at 12 
+- Schedule calls for the 19th
+- Call about 12 noon on Monday
+- Make a call at any time after 3 p.m.
+- Call tomorrow or day after tomorrow but before 11
+- I'm free tomorrow morning so you can call
+- I'm free in the day call me then to explain
+- you keep the next call to 25th
+- Call by 1 pm
+- If you call in the morning then you will be able to talk
+- Call me someday next week 
+- Call on friday or saturday
+- I will be free on Sunday then call
+- Call tomorrow
+- you can try once on monday
+- discuss it next monday
+- Call me in the evening. will be free then
+
+
+## intent:bot_unable_to_understand
+- i do not understand you
+- meaning you still don't understand
+- what's the matter with you 
+- looks like you don't
+- you seem not to be able to talk
+- you first understand my point properly and reply later
+- why are you repeating the same thing over and over again
+- your accuracy level is very low brother
+- have you used hindi language before?
+- you do not seem to be our level of wisdom
+- are you talking to us only
+- obey me you desperately need treatment
+- bot are you making fun of me?
+- you don't need this app
+- have you put people here to help
+- you are not able to help
+- don't you understand at once
+- hey brother why can't you understand such a small thing
+- do you even know the answer to my question
+- no no you don't understand
+- what am i saying and what do you understand
+- you don't understand man
+- don't you understand
+- do you not  get it
+- you are misunderstood 
+- no no i didn't mean that
+- no i didn't mean to speak
+- hey bro what am i  saying and what are you understanding
+- don't you understand
+- what i said you got the opposite
+- you could not understand me
+- don't you understand brother
+- what have you got wrong
+- no no i didn't mean
+- i do not understand what you want to say
+- what do you understand so wrong?
+- don't you understand 
+- this is not what i meant
+- no i don't want that
+- no you don't understand
+- since start what have i been telling you
+- don't you know anything
+- no i don't ask for this
+- when did i say that?
+- no i didn't mean to speak
+- you are wrong this time
+- what did i say and what do you understand
+- why have you been trying since long
+- no brother i didn't say that
+- no madam you don't understand what i mean
+- no no you got it wrong
+- bot is not able to understand the issue
+- this is beyond the comprehension of the bot
+- you understand nothing
+- do you understand what i want to tell you
+- you don't understand anything
+- something confusin is happening
+- what did you say now
+- do not understand what you are trying to say
+- first understand
+- you do not understand anything
+- what does it mean?
+- you have failed to understand me.
+- what are you understanding
+- hey what did you mean brother
+- what are you saying bro
+- i'm trying but i don't understand
+- you don't understand boat
+- it's not easy i can't understand
+- you don't understand
+- it's hard to understand
+- this is a completely new understanding
+- that's not gonna happen
+- don't you understand this
+- hey you don't understand anything stupid
+- you don't understand
+- troubled talking to you
+- you screwed up. do you understand anything?
+- hey doesn't understand what once
+- you don't understand once speaking
+- you are not able to help me
+- we are so upset already and you are so stupid
+- hey doesn't understand what is said at once
+- do you even understand hindi or not
+- hey we are not speaking in english understand something
+- understand how you speak
+- hey you are speaking but still not understand
+- why don't you understand again and again
+- understand the same thing every time
+- explain something
+- you can't do a single thing
+- you won't be able to understand i get now
+- how long will it take to tell you something
+- why are you just chattering for 5 minutes and don't understand a thing
+- i do not understand what to do
+- you are not understanding me
+- listen carefully first and then reply
+- are you unable to understand what i am saying?
+- this is not what i am saying 
+- seems like you are incapable of helping me
+- i think that you are unable to understand me
+- first listen to me then say your point
+- you can't understand me 
+- what you are saying has nothing to do with what i was asking
+- you are not helping me
+- sorry i can't make out what you are saying
+- i can't understand what you are saying
+- this was not what i was saying
+- can't you understand what i am trying to say?
+- first listen properly then reply
+- don't you understand what i want to say?
+- you are not helping me right now
+- give it up you don't understand me
+- i can’t make head nor tail of what you’re saying
+- don't you understand?
+- just leave it you can't understand what i am trying to say
+- i think you are confused with what i was trying to say
+- this isn't what i was talking about
+- you cannot understand what i am trying to say
+
+
